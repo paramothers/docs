@@ -27,14 +27,14 @@
 Gen
 ===
 
-|                     |     |                                                             |     |
-|---------------------|-----|-------------------------------------------------------------|-----|
-| it is created by    |     | **Rod Johnson **at 2002                                     |     |
-|                     |     | spring is modular framework, a lot of module works together |     |
-| what Spring give us |     | DI and AOP                                                  |     |
-|                     |     | Remove boilerplate code by Template pattern and aspect      |     |
-|                     |     | Gives Power to POJOs                                        |     |
-|                     |     | declarative programming                                     |     |
+|                     |                                                             |
+|---------------------|-------------------------------------------------------------|
+| it is created by    | **Rod Johnson **at 2002                                     |
+|                     | spring is modular framework, a lot of module works together |
+| what Spring give us | DI and AOP                                                  |
+|                     | Remove boilerplate code by Template pattern and aspect      |
+|                     | Gives Power to POJOs                                        |
+|                     | declarative programming                                     |
 
 Best Practice
 =============
@@ -56,7 +56,7 @@ Best Practice
 | AOP         | have separate AOP for dao , to print the parameters from pojo, at delivery I may disable this alone                                              |
 | AOP         | Have separate AOP for service, to print the parameters from pojo, I can use any pointcut for bug analysis                                        |
 | AOP         | try to use AOP to print stack trace                                                                                                              |
-| AOP         | use â€œwithinâ€� point cut, to use when i need layer specific advice need                                                                        |
+| AOP         | use  point cut, to use when i need layer specific advice need                                                                        |
 | DAO         | At least, use interface to access dao layer, provided that service layer not having interfaces                                                   |
 |             |                                                                                                                                                  |
 |             | Dont all un necessary jar files in class path                                                                                                    |
@@ -109,15 +109,10 @@ What Spring Gives
 | By DI, Code become simpler, easier                                     |                         |
 | provide best to unit testing                                           |                         |
 
-<span style="font-weight: normal;">Spring framework has several  Bean containers.
- </span>
-=================================================================================
+**Spring framework has several  Bean containers.**
 
- <span style="font-weight: normal;">1. BeanFactory typed containers</span>
-==========================================================================
-
-<span style="font-weight: normal;"> 2. ApplicationContext typed containers </span>
-==================================================================================
+1. BeanFactory typed containers
+2. ApplicationContext typed containers 
 
 BeanFactory typed Containers
 ============================
@@ -212,9 +207,9 @@ Bean life-cycle phases
 
 6. Bean<span style="color: rgb(45, 229, 45);">PostProcessor</span>( Pre-Initialization )
 
-7. InitializingBean
+7. InitializingBean's afterPropertiesSet();
 
-8. call custom init method
+8. call custom init-method
 
 9. Bean<span style="color: rgb(45, 229, 45);">PostProcessor</span>( Post - Initialization )
 

@@ -166,6 +166,66 @@ JPA Entity Manger Factory
 Spring 4.X
 ==========
 
+Spring Context configuration annotation
+=======================================
+
+|   |  |  | |
+|---|---|---|----|
+|  spring 2.0 annotation for bean configuration. Alternative to element | @Component | value | |
+|  it is used to translate SQLException to spring exception hierarchy when JPA or Hibernate used and not using any templates of Spring | @Repository |  | |
+|  it is used to import @Bean configuration from another of @Configuration class | @Import |  | |
+|  it is used to import bean configured using xml file into java config class | @ImportResource |  | |
+|  it is used for service classes | @Service |  | |
+|   |  custom annotation with @Component annotated |  | |
+|   used when explicit configuration as alternative to auto scanning beans| @Bean | name | |
+|   | @DateTimeFormat |  | |
+|  startup context, used in Junit test | @ContextConfiguration |  | |
+|  java config instead of xml file | @Configuration |  | |
+|  package path to find spring bean | @ComponentScan | basePackages | basePackageClassess |
+|  use at constructor, setter and variable declaration |  @Autowired | required | |
+|  when ambibuity for bean type, to specify one among them |  @Primary |  | |
+|  Fine-grained auto wiring, when more than one bean possible for autowire It is Spring based and introduced at 2.5 |  @Qualifier | name | |
+|  it is spring annotation. It is alternative for 'scope' attribute of tag |  @Scope | value | proxyMode |
+|  loan the given property file from classpath and access property using Envionment object |  @PropertySource |  |  |
+
+Spring MVC, RestFul
+===================
+
+
+|   |  |  |  |  |
+|---|---|---|----|----|
+| define spring MVC controller ( like actions in struts )  | @Controller |  |  |  |
+|  method mapping in controller | @RequestMapping | method |  produces |  consumes |
+|  specify the request paramters | @RequestParam |  value | defaultValue |  |
+|   | @SessionAttriute |  |  |  |
+|   | @EnableWebMvc |  |  |  |
+|   | @EnableWebSecurity |  |  |  |
+|   | @EnableWebMvcSecurity |  |  |  |
+|   | @AuthenticationPrincipal |  |  |  |
+| introduced in spring 4.0  | @RestController |  |  |  |
+| it is used to bind URL path as parameter variables | @PathVariable |  |  |  |
+|  bypass view based rendering | @ResponseBody |  |  |  |
+|  convert HTTP data into java object | @RequestBody |  |  |  |
+|  Content-Type header | @RequestMapping | consumes | produces |  |
+|  used to map multipart request | @RequestPart |  |  |  |
+|  introduced in 3.2 version | @ExceptionHandler |  |  |  |
+|  introduced in 3.2 version |  @ControllerAdvice |  |  |  |
+|  introduced in 3.2 version | @ModelAttributes |  |  |  |
+|   | @CookieValue |  |  |  |
+|   | @RequestHeader |  |  |  |
+
+
+Spring-Profile
+===========
+
+|   |  | 
+|---|---|
+| define a bean belongs to pariticular profile, spring.profiles.default and spring.profiles.active  environment variable used  | @Profile | 
+|  it is used in integration testing along with Test Class | @ActiveProfiles | 
+|  to define bean condition rather than depends on only Profile feature | @Conditional | 
+
+
+
 <table>
 <colgroup>
 <col width="16%" />
@@ -176,170 +236,8 @@ Spring 4.X
 <col width="16%" />
 </colgroup>
 <tbody>
-<tr class="odd">
-<td align="left"><strong>Bean ( all are spring based )</strong></td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-</tr>
-<tr class="even">
-<td align="left">spring 2.0 annotation for bean configuration. Alternative to element</td>
-<td align="left">@Component</td>
-<td align="left">value</td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-</tr>
-<tr class="odd">
-<td align="left">it is used to translate SQLException to spring exception hierarchy when JPA or Hibernate used and not using any templates of Spring</td>
-<td align="left">@Repository</td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-</tr>
-<tr class="even">
-<td align="left">it is used for service classes</td>
-<td align="left">@Service</td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-</tr>
-<tr class="odd">
-<td align="left"> </td>
-<td align="left">custom annotation with @Component annotated</td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-</tr>
-<tr class="even">
-<td align="left"><span style="color: rgb(204, 102, 204);">used when explicit configuration as alternative to<br />
- auto scanning beans<br />
- </span></td>
-<td align="left">@Bean</td>
-<td align="left">name<br />
-</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-</tr>
-<tr class="odd">
-<td align="left"><br />
-</td>
-<td align="left">@DateTimeFormat</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-</tr>
-<tr class="even">
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-</tr>
-<tr class="odd">
-<td align="left">startup context</td>
-<td align="left">@ContextConfiguration</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-</tr>
-<tr class="even">
-<td align="left">java config instead of xml file</td>
-<td align="left">@Configuration</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-</tr>
-<tr class="odd">
-<td align="left">package path to find spring bean</td>
-<td align="left">@ComponentScan</td>
-<td align="left">basePackages<br />
-</td>
-<td align="left"><span style="color: rgb(51, 255, 51);">basePackageClassess</span><br />
-</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-</tr>
-<tr class="even">
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-</tr>
-<tr class="odd">
-<td align="left"><strong>wiring</strong></td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-</tr>
-<tr class="even">
-<td align="left">use at constructor, setter and variable declaration</td>
-<td align="left">@Autowired</td>
-<td align="left">required</td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-</tr>
-<tr class="odd">
-<td align="left">Fine-grained auto wiring, when more than one bean possible for autowire<br />
- It is Spring based and introduced at 2.5. So Avoid.</td>
-<td align="left">@Qualifier</td>
-<td align="left">name</td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-</tr>
-<tr class="even">
-<td align="left">I can define my qualifier like, one for Oracle DAO another for Sybase Dao class.</td>
-<td align="left">custom annotation with @Qualifier</td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-</tr>
+
+
 <tr class="odd">
 <td align="left">it is spring 3.0 annotation, used to hold Spring Expression language<br />
  . Superooo super annotation. Using Spring expression language it simplify code a lot at least access value and assiging vlaues.</td>
@@ -373,46 +271,7 @@ Spring 4.X
 <td align="left">readOnly</td>
 <td align="left"> </td>
 </tr>
-<tr class="odd">
-<td align="left"><strong>Web ( Spring MVC )</strong></td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-</tr>
-<tr class="even">
-<td align="left">define spring MVC controller ( like actions in struts )</td>
-<td align="left">@Controller</td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-</tr>
-<tr class="odd">
-<td align="left"> method mapping in controller</td>
-<td align="left">@RequestMapping</td>
-<td align="left"> method</td>
-<td align="left"> produces</td>
-<td align="left"> consumes</td>
-<td align="left"> </td>
-</tr>
-<tr class="even">
-<td align="left"> </td>
-<td align="left">@SessionAttriute</td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-</tr>
-<tr class="odd">
-<td align="left">specify the request paramters</td>
-<td align="left">@RequestParam</td>
-<td align="left"> value</td>
-<td align="left">defaultValue</td>
-<td align="left"> </td>
-<td align="left"> </td>
-</tr>
+
 <tr class="even">
 <td align="left">validate request parameters, it is Java annotation, spring 3.0 support it</td>
 <td align="left">@Valid</td>
@@ -421,168 +280,8 @@ Spring 4.X
 <td align="left"> </td>
 <td align="left"> </td>
 </tr>
-<tr class="odd">
-<td align="left"><br />
-</td>
-<td align="left">@EnableWebMvc</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-</tr>
-<tr class="even">
-<td align="left"><br />
-</td>
-<td align="left">@EnableWebSecurity</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-</tr>
-<tr class="odd">
-<td align="left"><br />
-</td>
-<td align="left">@EnableWebMvcSecurity</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-</tr>
-<tr class="even">
-<td align="left"><br />
-</td>
-<td align="left">@AuthenticationPrincipal</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-</tr>
-<tr class="odd">
-<td align="left"><table>
-<tbody>
-<tr class="odd">
-<td align="left"><strong>Web ( Spring RESFTful) 4.0<br />
-</strong></td>
-</tr>
-</tbody>
-</table></td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-</tr>
-<tr class="even">
-<td align="left">introduced in spring 4.0</td>
-<td align="left">@RestController</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-</tr>
-<tr class="odd">
-<td align="left">it is used to bind URL path as parameter variables</td>
-<td align="left">@PathVariable</td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-</tr>
-<tr class="even">
-<td align="left">bypass view based rendering</td>
-<td align="left">@ResponseBody</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-</tr>
-<tr class="odd">
-<td align="left">convert HTTP data into java object</td>
-<td align="left">@RequestBody</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-</tr>
-<tr class="even">
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-</tr>
-<tr class="odd">
-<td align="left">Content-Type header</td>
-<td align="left">@RequestMappingconsumes</td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-</tr>
-<tr class="even">
-<td align="left">Accept header</td>
-<td align="left">@RequestMappingproduces</td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-</tr>
-<tr class="odd">
-<td align="left">used to map multipart request</td>
-<td align="left">@RequestPart</td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-</tr>
-<tr class="even">
-<td align="left">introduced in 3.2 version</td>
-<td align="left">@ExceptionHandler</td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-</tr>
+
+
 <tr class="odd">
 <td align="left"><span style="font-family: sans-serif;">introduced in 3.2 version</span></td>
 <td align="left">@InitBuilder</td>
@@ -591,22 +290,7 @@ Spring 4.X
 <td align="left"> </td>
 <td align="left"> </td>
 </tr>
-<tr class="even">
-<td align="left"><span style="font-family: sans-serif;">introduced in 3.2 version</span></td>
-<td align="left">@ControllerAdvice</td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-</tr>
-<tr class="odd">
-<td align="left"><span style="font-family: sans-serif;">introduced in 3.2 version</span></td>
-<td align="left">@ModelAttributes</td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-</tr>
+
 <tr class="even">
 <td align="left"> </td>
 <td align="left">@MatrixVariable</td>
@@ -615,22 +299,7 @@ Spring 4.X
 <td align="left"> </td>
 <td align="left"> </td>
 </tr>
-<tr class="odd">
-<td align="left"> </td>
-<td align="left">@CookieValue</td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-</tr>
-<tr class="even">
-<td align="left"> </td>
-<td align="left">@RequestHeader</td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-</tr>
+
 <tr class="odd">
 <td align="left"><strong>Schedule – annotation</strong></td>
 <td align="left"> </td>
@@ -704,14 +373,7 @@ Spring 4.X
 <td align="left"> </td>
 <td align="left"> </td>
 </tr>
-<tr class="even">
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-</tr>
+
 <tr class="odd">
 <td align="left"><strong>Spring 3.0 Junit 4.5 – annotation</strong></td>
 <td align="left"> </td>
@@ -720,16 +382,7 @@ Spring 4.X
 <td align="left"> </td>
 <td align="left"> </td>
 </tr>
-<tr class="even">
-<td align="left"><br />
-</td>
-<td align="left"><br />
-</td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-</tr>
+
 <tr class="odd">
 <td align="left">Define default transaction parameters for the class</td>
 <td align="left">@TransactionConfiguration</td>
@@ -818,30 +471,8 @@ Spring 4.X
 <td align="left"> </td>
 <td align="left"> </td>
 </tr>
-<tr class="even">
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-</tr>
-<tr class="odd">
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-</tr>
-<tr class="even">
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-</tr>
+
+
 <tr class="odd">
 <td align="left"> </td>
 <td align="left">@ConstructorProperties</td>
@@ -858,22 +489,8 @@ Spring 4.X
 <td align="left"> </td>
 <td align="left"> </td>
 </tr>
-<tr class="odd">
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-</tr>
-<tr class="even">
-<td align="left"> </td>
-<td align="left">@Scope</td>
-<td align="left">value</td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left">it is spring annotation. It is alternative for 'scope' attribute of tag</td>
-</tr>
+
+
 <tr class="odd">
 <td align="left"> </td>
 <td align="left">@Configurable</td>
@@ -890,54 +507,8 @@ Spring 4.X
 <td align="left"> </td>
 <td align="left"> </td>
 </tr>
-<tr class="odd">
-<td align="left"> </td>
-<td align="left">@ImportResource</td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-</tr>
-<tr class="even">
-<td align="left">Profiles</td>
-<td align="left"><p>@Profiles</p></td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-</tr>
-<tr class="odd">
-<td align="left"> </td>
-<td align="left">@ActiveProfiles</td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-</tr>
-<tr class="even">
-<td align="left"> </td>
-<td align="left">@Conditional</td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-</tr>
-<tr class="odd">
-<td align="left"> </td>
-<td align="left">@Primary</td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-</tr>
-<tr class="even">
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-</tr>
+
+
 </tbody>
 </table>
 
@@ -1169,11 +740,7 @@ Struts 2.1
 JAX-WS 2.1
 ==========
 
- 
- 
- 
- 
- ![](Paramannotations_html_c5277679.png)
+
  
  
  

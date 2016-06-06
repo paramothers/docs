@@ -3,7 +3,7 @@
 
 1. Ext.define() -  to define a class
 2. Ext.create() - to create object to a class
-3. Ext.apply()
+3. Ext.apply().
 4. Ext.require() - specify the required class
 5. Ext.onReady() alias to Ext.EventManager.onDocumentReady();
 6. Ext.get() - to get a element reference by id.
