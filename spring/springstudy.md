@@ -237,14 +237,25 @@ Bean life-cycle phases
 API - AOP
 =========
 
+ AOP programming in spring possible in  three ways
+ 
+ 1. Clasic method use of java API
+ 2. Declarative using XML aop: namespace
+ 3. Annotated using AspectJ annotation. ( i prefer this only )
+
+ + Aspect 
+  - Advice - logging logic, security logic
+  - Joinpoints  - methods, variable access
+  - pointcuts - identify methods to be woweven with advice. usaully regular expression
+
 |     |                                                          |                                    |                                   |                                                                            |
 |-----|----------------------------------------------------------|------------------------------------|-----------------------------------|----------------------------------------------------------------------------|
 |     | JointPoint                                               |                                    |                                   | used with @Before, @After, @AfterThrowing annotation                       |
 |     |                                                          | ProceedingJointPoint               |                                   | used with @Around annotation                                               |
 |     |                                                          |                                    |                                   |                                                                            |
-|     | it is classic spring AOP API. But we prefere to          
-        Either XML or Annotation .it may help to understand      
-        What is happing in behind the scene. Otherwise no need.  |                                    |                                   |                                                                            |
+|     | it is classic spring AOP API. But we prefere to          |  | | |
+|     |  Either XML or Annotation .it may help to understand      | | | |
+|     |  What is happing in behind the scene. Otherwise no need.  |                                    |                                   |                                                                            |
 |     |                                                          |                                    |                                   |                                                                            |
 |     | ProxyFactory                                             |                                    |                                   |                                                                            |
 |     |                                                          | DefaultAopProxyFactory             |                                   |                                                                            |
