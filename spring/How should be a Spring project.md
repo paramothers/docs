@@ -6,3 +6,4 @@
 5. Have as many as configuration files in separate config package
 6. use of AOP, for at least logger entry-exit statements using AspectJ annotations.
 7. Test cases for each controller or each service bean.
+8. create custom annotation as complements of spring specific annotation.

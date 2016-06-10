@@ -2,6 +2,8 @@
 Spring 4.X
 ==========
 
+https://devotter.com/converter
+
 Spring Context configuration annotation
 =======================================
 
@@ -61,7 +63,12 @@ Spring-Profile
 |  it is used in integration testing along with Test Class | @ActiveProfiles | 
 |  to define bean condition rather than depends on only Profile feature | @Conditional | 
 
+Transaction Handling
+============
 
+|   |   |   |   |   |   |   |   | 
+|---|---|---|---|---|---|---|---|
+| it is spring annotation, used for specify a method or entire class itself to be a part of transaction, it is introduced in spring 2.0 itself  | @Transactional  | propgation  | isolation  | timeout  |  noRollbackfor |  Rollbackfor |  readOnly | 
 
 <table>
 <colgroup>
@@ -76,30 +83,6 @@ Spring-Profile
 
 
 
-<tr class="even">
-<td align="left"><strong>Transaction</strong></td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left"> </td>
-</tr>
-<tr class="odd">
-<td align="left">it is spring annotation, used for specify a method or entire class itself to be a part of transaction, it is introduced in spring 2.0 itself</td>
-<td align="left">@Transactional</td>
-<td align="left">propgation</td>
-<td align="left">isolation</td>
-<td align="left">timeout</td>
-<td align="left"> </td>
-</tr>
-<tr class="even">
-<td align="left"> </td>
-<td align="left"> </td>
-<td align="left">noRollbackfor</td>
-<td align="left">Rollbackfor</td>
-<td align="left">readOnly</td>
-<td align="left"> </td>
-</tr>
 
 <tr class="even">
 <td align="left">validate request parameters, it is Java annotation, spring 3.0 support it</td>
@@ -381,10 +364,10 @@ AspectJ annotation
 | **AOP ( These annotation from ASPECTJ , NOT FROM SPRING, but spring gives implementation for them )**                                                 |                  |           |             |          |
 | used tell a class for Aspect = pointcut + advices                                                                                                     
   It just marker to proxy to be created for this class                                                                                                  | @Aspect          |           |             |          |
-| used to define pointcut and share among many advice annotation.                                                                                       | @Pointcut        |           |             |          |
+| used to define pointcut and share among many advice annotation, when pointcut are repeating.                                                                                       | @Pointcut        |           |             |          |
 | it used to say a advice should execute before to joint point                                                                                          | @Before          | returning | argNames    |          |
 | used for AOP programming prior to Spring 2.0                                                                                                          | @AfterReturning  | throwing  | argNames    | pointcut |
 | used to say after throwing advice                                                                                                                     | @AfterThrowing   |           |             |          |
 | it is like finally block in java code. This advice execute regardless of method executed or throwed some exception.we use this to close any resources | @After           |           |             |          |
 | it is best for Transaction management. It is executed even if it got exception                                                                        | @Around          |           |             |          |
-| introducing method in existing bean, support multiple Inheritance ( introduce by Spring )                                                             | @DeclaredParents | value     | defaultImpl |          |
+| introducing  new method in existing bean, support multiple Inheritance ( introduce by Spring )                                                             | @DeclaredParents | value     | defaultImpl |          |
