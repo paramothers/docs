@@ -36,47 +36,35 @@ command Options
 | gradle task syntax                                                   | gradle |                          |                         |
 | to display the all the commad line options                           |        | –help                    |                         |
 | show particular task usage detail                                    |        | -help –task &lt;task&gt; |                         |
-|                                                                      |        |                          |                         |
 | to execlude a task, and its dependent task also                      |        | -x                       | &lt;taskName&gt;        |
 | give command line option of Gradle command                           |        | -?/-h/--help             |                         |
 | to specify build file name explicitly                                |        | -b/--build-file          | &lt;build file name&gt; |
 | run the build in offline                                             |        | --offline                |                         |
-|                                                                      |        |                          |                         |
 | to add system variabe                                                |        | -D/--system-prop         |                         |
 | add custom propeties                                                 |        | -p/--project-prop        |                         |
-|                                                                      |        |                          |                         |
 | to run a particular task in quite mode, only sysout are coming out   |        | -q                       | &lt;taskName&gt;        |
 | it give more logs                                                    |        | -i/--info                |                         |
 | give about track trace                                               |        | -s/--stacktrace          |                         |
-|                                                                      |        |                          |                         |
 | to run gradle jvm process as deamon                                  |        | --deamon                 |                         |
 | run build as non-deamon                                              |        | --no-deamon              |                         |
 | stop deamon gradle process                                           |        | --stop                   |                         |
-|                                                                      |        |                          |                         |
 | run build in offline mode                                            |        | --offline                |                         |
 |                                                                      |        | --refresh-dependencies   |                         |
-|                                                                      |        |                          |                         |
 |                                                                      |        | -u/--no-search-upword    |                         |
 |                                                                      |        | -c/settings-file         |                         |
-|                                                                      |        |                          |                         |
+| To force to run the all the sequential task, though it up-to-date    |        | --rerun-tasks            |                         |
 | partial build                                                        |        | -a/--no-rebuild          |                         |
-|                                                                      |        |                          |                         |
 | show as much as possible errors in build file                        |        | --continue               |                         |
-|                                                                      |        |                          |                         |
 | display all the subproject of multi-module project                   |        | --projects               |                         |
-|                                                                      |        |                          |                         |
 |                                                                      |        | -profile                 |                         |
-|                                                                      |        |                          |                         |
 | to Gui view for build file, it is really useful as a tool for gradle |        | -gui                     |                         |
 | force to compile script, though it can use from cache                |        | --recompile-scripts      |                         |
 
-Tasks
-=====
+Gradle Built-in Tasks
+=====================
 
-|                                                         |                         |             |
+|   **description**        |     **Built in Tasks Nam3**                    |     **options**        |
 |---------------------------------------------------------|-------------------------|-------------|
-| **description**                                         
-                                                          | **Built in Tasks Nam3** | **options** |
 | to display all the tasks avilable in given build script | tasks                   | --all       |
 |                                                         | help                    |             |
 |                                                         | components              |             |
@@ -84,10 +72,8 @@ Tasks
 |                                                         | dependecyInsite         |             |
 | it is used in multi-project, to list out sub projects   | projects                |             |
 | it print all the properties available in build          | properties              |             |
-|                                                         |                         |             |
 |                                                         | init                    |             |
 |                                                         | wrapper                 |             |
-|                                                         |                         |             |
 |                                                         | buildNeeded             |             |
 |                                                         | buildDependents         |             |
 
@@ -95,19 +81,20 @@ Tasks
 Plugin & Its Tasks
 ==================
 
-|                                                              |             |                    |
-|--------------------------------------------------------------|-------------|--------------------|
-                                                               | **Plugin**  | **available Task** |
-| for java compile, package, give default structor for project | java        | build              |
-| to avoid running test case                                   |             | jar                |
-|                                                              |             | test               |
-|                                                              |             | check              |
-|                                                              |             | assemble           |
-|                                                              | war         | war                |
-|                                                              |             |                    |
-|                                                              | jetty       | jettyRun           |
-| make easy to build and run the application                   | application |                    |
-|                                                              |             |                    |
+|                                                              | Plugin       | available Task | **Depedency** configuration      |
+|--------------------------------------------------------------|--------------|----------------|----------------------------------|
+| for java compile, package, give default structor for project | java         | build          | compile, runtime                 |
+| to avoid running test case                                   |              | jar            | testCompile, testRuntime         |
+|                                                              |              | test           |                                  |
+|                                                              |              | check          |                                  |
+|                                                              |              | assemble       |                                  |
+|                                                              |              |                |                                  |
+|                                                              | war          | war            | providedCompile, providedRuntime |
+|                                                              | gretty       | appRun         |                                  |
+| make easy to build and run the application                   | application  | run            |                                  |
+|                                                              | distribution |                |                                  |
+| IntellijaIDEA IDE specfic files generate                     | idea         |                |                                  |
+| eclipse IDE specfic files generate                           | eclipse      |                |                                  |
 
 
 
@@ -159,23 +146,21 @@ Gradle API
 Maven & Gradle Comparision
 ==========================
 
-|                                            |            |               |
-|--------------------------------------------|------------|---------------|
-| **Featues**                                | **Gradle** | **Maven**     |
-|                                            |            |               |
-| build script                               | Grooovy    | xml           |
-| core implemeted                            | As plugin  | as plugin     |
-| unit of work                               | task       | Goal ( mojo ) |
-| archetyp support                           | No ( 1.7 ) | yes           |
-| site support                               | No ( 1.7 ) | yes           |
-| run spcecifc unit test or class or package | yes        | no            |
-| Wrapper script support,                    | yes        | No            |
-| indexing given (maven) repository          | yes        | No            |
-|                                            |            |               |
-|                                            |            |               |
-|                                            |            |               |
-|                                            |            |               |
-|                                            |            |               |
+|                                                  |            |                                                             |
+|--------------------------------------------------|------------|-------------------------------------------------------------|
+| **Featues**                                      | **Gradle** | **Maven**                                                   |
+|                                                  |            |                                                             |
+| build script                                     | Grooovy    | xml                                                         |
+| core implemeted                                  | As plugin  | as plugin                                                   |
+| unit of work                                     | task       | Goal ( mojo )                                               |
+| archetyp support                                 | No ( 1.7 ) | yes                                                         |
+| site support                                     | No ( 1.7 ) | yes                                                         |
+| run spcecifc unit test or class or package       | yes        | no                                                          |
+| Wrapper script support,                          | yes        | No                                                          |
+| indexing given (maven) repository                | yes        | No                                                          |
+| assembly of app                                  | easy       | difficult, need separate xml file need                      |
+| easy to refer private libraries from file system | easy       | diffucult, need to push all the jar into local .m2 manually |
+
 
 
 session for others
