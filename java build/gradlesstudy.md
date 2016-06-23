@@ -14,6 +14,18 @@ Gradle
  + it support smart exclude for tasks , gradle can run as deamon process , when we do build often                                                                                                                                                                    
  + Each time you initiate a build, the JVM has to be started, Gradle’s dependencies have to be loaded into the class loader, and the project object model has to be constructed. This procedure usually takes a couple of seconds. Gradle daemon to the rescue       
 
+Lifecycle
+=========
+
+1. Initialization
+2. Configuration
+3. Execution
+
+Different file
+==============
+1. build.gradle
+2. gradle.properties
+3. settings.gradle
 
 Setup
 =====     
@@ -101,46 +113,47 @@ Plugin & Its Tasks
 Gradle API
 ==========
 
-|                                  |                          |                        |                    |                                 |     |     |
-|----------------------------------|--------------------------|------------------------|--------------------|---------------------------------|-----|-----|
-| rep. Project of grale build file | Project                  |                        |                    |                                 |     |     |
-|                                  |                          | Gradle                 | TaskExecutionGraph |                                 |     |     |
-|                                  |                          | ConfigurationContainer | Configuration      |                                 |     |     |
-|                                  |                          | DependencyHandler      | Dependency         |                                 |     |     |
-| for dependency graph             |                          | ResolutionResult       |                    |                                 |     |     |
-|                                  |                          |                        |                    |                                 |     |     |
-|                                  |                          | RepositoryHandler      |                    |                                 |     |     |
-|                                  |                          |                        | ArtifactRepository |                                 |     |     |
-|                                  |                          |                        |                    | MavenArtifactRepository         |     |     |
-|                                  |                          |                        |                    | FlatDirectoryArtifactRepository |     |     |
-|                                  |                          |                        |                    | IvyArtifactRepository           |     |     |
-|                                  |                          |                        |                    |                                 |     |     |
-|                                  | Task                     | DefaultTask            |                    |                                 |     |     |
-|                                  |                          |                        |                    | doLast()                        |     |     |
-|                                  |                          |                        |                    | doFirst()                       |     |     |
-|                                  |                          |                        |                    | onlyIf()                        |     |     |
-|                                  |                          |                        |                    |                                 |     |     |
-|                                  |                          |                        |                    | didWork                         |     |     |
-|                                  |                          |                        |                    | enable                          |     |     |
-|                                  |                          |                        |                    | path                            |     |     |
-|                                  |                          |                        |                    | logger                          |     |     |
-|                                  |                          |                        |                    | logging                         |     |     |
-|                                  |                          |                        |                    | description                     |     |     |
-|                                  |                          |                        |                    | temporaryDir                    |     |     |
-|                                  |                          |                        |                    |                                 |     |     |
-|                                  |                          |                        | TaskInputs         |                                 |     |     |
-|                                  |                          |                        | TaskOutputs        |                                 |     |     |
-|                                  |                          |                        | Test               | TestLoggingContainer            |     |     |
-| it used to locate a task         | TaskContainer            |                        |                    |                                 |     |     |
-|                                  |                          |                        |                    |                                 |     |     |
-|                                  |                          |                        |                    |                                 |     |     |
-|                                  | Settings                 | ProjectDescriptor      |                    |                                 |     |     |
-|                                  |                          |                        |                    |                                 |     |     |
-|                                  | AntBuilder               |                        |                    |                                 |     |     |
-|                                  |                          |                        |                    |                                 |     |     |
-| rep. Build script file           | Script                   |                        |                    |                                 |     |     |
-|                                  | ExtraPropertiesExtension |                        |                    |                                 |     |     |
+|                                       |                          |                        |                    |                                 |
+|---------------------------------------|--------------------------|------------------------|--------------------|---------------------------------|
+| rep. Project of grale build file      | Project                  |                        |                    |                                 |
+|                                       |                          | Gradle                 | TaskExecutionGraph |                                 |
+|                                       |                          | ConfigurationContainer | Configuration      |                                 |
+|                                       |                          | DependencyHandler      | Dependency         |                                 |
+| for dependency graph                  |                          | ResolutionResult       |                    |                                 |
+|                                       |                          |                        |                    |                                 |
+|                                       |                          | RepositoryHandler      |                    |                                 |
+|                                       |                          |                        | ArtifactRepository |                                 |
+|                                       |                          |                        |                    | MavenArtifactRepository         |
+|                                       |                          |                        |                    | FlatDirectoryArtifactRepository |
+|                                       |                          |                        |                    | IvyArtifactRepository           |
+|                                       | Task                     | DefaultTask            |                    |                                 |
+|                                       |                          |                        | TaskInputs         |                                 |
+|                                       |                          |                        | TaskOutputs        |                                 |
+|                                       |                          |                        | Test               | TestLoggingContainer            |
+| it used to locate a task              | TaskContainer            |                        |                    |                                 |
+|                                       |                          |                        |                    |                                 |
+|                                       |                          |                        |                    |                                 |
+| represents settings.gradle file       | Settings                 | ProjectDescriptor      |                    |                                 |
+|                                       |                          |                        |                    |                                 |
+| to migrate ant build script to gradle | AntBuilder               |                        |                    |                                 |
+|                                       |                          |                        |                    |                                 |
+| rep. Build script file                | Script                   |                        |                    |                                 |
+|                                       | ExtraPropertiesExtension |                        |                    |                                 |
+|                                       |                          |                        |                    |                                 |
 
+Task Flow Controller
+====================
+
+1. dependsOn
+2. finalizedBy
+3. onlyIf
+4. mustRunAfter
+5. shouldRunAfter
+
+Enhanced(Custom) tasks
+======================
+
+Copy, Zip, Exec, Jar, compileJava, Test, Sync
 
 
 Maven & Gradle Comparision

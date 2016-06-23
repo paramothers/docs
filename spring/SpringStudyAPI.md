@@ -315,9 +315,19 @@ Servlet Container Initializer
 
 + **javax.servlet.ServletContainerInitializer**,    this type given by Servlet 3.0, to initialize container
     + **SpringServletContainerInitializer**,    spring provide default implementation of `ServletContainerInitializer`
-        + **WebApplicationInitializer**,    spring implementation class looks for any this type of class, to delegate
+        + **WebApplicationInitializer**,  we can implements when we need to configure more application serverlts, filters, Listeners
+            + AbstractDispatcherServletInitializer
             +  **AbstractAnnotationConfigDispatcherServletInitializer**,    one of the implementation of `WebApplicationInitializer` dispatch servlet config automatically by Javaconfig
                 + (App specific servlet container initialzier)
+
+
++ WebApplicationContext
+    + **AnnotationConfigWebApplicationContext**, load javaconfig for Spring MVC by web.xml 
+    
++ **MultipartResolver**, used to parse multipart request
+    + **CommonsMultipartResolver**, use Common File upload library
+    + **StandardServletMultipartResolver**, use container support of Servlet 3.0
++ MultipartFile
 
 
 Spring MVC tool-bean configure (Web initializer is first step . Web MVC configurer is second step )
@@ -336,11 +346,27 @@ Spring View implementation
     + AbstractExcelView
     + AbstractPdfView
     + AbstractView
-        + BeanNameViewResolver
-        + InternalResourceViewResolver
+    + JstlView
+
+    
++ ViewResolver
+    + **InternalResourceViewResolver**, to resolve JSP files as view
+    + ContentNegotiatingViewResolver
+    + UrlBasedViewResolver
+    + **BeanNameViewResolver**, to resolve Bean ID
+    + XmlViewResolver
+    + XsltViewResolver 
+    + ResourceBundleViewResolver
+        + FreeMarkerViewResolver
+        + JasperReportsViewResolver
+        + TilesViewResolver
+        + VelocityLayoutViewResolver
+        + VelocityViewResolver 
 
 + Model , it is just like a map and to add attribute by controller method
 + **Errors**, any POJO validation error
++ ResourceBundleMessageSource
++ ReloadableResourceBundleMessageSource
 
 API - Rest
 ==========
