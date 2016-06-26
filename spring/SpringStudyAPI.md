@@ -368,6 +368,13 @@ Spring View implementation
 + ResourceBundleMessageSource
 + ReloadableResourceBundleMessageSource
 
+
+API - web flow
+==============
+
++ **FlowHandlerMapping**, it forward request from DispatcherServlet to Spring Web flow based on  url
++ **FlowHandlerAdapter**, it is like mvc controller
+
 API - Rest
 ==========
 

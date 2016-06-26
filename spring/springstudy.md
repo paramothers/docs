@@ -102,6 +102,13 @@ API - AOP
   - Advice - logging logic, security logic
   - Joinpoints  - methods, variable access
   - pointcuts - identify methods to be woweven with advice. usaully regular expression
+  
+
+Spring Web Flow
+===============
+
++ flow executor
++ flow registry
 
 
 
