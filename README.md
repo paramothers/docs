@@ -9,6 +9,7 @@ About Paramsivam (491499)
 Server Side programming and Backend
 ===================================
 
+### Programming ###
 
 | JEE Technology | Spring 4.2 Modules | XML and Web Service | Persistence Frameworks | Java Build Tool |
 |----------------|--------------------|---------------------|------------------------|-----------------|
@@ -20,27 +21,40 @@ Server Side programming and Backend
 |                | Spring Data        | JAX-WS 2.0          | SQL-99                 |                 |
 |                |                    |                     | PL/SQL                 |                 |
 
+### Servers and Libraries ###
 
-| Web & App Servers | Frameworks/ Library | Design            | Cloud IDE | Product / DB  | Desktop IDE      |
-|-------------------|---------------------|-------------------|-----------|---------------|------------------|
-| Jetty 1.9         | Struts 2.1          | OOAD              | Codenvy   | Oracle 12     | Intellij IDEA 16 |
-| Tomcate 7.0       | POI                 | UML 2.0           | c9.io     | Sybase ASE 15 | Eclipse 4.3 Mars |
-| WebSphere 7.0     | iText 2.6           | Design Pattern    | coding.io | H2            | NetBeans 8       |
-| jBOSS 4           | jUnit 4.0           | Design Thumb Rule |           | HSQLDB        | Atom 1.5         |
-| Weblogic 9.2      |                     |                   |           |               | Sublime Text 3   |
+| Web & App Servers | Frameworks/ Library | Design            | Product / DB  |
+|-------------------|---------------------|-------------------|---------------|
+| Jetty 1.9         | Struts 2.1          | OOAD              | Oracle 12     |
+| Tomcate 7.0       | POI                 | UML 2.0           | Sybase ASE 15 |
+| WebSphere 7.0     | iText 2.6           | Design Pattern    | H2            |
+| jBOSS 4           | jUnit 4.0           | Design Thumb Rule | HSQLDB        |
+| Weblogic 9.2      |                     |                   |               |
+
+
+### IDE, VCS and Products ###
+
+| Cloud IDE | SCM-VCS   | Desktop IDE      |
+|-----------|-----------|------------------|
+| Codenvy   | Git       | Intellij IDEA 16 |
+| c9.io     | GitHub    | Eclipse 4.3 Mars |
+| coding.io | SVN       | NetBeans 8       |
+|           | ClearCase | Atom 1.5         |
+|           |           | Sublime Text 3   |
+
 
 JavaScript & Web UI Technology
 ==============================
 
-| Java Script | UI Frameworks  | Quality Tool            | Cloud IDE | Desktop IDE      |
-|-------------|----------------|-------------------|-----------|------------------|
-| Node JS 4.0 | Angular JS 1.4 | OOAD              | Codenvy   | Intellij IDEA 16 |
-| JSON        | ExtJS 1.4      | UML 2.0           | c9.io     | Eclipse 4.3 Mars |
-| Cordova     | GWT 2.4        | Design Pattern    | coding.io | NetBeans 8       |
-| Ionic       | SmartGWT 1.2   | Design Thumb Rule |           | Atom 1.5         |
-|             | BootStrap 1.1  |                   |           | Sublime Text 3   |
-|             | HTML 5         |                   |           |                  |
-|             | CSS 3          |                   |           |                  |
+| Java Script | UI Frameworks  | Quality Tool |
+|-------------|----------------|--------------|
+| Node JS 4.0 | Angular JS 1.4 | bower        |
+| JSON        | ExtJS 1.4      | jshint       |
+| Cordova     | GWT 2.4        | Grunt        |
+| Ionic       | SmartGWT 1.2   | Karma        |
+|             | BootStrap 1.1  | Jasmine      |
+|             | HTML 5         | Protractor   |
+|             | CSS 3          |              |
 
 Java Certification
 ==================
@@ -58,14 +72,13 @@ Project Titles and Client Details
  4. **NextGen** - citco
  5. **Russian Plant** - Nisson Motors, Europe
  6. **Volume Service** - S & P
- 7. Enterprise Information Search Platform (**EISP**) - Verizon Development Service India ( VDSI )
- 8. Port Vehicle Operating System ( **PVOS** ) - Ford India, RMZ
- 9. Video Scheduling System (**VSS**) - SNBC, GE
-10. Demand Based Clustering System (**DBCS**) - NBC, GE
-11. International Picture Casting (**IPC**)- NBC, GE   
-12. Business Affairs Summaries and Information System(**BASIS**) - NBC, GE
-13. Pay Per view – video on Demand (**PPV-VOD**) - NBC, GE
-14. SFSDF
+ 7. **EISP** (Enterprise Information Search Platform)  - Verizon Development Service India ( VDSI )
+ 8. **PVOS** (Port Vehicle Operating System)  - Ford India, RMZ
+ 9. **VSS** (Video Scheduling System)  - SNBC, GE
+10. **DBCS** (Demand Based Clustering System)  - NBC, GE
+11. **IPC** (International Picture Casting) - NBC, GE
+12. **BASIS** (Business Affairs Summaries and Information System) - NBC, GE
+13. **PPV-VOD** (Pay Per view – video on Demand)  - NBC, GE
     
 Declaration
 ===========
