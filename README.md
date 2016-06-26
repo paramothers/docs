@@ -7,9 +7,13 @@ Paramsivam K                                            <img src="https://github
 * Qualified, **B.E in Computer Science Engineer** at 2003, in Bharathidasan University
 * Having work experience about 5 years from **TCS**, 5 years in **Mahindra Satyam**, 2 years in **iGATE**
 * Had been working in Banking, Oil and Gas, Logistic and Media domain.
+* He is good at Design and Logical thinking.
+* He has habit of keep on updating new technologies/version only from ebook not just by articles.
+* He learnt himself about NodeJS, various javaScript frameworks and android programming
+* He has idea as well used about different flavour of linux distribution.
 
-Server Side programming and Backend
-===================================
+Server Side Component programming
+=================================
 
 ### Programming ###
 
@@ -21,7 +25,7 @@ Server Side programming and Backend
 | JMS 1.1        | Spring AOP         | SOAP 1.1 & SAAJ 1.2 | JPA 2.0                |                 |
 |                | Spring Batch       | JAX-RPC 1.1         | Hibernate 4.0          |                 |
 |                | Spring Data        | JAX-WS 2.0          | SQL-99                 |                 |
-|                |                    |                     | PL/SQL                 |                 |
+|                |                    | XStream   1.2                 | PL/SQL                 |                 |
 
 ### Servers and Libraries ###
 
