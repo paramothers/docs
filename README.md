@@ -1,5 +1,5 @@
-Paramsivam K                                            ![](https://github.com/paramothers/docs/blob/master/SCJP.png =250x250 "For Java 1.5")
-============
+Paramsivam K                                            <img src="https://github.com/paramothers/docs/blob/master/SCJP.png" width="48" alt="For Java 1.5">
+==========================================================================================================================================================
 
 ##### 491499 - 91 9940651567 - paramasivam.k1@tcs.com #####
 
