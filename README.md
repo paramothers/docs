@@ -60,7 +60,7 @@ Project Titles and Client Details
  6. **Volume Service** - S & P
  7. Enterprise Information Search Platform (**EISP**) - Verizon Development Service India ( VDSI )
  8. Port Vehicle Operating System ( **PVOS** ) - Ford India, RMZ
- 9. Video Scheduling System (**VSS**) - SNBC, GE.
+ 9. Video Scheduling System (**VSS**) - SNBC, GE
 10. Demand Based Clustering System (**DBCS**) - NBC, GE
 11. International Picture Casting (**IPC**)- NBC, GE   
 12. Business Affairs Summaries and Information System(**BASIS**) - NBC, GE
