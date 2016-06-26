@@ -1,5 +1,5 @@
-Paramsivam K                                            <img src="https://github.com/paramothers/docs/blob/master/SCJP.png" width="88" alt="For Java 1.5"> &nbsp; <img src="https://github.com/paramothers/docs/blob/master/SCWCD.png" width="88" alt="For Servlet 2.5, JSP 1.2 and JSTL 1.1">
-==============================================================================================================================================================================================================================================================================================
+Paramsivam K                                            <img src="https://github.com/paramothers/docs/blob/master/SCJP.png" width="88" alt="For Java 1.5"> <img src="https://github.com/paramothers/docs/blob/master/SCWCD.png" width="88" alt="For Servlet 2.5, JSP 1.2 and JSTL 1.1"><img src="https://github.com/paramothers/docs/blob/master/SCBCD.png" width="88" alt="For EJB 2.1">
+=========================================================================================================================================================================================================================================================================================================================================================================================
 
 ##### 491499 - 91 9940651567 - paramasivam.k1@tcs.com #####
 
