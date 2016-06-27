@@ -6,13 +6,13 @@ https://devotter.com/converter
 Spring annotation to enable any spring module
 =============================================
 
-|                        |
-|------------------------|
-| @EnableWebMvc          |
-| @EnableWebSecurity     |
-| @EnableWebMvcSecurity  |
-| @EnableJpaRepositories |
-|                        |
+|                                 |                           |
+|---------------------------------|---------------------------|
+| enable spring mvc               | @EnableWebMvc             |
+| enable security in spring mvc   | @EnableWebSecurity        |
+| it has been deprecated in 4.1.0 | @~~EnableWebMvcSecurity~~ |
+|                                 | @EnableJpaRepositories    |
+|                                 |                           |
 
 
 Spring Context configuration annotation
@@ -41,7 +41,7 @@ Spring Context configuration annotation
 
 Spring MVC, RestFul
 ===================
-Xp7p3so964
+
 
 |                                                         |                          |        |              |          |
 |---------------------------------------------------------|--------------------------|--------|--------------|----------|
@@ -53,6 +53,7 @@ Xp7p3so964
 | introduced in 3.2 version                               | @ModelAttributes         |        |              |          |
 |                                                         | @SessionAttriute         |        |              |          |
 |                                                         | @CookieValue             |        |              |          |
+| **Spring Security**                                     |                          |        |              |          |
 |                                                         | @AuthenticationPrincipal |        |              |          |
 | **Exception Handling**                                  |                          |        |              |          |
 | annotate method to handle exception  in controller      | @ExceptionHandler        |        |              |          |

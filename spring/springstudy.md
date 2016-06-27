@@ -110,5 +110,17 @@ Spring Web Flow
 + flow executor
 + flow registry
 
+Spring Persistence
+================== 
+
+There are 4 different ways to create datasource in spring project.
+
++ DataSource open source implementation
+    + Apache Common DPCP
+    + c3p0
+    + BoneCP
++ DataSource from Spring- driver-manager based (3 types are there)
++ DataSource from Jndi-lookup
++ DataSource from embedded DB.
 
 
