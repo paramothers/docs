@@ -263,11 +263,30 @@ API - Persistence
     
 
 
+API - Hibernate Integration
+===========================
+
++ LocalSessionFactoryBean ( use hibernate 4 and above)
++ AnnotationSessionFactoryBean ( use < hibernate 4 version)
+
+
 API - JPA
 =========
 
++ PersistenceProvider
+    + EntityManagerFactory
+        + EntityManager
 
++ ~~LocalEntityManagerFactoryBean~~, Dont use since all the DB configurtion depends on persistence.xml
++ **LocalContainerEntityManagerFactoryBean**, it can use datasource, jpavendor exist in SpringContext.
 
++ JpaVendorAdaptor
+    + **HibernateJpaVendorAdaptor**, use Hibernate as jpa implementation
+    + **EclipseLinkJpaVendorAdaptor**, use when eclipselink as jpa implementation
+    + OpenJpaVendorAdaptor
+
++ **PersistenceAnnotationBeanPostProcessor**, to work with JPA specific PersistenceUnit/Context annotation
++ **PersistenceExceptionTranslationPostProcessor**, to translate exception to spring specefic exception when template are not used in Hibernate/JPA
 
 API - JMX
 ==========
