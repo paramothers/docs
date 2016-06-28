@@ -288,6 +288,21 @@ API - JPA
 + **PersistenceAnnotationBeanPostProcessor**, to work with JPA specific PersistenceUnit/Context annotation
 + **PersistenceExceptionTranslationPostProcessor**, to translate exception to spring specefic exception when template are not used in Hibernate/JPA
 
+
+API- Spring Data - JPA
+======================
+
+* Repository
+    * JpaRepository
+    * PagingAndSortingRepository
+    * CrudRepository
+    
+ 
+API - Spring data-mongodb
+=========================
+
+* AbstractMongoConfiguration
+
 API - JMX
 ==========
 

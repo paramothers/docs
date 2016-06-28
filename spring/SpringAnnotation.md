@@ -6,13 +6,13 @@ https://devotter.com/converter
 Spring annotation to enable any spring module
 =============================================
 
-|                                 |                           |
-|---------------------------------|---------------------------|
-| enable spring mvc               | @EnableWebMvc             |
-| enable security in spring mvc   | @EnableWebSecurity        |
-| it has been deprecated in 4.1.0 | @~~EnableWebMvcSecurity~~ |
-|                                 | @EnableJpaRepositories    |
-|                                 |                           |
+|                                               |                           |
+|-----------------------------------------------|---------------------------|
+| enable spring mvc                             | @EnableWebMvc             |
+| enable security in spring mvc                 | @EnableWebSecurity        |
+| it has been deprecated in 4.1.0               | @~~EnableWebMvcSecurity~~ |
+| enable spring-data-jpa java configuration     | @EnableJpaRepositories    |
+| enable spring-data-mongodb java configuration | @EnableMongoRepositories  |
 
 
 Spring Context configuration annotation
@@ -38,6 +38,14 @@ Spring Context configuration annotation
 | loan the given property file from classpath and access p9roperty using Envionment object                                                                                                          | @PropertySource                             |              |                     |
 | it is spring 3.0 annotation, used to hold Spring Expression language Superooo super annotation. Using Spring expression language it simplify code a lot at least access value and assiging values | @Value                                      |              |                     |
 |                                                                                                                                                                                                   |                                             |              |                     |
+
+
+Spring Data
+===========
+
+|                                           |        |
+|-------------------------------------------|--------|
+| to define JPA query in method declaration | @Query |
 
 Spring MVC, RestFul
 ===================
