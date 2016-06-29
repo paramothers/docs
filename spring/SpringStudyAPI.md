@@ -302,6 +302,11 @@ API - Spring data-mongodb
 =========================
 
 * AbstractMongoConfiguration
+* MongoOperations
+    * MongoTemplate
+    * Query
+* MongoRepository
+
 
 API - JMX
 ==========

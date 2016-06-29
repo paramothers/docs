@@ -13,6 +13,7 @@ Spring annotation to enable any spring module
 | it has been deprecated in 4.1.0               | @~~EnableWebMvcSecurity~~ |
 | enable spring-data-jpa java configuration     | @EnableJpaRepositories    |
 | enable spring-data-mongodb java configuration | @EnableMongoRepositories  |
+|                                               | @EnableNeo4jRepositories  |
 
 
 Spring Context configuration annotation
@@ -43,9 +44,9 @@ Spring Context configuration annotation
 Spring Data
 ===========
 
-|                                           |        |
-|-------------------------------------------|--------|
-| to define JPA query in method declaration | @Query |
+|                                                   |        |
+|---------------------------------------------------|--------|
+| to define JPA/mongodb query in method declaration | @Query |
 
 Spring MVC, RestFul
 ===================

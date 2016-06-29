@@ -3,12 +3,12 @@ Paramsivam K                                            <img src="https://github
 
 ##### 491499 - 91 9940651567 - paramasivam.k1@tcs.com #####
 
-* Having 12 Years of experience in IT
+* Having 12 Years of experience in IT, worked in Java and its various frameworks/library
 * Qualified, **B.E in Computer Science Engineer** at 2003, in Bharathidasan University
 * Having work experience about 5 years from **TCS**, 5 years in **Mahindra Satyam**, 2 years in **iGATE**
 * Had been working in Banking, Oil and Gas, Logistic and Media domain.
 * He is good at Design and Logical thinking.
-* He has habit of keep on updating new technologies/version only from ebook not just by articles.
+* He has habit of keep on updating new technologies/version only from ebook not only just by articles.
 * He learnt himself about NodeJS, various javaScript frameworks and android programming
 * He has idea as well used about different flavour of linux distribution.
 
@@ -23,19 +23,19 @@ Server Side Component programming
 | JSP 1.2        | Spring RestFul     | JAXP 1.4            | MyBatis 3.1            | Maven 3.1       |
 | EJB 3.0        | Spring Security    | JAXB 2.0 & Jibx 1.2 | MBG 1.8                | Ant 1.6         |
 | JMS 1.1        | Spring AOP         | SOAP 1.1 & SAAJ 1.2 | JPA 2.0                |                 |
-|                | Spring Batch       | JAX-RPC 1.1         | Hibernate 4.0          |                 |
+| JavaConfig     | Spring Batch       | JAX-RPC 1.1         | Hibernate 4.0          |                 |
 |                | Spring Data        | JAX-WS 2.0          | SQL-99                 |                 |
-|                |                    | XStream   1.2                 | PL/SQL                 |                 |
+|                |                    | XStream   1.2       | PL/SQL                 |                 |
 
 ### Servers and Libraries ###
 
-| Web & App Servers | Frameworks/ Library | Design            | Product / DB  |
-|-------------------|---------------------|-------------------|---------------|
-| Jetty 1.9         | Struts 2.1          | OOAD              | Oracle 12     |
-| Tomcate 7.0       | POI                 | UML 2.0           | Sybase ASE 15 |
-| WebSphere 7.0     | iText 2.6           | Design Pattern    | H2            |
-| jBOSS 4           | jUnit 4.0           | Design Thumb Rule | HSQLDB        |
-| Weblogic 9.2      |                     |                   |               |
+| Web & App Servers | Frameworks/ Library | Desktop Frameworks | Design            | Product / DB  |
+|-------------------|---------------------|--------------------|-------------------|---------------|
+| Jetty 1.9         | Struts 2.1          | SWT, JFace         | OOAD              | Oracle 12     |
+| Tomcate 7.0       | POI                 | Swing 1.5          | UML 2.0           | Sybase ASE 15 |
+| WebSphere 7.0     | iText 2.6           | AWT                | Design Pattern    | H2   1.2      |
+| jBOSS 4           | jUnit 4.0           |                    | Design Thumb Rule | HSQLDB  2.0   |
+| Weblogic 9.2      |                     |                    |                   |               |
 
 
 ### IDE, VCS and Products ###
