@@ -4,13 +4,13 @@ Paramsivam K                                            <img src="https://github
 ##### 491499 - 91 9940651567 - paramasivam.k1@tcs.com #####
 
 * He has 12 Years of experience in IT, worked in Java and its various frameworks/library
-* He Worked for 5 years at **TCS**, 5 years at **Mahindra Satyam** and 2 years at **iGATE**
+* He worked for 5 years at **TCS**, 5 years at **Mahindra Satyam** and 2 years at **iGATE**
 * He has exposure in Banking, Oil and Gas, Logistic and Media domain.
-* He completed, **B.E** in **Computer Science Engineer** at 2003, in Bharathidasan University
+* He completed, **B.E** in **Computer Science Engineering** at 2003, in Bharathidasan University
 * He is good at Design & analysis, orchestration of appropriate frameworks/technologies for projects.
 * He has habit of keep on updating for new technologies/version.
 * He made himself familiar with NodeJS, various javaScript UI frameworks and android programming
-* His own documents/articles/quick reference for many technology can find at https://github.com/paramothers/doc
+* His own documents/articles/quick-reference for many technology can find at https://github.com/paramothers/docs
 
 Server Side Component programming
 =================================
@@ -72,19 +72,32 @@ Java Certification
 Project Titles and Client Details
 =================================
 
- 1. **BOWC** - Businss Object web companian, COE, TCS
- 2. **LLR Batch** - Loan Loss Reserve, citi, NAM
- 3. **LLR Web** - citi, NAM
- 4. **NextGen** - citco
- 5. **Russian Plant** - Nisson Motors, Europe
- 6. **Volume Service** - S & P
- 7. **EISP** (Enterprise Information Search Platform)  - Verizon Development Service India ( VDSI )
- 8. **PVOS** (Port Vehicle Operating System)  - Ford India, RMZ
- 9. **VSS** (Video Scheduling System)  - SNBC, GE
-10. **DBCS** (Demand Based Clustering System)  - NBC, GE
-11. **IPC** (International Picture Casting) - NBC, GE
-12. **BASIS** (Business Affairs Summaries and Information System) - NBC, GE
-13. **PPV-VOD** (Pay Per view – video on Demand)  - NBC, GE
+    
+ **BOWC** - Businss Object web companian, COE, TCS
+    
+ **LLR Batch** - Loan Loss Reserve, citi, NAM
+    
+ **LLR Web** - citi, NAM
+    
+ **NextGen** - citco
+    
+ **Russian Plant** - Nisson Motors, Europe
+    
+ **Volume Service** - S & P
+    
+ **EISP** (Enterprise Information Search Platform)  - Verizon Development Service India ( VDSI )
+    
+ **PVOS** (Port Vehicle Operating System)  - Ford India, RMZ
+    
+ **VSS** (Video Scheduling System)  - SNBC, GE
+    
+**DBCS** (Demand Based Clustering System)  - NBC, GE
+    
+**IPC** (International Picture Casting) - NBC, GE
+    
+**BASIS** (Business Affairs Summaries and Information System) - NBC, GE
+    
+**PPV-VOD** (Pay Per view – video on Demand)  - NBC, GE
     
 Declaration
 ===========
