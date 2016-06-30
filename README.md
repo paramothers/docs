@@ -3,14 +3,14 @@ Paramsivam K                                            <img src="https://github
 
 ##### 491499 - 91 9940651567 - paramasivam.k1@tcs.com #####
 
-* Having 12 Years of experience in IT, worked in Java and its various frameworks/library
-* Qualified, **B.E in Computer Science Engineer** at 2003, in Bharathidasan University
-* Having work experience about 5 years from **TCS**, 5 years in **Mahindra Satyam**, 2 years in **iGATE**
-* Had been working in Banking, Oil and Gas, Logistic and Media domain.
-* He is good at Design and Logical thinking.
-* He has habit of keep on updating new technologies/version only from ebook not only just by articles.
-* He learnt himself about NodeJS, various javaScript frameworks and android programming
-* He has idea as well used about different flavour of linux distribution.
+* He has 12 Years of experience in IT, worked in Java and its various frameworks/library
+* He Worked for 5 years at **TCS**, 5 years at **Mahindra Satyam** and 2 years at **iGATE**
+* He has exposure in Banking, Oil and Gas, Logistic and Media domain.
+* He completed, **B.E** in **Computer Science Engineer** at 2003, in Bharathidasan University
+* He is good at Design & analysis, orchestration of appropriate frameworks/technologies for projects.
+* He has habit of keep on updating for new technologies/version.
+* He made himself familiar with NodeJS, various javaScript UI frameworks and android programming
+* His own documents/articles/quick reference for many technology can find at https://github.com/paramothers/doc
 
 Server Side Component programming
 =================================

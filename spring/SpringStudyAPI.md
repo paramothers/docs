@@ -308,6 +308,19 @@ API - Spring data-mongodb
 * MongoRepository
 
 
+API - Sprig Caching
+===================
+
++ CacheManager
+    + SimpleCacheManager
+    + NoOpCacheManager
+    + ConcurrentMapCacheManager
+    + CompositeCacheManager
+    + EhCacheCacheManager
+    + RedisCacheManager
+    + GemfireCacheManager
+
+
 API - JMX
 ==========
 

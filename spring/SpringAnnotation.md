@@ -14,6 +14,7 @@ Spring annotation to enable any spring module
 | enable spring-data-jpa java configuration     | @EnableJpaRepositories    |
 | enable spring-data-mongodb java configuration | @EnableMongoRepositories  |
 |                                               | @EnableNeo4jRepositories  |
+|                                               | @EnableCaching            |
 
 
 Spring Context configuration annotation
