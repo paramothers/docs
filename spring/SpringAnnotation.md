@@ -15,6 +15,7 @@ Spring annotation to enable any spring module
 | enable spring-data-mongodb java configuration | @EnableMongoRepositories  |
 |                                               | @EnableNeo4jRepositories  |
 |                                               | @EnableCaching            |
+| method level security                         | @EnableGlobalSecurity     |
 
 
 Spring Context configuration annotation
@@ -48,6 +49,25 @@ Spring Data
 |                                                   |        |
 |---------------------------------------------------|--------|
 | to define JPA/mongodb query in method declaration | @Query |
+
+|  |             |
+|--|-------------|
+|  | @Cacheable  |
+|  | @CachePut   |
+|  | @CacheEvict |
+|  | @Caching    |
+
+Spring Security
+===============
+
+|                                              |                |
+|----------------------------------------------|----------------|
+| it is method level security                  | @Secured       |
+| provided by JSR-250, alternative to @Secured | @RolesAllowed  |
+|                                              | @PreAuthorize  |
+|                                              | @PostAuthorize |
+|                                              | @PreFilter     |
+|                                              | @PostFilter    |
 
 Spring MVC, RestFul
 ===================

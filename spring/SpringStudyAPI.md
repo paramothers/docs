@@ -83,19 +83,21 @@ Bean life-cycle phases
 
 5. ApplicationContext<span style="color: rgb(255, 0, 0);">Aware</span>
 
-6. Bean<span style="color: rgb(45, 229, 45);">PostProcessor</span>( Pre-Initialization )
+6. Bean<span style="color: rgb(45, 229, 45);">PostProcessor</span>(
+   Pre-Initialization )
 
 7. InitializingBean's afterPropertiesSet();
 
 8. call custom init-method
 
-9. Bean<span style="color: rgb(45, 229, 45);">PostProcessor</span>( Post - Initialization )
+9. Bean<span style="color: rgb(45, 229, 45);">PostProcessor</span>( Post
+   - Initialization )
 
- ( Live Bean in Application context )
+( Live Bean in Application context )
 
-10. DisposableBean
+1. DisposableBean
 
-11. custom-destory method
+2. custom-destory method
 
 |                                   |                                                                  |
 |-----------------------------------|------------------------------------------------------------------|
@@ -113,75 +115,49 @@ Bean life-cycle phases
 | ApplicationContextAware           |                                                                  |
 
 
-
-API - iBATIS
-============
-
-|                                    |                                                                      |                      |
-|------------------------------------|----------------------------------------------------------------------|----------------------|
-| just load the iBatis configuration | SqlMapClientFactoryBean                                              |                      |
-|                                    | SqlMapClientDaoSupport                                               |                      |
-|                                    |                                                                      | SqlMapClientTemplate |
-|                                    | one these three . Nothing else there to integrate iBatis with spring |                      |
-
-
-
-API - Transaction
-=================
-
-|     |                                                                                                    |                             |                              |                                    |
-|-----|----------------------------------------------------------------------------------------------------|-----------------------------|------------------------------|------------------------------------|
-|     | offers a set of technology-independent facilities, including transaction managers (interface )     |                             | PlatformTransactionManager   |                                    |
-|     | for JDBC, Spring JDBC , ibATIS, to provide transaction, single database                            |                             |                              | DataSourceTransactionManager       |
-|     | for JEE server's transaction implementation usage.                                                 |                             |                              | JtaTransactionManager              |
-|     |                                                                                                    |                             |                              | JpaTransactionManager              |
-|     |                                                                                                    |                             |                              | HibernateTransactionManager        |
-|     |                                                                                                    |                             |                              | TransactionSysnchronizationManager |
-|     |                                                                                                    |                             |                              | JdoTransactionManager              |
-|     | it is used in Spring-Batch on-memory repository                                                    |                             |                              | ResourcelessTransactionManager     |
-|     | Easy the programmatic style transaction                                                            | TransactionTemplate         |                              |                                    |
-|     | It used to define anonymous class                                                                  |                             | TransactionCallback          |                                    |
-|     | when no need, return a object.                                                                     |                             |                              | TransactionCallbackWithoutResult   |
-|     |                                                                                                    | TransactionProxyFactoryBean |                              |                                    |
-|     | it just interface                                                                                  | TransactionDefinition       |                              |                                    |
-|     | it will hold all the transaction attributes. There are 5 different attributes are, can be defined. |                             | DefaultTransactionDefinition |                                    |
-|     |                                                                                                    | TransactionStatus           |                              |                                    |
-
-
-
 API - Web
 =========
 
 Servlet Container Initializer
 =============================
 
-+ **javax.servlet.ServletContainerInitializer**,    this type given by Servlet 3.0, to initialize container
-    + **SpringServletContainerInitializer**,    spring provide default implementation of `ServletContainerInitializer`
-        + **WebApplicationInitializer**,  we can implements when we need to configure more application serverlts, filters, Listeners
++ **javax.servlet.ServletContainerInitializer**, this type given by
+  Servlet 3.0, to initialize container
+    + **SpringServletContainerInitializer**, spring provide default
+      implementation of `ServletContainerInitializer`
+        + **WebApplicationInitializer**, we can implements when we need
+          to configure more application serverlts, filters, Listeners
             + AbstractDispatcherServletInitializer
-            +  **AbstractAnnotationConfigDispatcherServletInitializer**,    one of the implementation of `WebApplicationInitializer` dispatch servlet config automatically by Javaconfig
+            +  **AbstractAnnotationConfigDispatcherServletInitializer**,
+               one of the implementation of `WebApplicationInitializer`
+               dispatch servlet config automatically by Javaconfig
                 + (App specific servlet container initialzier)
 
 
 + WebApplicationContext
-    + **AnnotationConfigWebApplicationContext**, load javaconfig for Spring MVC by web.xml 
-    
+    + **AnnotationConfigWebApplicationContext**, load javaconfig for
+      Spring MVC by web.xml
+
 + **MultipartResolver**, used to parse multipart request
     + **CommonsMultipartResolver**, use Common File upload library
-    + **StandardServletMultipartResolver**, use container support of Servlet 3.0
+    + **StandardServletMultipartResolver**, use container support of
+      Servlet 3.0
 + MultipartFile
++ HandlerMapping
+    + SimpleUrlHandlerMapping
 
 
 Spring MVC tool-bean configure (Web initializer is first step . Web MVC configurer is second step )
 ===================================================================================================
 
 + WebMvcConfigurer
-    + **WebMvcConfigurerAdapter**, configure Spring MVC tools.  it is used by WebApplicationInitializer
+    + **WebMvcConfigurerAdapter**, configure Spring MVC tools. it is
+      used by WebApplicationInitializer
         + (app MVC config class), annotated with **@EnableSpringMvc**
 
 
 Spring View implementation
-=======================
+==========================
 
 + View
     + AbstractExcelView
@@ -189,22 +165,23 @@ Spring View implementation
     + AbstractView
     + JstlView
 
-    
+
 + ViewResolver
     + **InternalResourceViewResolver**, to resolve JSP files as view
     + ContentNegotiatingViewResolver
     + UrlBasedViewResolver
     + **BeanNameViewResolver**, to resolve Bean ID
     + XmlViewResolver
-    + XsltViewResolver 
+    + XsltViewResolver
     + ResourceBundleViewResolver
         + FreeMarkerViewResolver
         + JasperReportsViewResolver
         + TilesViewResolver
         + VelocityLayoutViewResolver
-        + VelocityViewResolver 
+        + VelocityViewResolver
 
-+ Model , it is just like a map and to add attribute by controller method
++ Model , it is just like a map and to add attribute by controller
+  method
 + **Errors**, any POJO validation error
 + ResourceBundleMessageSource
 + ReloadableResourceBundleMessageSource
@@ -213,35 +190,43 @@ Spring View implementation
 API - web flow
 ==============
 
-+ **FlowHandlerMapping**, it forward request from DispatcherServlet to Spring Web flow based on  url
++ **FlowHandlerMapping**, it forward request from DispatcherServlet to
+  Spring Web flow based on url
 + **FlowHandlerAdapter**, it is like mvc controller
 
 API - Rest
 ==========
 
-|                                       |     |                           |     |     |
-|---------------------------------------|-----|---------------------------|-----|-----|
-|                                       |     | HttpMethodConverter       |     |     |
-|                                       |     | RestTemplate              |     |     |
-|                                       |     | ContentNegotiationManager |     |     |
-| it carry metadata about http response |     | ResponseEntity            |     |     |
-|                                       |     | HttpStatus                |     |     |
-|                                       |     | HttpHeaders               |     |     |
+|                                       |  |                           |  |  |
+|---------------------------------------|--|---------------------------|--|--|
+|                                       |  | HttpMethodConverter       |  |  |
+|                                       |  | RestTemplate              |  |  |
+|                                       |  | ContentNegotiationManager |  |  |
+| it carry metadata about http response |  | ResponseEntity            |  |  |
+|                                       |  | HttpStatus                |  |  |
+|                                       |  | HttpHeaders               |  |  |
 
 API - Security 3.2
 ==================
 
-+ **DelegtingFilterProxy**, it is filter and delegate filtering logic to a spring Bean type (FilterChainProxy).
-    + **FilterChainProxy**, type of spring bean, which do actual filtering
-    
-**AbstractSecurityWebApplicationInitializer**, has to extend for java based configuration
++ **DelegtingFilterProxy**, it is filter and delegate filtering logic to
+  a spring Bean type (FilterChainProxy).
+    + **FilterChainProxy**, type of spring bean, which do actual
+      filtering
+
+**AbstractSecurityWebApplicationInitializer**, has to extend for java
+based configuration
 
 + **WebSecurityConfigurer**
-    + **WebSecurityConfigurerAdaptor**, is a spring bean, to configure spring security and annotated with **@EnableWebSecurity**
+    + **WebSecurityConfigurerAdaptor**, is a spring bean, to configure
+      spring security and annotated with **@EnableWebSecurity**
 
 + AuthenticationBuilder
 + UserDetailServices
 
+
++ **GlobalMethodSecurityConfiguration**, it is much like
+  WebSecurityConfigurerAdaptor
 
 API - Persistence
 =================
@@ -249,9 +234,11 @@ API - Persistence
 #### Datasource ####
 
 1. **BasicDataSource**, is from apache data source (apache common )
-2. **DriverManagerDataSource**, is from spring by driver based with out pooling, new connection every call.
+2. **DriverManagerDataSource**, is from spring by driver based with out
+   pooling, new connection every call.
 3. **SimpleDataSource**, is from spring for osgi container environment
-4. **SingleConnectionDataSource**, is from spring, same connection return for all call.
+4. **SingleConnectionDataSource**, is from spring, same connection
+   return for all call.
 5. EmbeddedDataSourceBuilder
 
 #### Template ####
@@ -260,7 +247,6 @@ API - Persistence
     1. JdbcTemplate
 + NamedParameterJdbcOperation, is a interface    
     1. NamedParameterJdbcTemplate
-    
 
 
 API - Hibernate Integration
@@ -277,16 +263,22 @@ API - JPA
     + EntityManagerFactory
         + EntityManager
 
-+ ~~LocalEntityManagerFactoryBean~~, Dont use since all the DB configurtion depends on persistence.xml
-+ **LocalContainerEntityManagerFactoryBean**, it can use datasource, jpavendor exist in SpringContext.
++ ~~LocalEntityManagerFactoryBean~~, Dont use since all the DB
+  configurtion depends on persistence.xml
++ **LocalContainerEntityManagerFactoryBean**, it can use datasource,
+  jpavendor exist in SpringContext.
 
 + JpaVendorAdaptor
     + **HibernateJpaVendorAdaptor**, use Hibernate as jpa implementation
-    + **EclipseLinkJpaVendorAdaptor**, use when eclipselink as jpa implementation
+    + **EclipseLinkJpaVendorAdaptor**, use when eclipselink as jpa
+      implementation
     + OpenJpaVendorAdaptor
 
-+ **PersistenceAnnotationBeanPostProcessor**, to work with JPA specific PersistenceUnit/Context annotation
-+ **PersistenceExceptionTranslationPostProcessor**, to translate exception to spring specefic exception when template are not used in Hibernate/JPA
++ **PersistenceAnnotationBeanPostProcessor**, to work with JPA specific
+  PersistenceUnit/Context annotation
++ **PersistenceExceptionTranslationPostProcessor**, to translate
+  exception to spring specefic exception when template are not used in
+  Hibernate/JPA
 
 
 API- Spring Data - JPA
@@ -296,8 +288,8 @@ API- Spring Data - JPA
     * JpaRepository
     * PagingAndSortingRepository
     * CrudRepository
-    
- 
+
+
 API - Spring data-mongodb
 =========================
 
@@ -321,8 +313,70 @@ API - Sprig Caching
     + GemfireCacheManager
 
 
+API - Remote Services
+=====================
+
+
++ **Remote Procedure call ( RPC ) Models**
+    +  Remote Method Invocation (RMI)
+    +  Spring HTTP's invoker
+    +  JAX-WS web service
+    +  Hessian or Burlap
+
+API - Remote service Endpoint
+=============================
+
+|                                            |                |                            |
+|--------------------------------------------|----------------|----------------------------|
+| exporting Spring bean as a rmi service     |                | RmiServiceExporter         |
+| export Hessian service                     |                | HessianServiceExporter     |
+|                                            | HessianServlet |                            |
+| export Burlap service                      |                | BurlapServiceExporter      |
+| export HTTP invoker service                |                | HttpInvokerServiceExporter |
+| export JAX-WS web service                  |                | SimpleJaxWsServiceExporter |
+| use Xfire framework to export a webservice |                | XFireExporter              |
+| export webservice devloped by annotation   |                | Jsr181HandlerMapping       |
+
+
+API - Remote service Client
+===========================
+
+|                                          |                              |
+|------------------------------------------|------------------------------|
+| used for accessing a rmi service         | RmiProxyFactoryBean          |
+| Hessian client proxy                     | HessianProxyFactoryBean      |
+| Burlap client proxy                      | BurlapProxyFactoryBean       |
+| HTTP invoker client proxy                | HttpInvokerProxyFactoryBean  |
+| JAX-WS client                            | JaxWsPortProxyFactoryBean,   |
+| Xfire web service client                 | XfireClientFactoryBean       |
+|                                          |                              |
+| enable JAX-WS autowirng with spring bean | SpringBeanAutowiringSupport, |
+
+
+API - Transaction
+=================
+
+|  |                                                                                                    |                             |                              |                                    |
+|--|----------------------------------------------------------------------------------------------------|-----------------------------|------------------------------|------------------------------------|
+|  | offers a set of technology-independent facilities, including transaction managers (interface )     |                             | PlatformTransactionManager   |                                    |
+|  | for JDBC, Spring JDBC , ibATIS, to provide transaction, single database                            |                             |                              | DataSourceTransactionManager       |
+|  | for JEE server's transaction implementation usage.                                                 |                             |                              | JtaTransactionManager              |
+|  |                                                                                                    |                             |                              | JpaTransactionManager              |
+|  |                                                                                                    |                             |                              | HibernateTransactionManager        |
+|  |                                                                                                    |                             |                              | TransactionSysnchronizationManager |
+|  |                                                                                                    |                             |                              | JdoTransactionManager              |
+|  | it is used in Spring-Batch on-memory repository                                                    |                             |                              | ResourcelessTransactionManager     |
+|  | Easy the programmatic style transaction                                                            | TransactionTemplate         |                              |                                    |
+|  | It used to define anonymous class                                                                  |                             | TransactionCallback          |                                    |
+|  | when no need, return a object.                                                                     |                             |                              | TransactionCallbackWithoutResult   |
+|  |                                                                                                    | TransactionProxyFactoryBean |                              |                                    |
+|  | it just interface                                                                                  | TransactionDefinition       |                              |                                    |
+|  | it will hold all the transaction attributes. There are 5 different attributes are, can be defined. |                             | DefaultTransactionDefinition |                                    |
+|  |                                                                                                    | TransactionStatus           |                              |                                    |
+
+
 API - JMX
-==========
+=========
 
 |                                      |                             |
 |--------------------------------------|-----------------------------|
@@ -338,7 +392,6 @@ API - schedule
 | to define a timer task declatively    | MethodInvokingTimerTaskFactoryBean |
 | schedule a tak                        | ScheduledTimerTask                 |
 | start timer to execute scheduled task | TimerFactoryBean                   |
-
 
 
 Spring-WS
@@ -379,22 +432,6 @@ API - JavaMail
 | to send attachment                        |                   | MimeMessageHelper  |
 
 
-
-API - Hibernate
-===============
-
-|                                                                                  |                            |                                  |                   |
-|----------------------------------------------------------------------------------|----------------------------|----------------------------------|-------------------|
-|                                                                                  | AbstractSessionFactoryBean |                                  |                   |
-| if xml file for mapping, load the configuration                                  |                            | **LocalSessionFactoryBean**      |                   |
-| if annotation for mapping, load the configuration                                |                            | **AnnotationSessionFactoryBean** |                   |
-| Advent of ContextualSession in Hibernate 3.2, we no need this class to work with 
-  Spring                                                                           | HibernateDaoSupport        |                                  |                   |
-|                                                                                  |                            | HibernateTemplate                |                   |
-|                                                                                  |                            |                                  | HibernateCallback |
-
-
-
 API - Unit test
 ===============
 
@@ -428,23 +465,3 @@ API - EJB
 | statless remote session â€“ client                 | SimpleRemoteStatelessSessionProxyFactoryBean ( EJB 2.x) | handle checkeced exception |
 | statless local session â€“ client                  | LocalStatelessSessionProxyFactoryBean ( EJB 2.x)        |                            |
 | it allow, a EJB, to use Spring application context | SpringBeanAutowiringInterceptor ( EJB 3.x)              |                            |
-
-API - Remote Services
-=====================
-
-|                                            |                              |
-|--------------------------------------------|------------------------------|
-| exporting a rmi service                    | RmiServiceExporter           |
-| export Hessian service                     | HessianServiceExporter       |
-| export Burlap service                      | BurlapServiceExorter         |
-| export HTTP invoker service                | HttpInvokerServiceExporter.  |
-| export JAX-WS web service                  | SimpleJaxWsServiceExporter   |
-| use Xfire framework to export a webservice | XFireExporter.               |
-| export webservice devloped by annotation   | Jsr181HandlerMapping         |
-| used for accessing a rmi service           | RmiProxyFactoryBean          |
-| Hessian client proxy                       | HessianProxyFactoryBean      |
-| Burlap client proxy                        | BurlapProxyFactoryBean       |
-| HTTP invoker client proxy                  | HttpInvokerProxyFactoryBean  |
-| JAX-WS client                              | JaxWsPortProxyFactoryBean,   |
-| Xfire web service client                   | XfireClientFactoryBean       |
-| enable JAX-WS autowirng with spring bean   | SpringBeanAutowiringSupport, |
