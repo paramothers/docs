@@ -15,6 +15,7 @@ Paramsivam K                                            <img src="https://github
 * He has habit of keep on updating for new technologies/version.
 * He made himself familiar with NodeJS, various javaScript UI frameworks
   and android programming
+* He eager to work different JavaScript frameworks for both UI and Server-side programming
 * His own documents/articles/quick-reference for many technology can
   find at https://github.com/paramothers/docs
 
@@ -23,16 +24,17 @@ Server Side Component programming
 
 ### Programming ###
 
-| JEE Technology | Spring 4.2 Modules | XML and Web Service | Persistence Frameworks | Java Build Tool |
-|----------------|--------------------|---------------------|------------------------|-----------------|
-| Servlet 3.1    | Spring MVC         | XML Schema 1.1      | JDBC 1.4               | Gradle 2.4      |
-| JSP 1.2        | Spring RestFul     | JAXP 1.4            | MyBatis 3.1            | Maven 3.1       |
-| EJB 3.0        | Spring Security    | JAXB 2.0 & Jibx 1.2 | MBG 1.8                | Ant 1.6         |
-| JMS 1.1        | Spring AOP         | SOAP 1.1 & SAAJ 1.2 | JPA 2.0                |                 |
-| JavaConfig     | Spring Batch       | JAX-RPC 1.1         | Hibernate 4.0          |                 |
-|                | Spring Data        | JAX-WS 2.0          | SQL-99                 |                 |
-|                | Spring Cache       | XStream   1.2       | PL/SQL                 |                 |
-|                | Spring Remote      |                     |                        |                 |
+| JEE Technology  | Spring 4.2 Modules | XML and Web Service | Persistence Frameworks | Java Build Tool |
+|-----------------|--------------------|---------------------|------------------------|-----------------|
+| Servlet 3.1     | Spring MVC         | XML Schema 1.1      | JDBC 1.4               | Gradle 2.4      |
+| JSP 1.2         | Spring RestFul     | JAXP 1.4            | MyBatis 3.1            | Maven 3.1       |
+| EJB 3.0         | Spring Security    | JAXB 2.0 & Jibx 1.2 | MBG 1.8                | Ant 1.6         |
+| JMS 1.1         | Spring AOP         | SOAP 1.1 & SAAJ 1.2 | JPA 2.0                |                 |
+| JavaConfig      | Spring Batch       | JAX-RPC 1.1         | Hibernate 4.0          |                 |
+| Java Validation | Spring Data        | JAX-WS 2.0          | SQL-99                 |                 |
+|                 | Spring Cache       | XStream   1.2       | PL/SQL                 |                 |
+|                 | Spring Remote      |                     |                        |                 |
+|                 | Spring Message     |                     |                        |                 |
 
 ### Servers and Libraries ###
 

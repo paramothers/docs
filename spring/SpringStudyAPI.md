@@ -91,7 +91,7 @@ Bean life-cycle phases
 8. call custom init-method
 
 9. Bean<span style="color: rgb(45, 229, 45);">PostProcessor</span>( Post
-   - Initialization )
+- Initialization )
 
 ( Live Bean in Application context )
 
@@ -322,35 +322,38 @@ API - Remote Services
     +  Spring HTTP's invoker
     +  JAX-WS web service
     +  Hessian or Burlap
+    +  JMS based RCP
 
 API - Remote service Endpoint
 =============================
 
-|                                            |                |                            |
-|--------------------------------------------|----------------|----------------------------|
-| exporting Spring bean as a rmi service     |                | RmiServiceExporter         |
-| export Hessian service                     |                | HessianServiceExporter     |
-|                                            | HessianServlet |                            |
-| export Burlap service                      |                | BurlapServiceExporter      |
-| export HTTP invoker service                |                | HttpInvokerServiceExporter |
-| export JAX-WS web service                  |                | SimpleJaxWsServiceExporter |
-| use Xfire framework to export a webservice |                | XFireExporter              |
-| export webservice devloped by annotation   |                | Jsr181HandlerMapping       |
+|                                            |                           |                            |
+|--------------------------------------------|---------------------------|----------------------------|
+| exporting Spring bean as a rmi service     |                           | RmiServiceExporter         |
+| export Hessian service                     |                           | HessianServiceExporter     |
+|                                            | HessianServlet            |                            |
+| export Burlap service                      |                           | BurlapServiceExporter      |
+| export HTTP invoker service                |                           | HttpInvokerServiceExporter |
+| export JMS based RCP service               |                           | JmsInvokerServiceExporter  |
+| export JAX-WS 2.0 web service              | SpringBeanAutowireSupport |                            |
+|                                            |                           | SimpleJaxWsServiceExporter |
+| use Xfire framework to export a webservice |                           | XFireExporter              |
+| export webservice devloped by annotation   |                           | Jsr181HandlerMapping       |
 
 
 API - Remote service Client
 ===========================
 
-|                                          |                              |
-|------------------------------------------|------------------------------|
-| used for accessing a rmi service         | RmiProxyFactoryBean          |
-| Hessian client proxy                     | HessianProxyFactoryBean      |
-| Burlap client proxy                      | BurlapProxyFactoryBean       |
-| HTTP invoker client proxy                | HttpInvokerProxyFactoryBean  |
-| JAX-WS client                            | JaxWsPortProxyFactoryBean,   |
-| Xfire web service client                 | XfireClientFactoryBean       |
-|                                          |                              |
-| enable JAX-WS autowirng with spring bean | SpringBeanAutowiringSupport, |
+|                                          |                             |
+|------------------------------------------|-----------------------------|
+| used for accessing a rmi service         | RmiProxyFactoryBean         |
+| Hessian client proxy                     | HessianProxyFactoryBean     |
+| Burlap client proxy                      | BurlapProxyFactoryBean      |
+| HTTP invoker client proxy                | HttpInvokerProxyFactoryBean |
+| JAX-WS client                            | JaxWsPortProxyFactoryBean   |
+| Xfire web service client                 | XfireClientFactoryBean      |
+| jms based rcp client                     | JmsInvokerProxyFactoryBean  |
+| enable JAX-WS autowirng with spring bean | SpringBeanAutowiringSupport |
 
 
 API - Transaction
@@ -408,17 +411,26 @@ Spring-WS
 API - JMS
 =========
 
-|                                                                 |                                 |                |         |
-|-----------------------------------------------------------------|---------------------------------|----------------|---------|
-| dealing with boilerplate code of JMS                            | JmsTemplate ( JMS 1.1 )         |                |         |
-| we implement this interface to create a message                 |                                 | MessageCreater |         |
-|                                                                 |                                 |                | Message |
-| it is used receive jmsTemplate like daosupport                  | JmsGatewaySupport               |                |         |
-| like marhalling / unmarll jms message to java object            | MessageConverter                |                |         |
-| convert JMS message to business object                          | SimpleMessageConvertor          |                |         |
-| converty JMS exception to runtime and classify                  | JmsUtil                         |                |         |
-| to give POJO, asynchronous message listener,without transaction | SimpleMessageListenerContainer  |                |         |
-| to give POJO, asynchronous message listener,with transaction    | DefaultMessageListenerContainer |                |         |
+Two main components are
+
+1. MessageBrokers (Message Server)
+2. Destination (Queu/Topic)
+
+|                                                                 |                                 |                                 |         |
+|-----------------------------------------------------------------|---------------------------------|---------------------------------|---------|
+| dealing with boilerplate code of JMS & handle JMSException      | JmsOperations                   |                                 |         |
+| dealing with boilerplate code of JMS & handle JMSException      |                                 | JmsTemplate ( JMS 1.1 )         |         |
+| we implement this interface to create a message                 |                                 | MessageCreator                  |         |
+|                                                                 |                                 |                                 | Message |
+| it is used receive jmsTemplate like daosupport                  | JmsGatewaySupport               |                                 |         |
+| like marhalling / unmarll jms message to java object            | MessageConverter                |                                 |         |
+| convert JMS message to text object                              |                                 | SimpleMessageConverter          |         |
+| convert JMS message to JSON object                              |                                 | MappingJacksonMessageConverter  |         |
+| convert JMS message to JSON2 object                             |                                 | MappingJackson2MessageConverter |         |
+| convert JMS message to XML object                               |                                 | MarshallingMessageConverter     |         |
+| convert JMS exception to runtime and classify                   | JmsUtils                        |                                 |         |
+| to give POJO, asynchronous message listener,without transaction | SimpleMessageListenerContainer  |                                 |         |
+| to give POJO, asynchronous message listener,with transaction    | DefaultMessageListenerContainer |                                 |         |
 
 API - JavaMail
 ==============
@@ -426,7 +438,8 @@ API - JavaMail
 |                                           |                   |                    |
 |-------------------------------------------|-------------------|--------------------|
 |                                           | JavaMailSender    |                    |
-| this has to be configured in XML file     |                   | JavaMailSenderImpl |
+| it use JavaMail API, to use to send email |                   | JavaMailSenderImpl |
+|                                           | MailSession       |                    |
 | to send simple message without attachment | SimpleMailMessage |                    |
 |                                           | MimeMessage       |                    |
 | to send attachment                        |                   | MimeMessageHelper  |

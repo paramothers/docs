@@ -16,6 +16,7 @@ Spring annotation to enable any spring module
 |                                               | @EnableNeo4jRepositories  |
 |                                               | @EnableCaching            |
 | method level security                         | @EnableGlobalSecurity     |
+| enable AMQP based message configuration       | @EnableRabbit             |
 
 
 Spring Context configuration annotation
