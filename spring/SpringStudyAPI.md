@@ -432,6 +432,21 @@ Two main components are
 | to give POJO, asynchronous message listener,without transaction | SimpleMessageListenerContainer  |                                 |         |
 | to give POJO, asynchronous message listener,with transaction    | DefaultMessageListenerContainer |                                 |         |
 
+
+API - WebSocket & STOMP
+=======================
+
++ WebSocketHandler
+    + AbstractWebSocketHandler
+        + TextWebSocketHandler
+        + BinaryWebSocketHandler
+    + WebSocketSession
+    + WebSocketMessage
+        + TextMessage
++ WebSocketConfigurer
+
+
+
 API - JavaMail
 ==============
 

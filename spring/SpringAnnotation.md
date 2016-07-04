@@ -17,6 +17,7 @@ Spring annotation to enable any spring module
 |                                               | @EnableCaching            |
 | method level security                         | @EnableGlobalSecurity     |
 | enable AMQP based message configuration       | @EnableRabbit             |
+|                                               | @EnableWebSocket          |
 
 
 Spring Context configuration annotation

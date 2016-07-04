@@ -15,7 +15,7 @@ Paramsivam K                                            <img src="https://github
 * He has habit of keep on updating for new technologies/version.
 * He made himself familiar with NodeJS, various javaScript UI frameworks
   and android programming
-* He eager to work different JavaScript frameworks for both UI and Server-side programming
+* He eager to work in different JavaScript frameworks for both UI and Server-side programming
 * His own documents/articles/quick-reference for many technology can
   find at https://github.com/paramothers/docs
 
