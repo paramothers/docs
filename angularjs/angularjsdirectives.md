@@ -7,17 +7,17 @@
 ## essential directives ##
 
 1. **ng-app**, bootstrap and it define root of the Angular js application
-2. **ng-controller**, to attach the controller with view, actually going to control the view
-3. **ng-bind**, read data from controller to view (usually <span> element ) by $scope
+1. **ng-controller**, to attach the controller with view, actually going to control the view
+1. **ng-bind**, read data from controller to view (usually <span> element ) by $scope
 1. **ng-bind-html**, display raw html, helps to avoid XSS. it comes from **angular-sanitize.js**
-4. **ng-model**, take data from view to controller by $scope
+1. **ng-model**, take data from view to controller by $scope
 
 ## display-view directives##
 
 1. **ng-view**, use with $route service to display the template in SPA
 1. **ng-class**, dynamically apply a class with help of  *ng-model*
-3. **ng-style**, it is better than *ng-class*, directly declare style property
-2. **ng-options**, to populate <options> tags
+1. **ng-style**, it is better than *ng-class*, directly declare style property
+1. **ng-options**, to populate <options> tags
 1. **ng-include**, it include html fragment from another file like <JSP:include> directive
 
 
@@ -31,23 +31,23 @@
 
 ## Event handling directives##
 
- 1. **ng-click**,  click event handler
- 2. **ngBlur**, 
- 3. **ngChange**, 
- 4. **ngCopy**,
- 5. **ngCut**, 
- 6. **ngDblClick**,
- 7. **ngFocus**,
- 8. **ngKeyPress**, 
- 9. **ngKeyDown**,
-10. **ngKeyUp**,
-11. **ngMousedown**, 
-12. **ngMouseenter**,
-13. **ngMouseleave**,
-14. **ngMousemove**,
-15. **ngMouseover**, 
-16. **ngMouseup**, 
-17. **ngPaste**.
+1. **ng-click**,  click event handler
+1. **ngBlur**, 
+1. **ngChange**, 
+1. **ngCopy**,
+1. **ngCut**, 
+1. **ngDblClick**,
+1. **ngFocus**,
+1. **ngKeyPress**, 
+1. **ngKeyDown**,
+1. **ngKeyUp**,
+1. **ngMousedown**, 
+1. **ngMouseenter**,
+1. **ngMouseleave**,
+1. **ngMousemove**,
+1. **ngMouseover**, 
+1. **ngMouseup**, 
+1. **ngPaste**.
 
 ## form validation directives ##
 

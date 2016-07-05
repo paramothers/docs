@@ -82,32 +82,19 @@ Project Titles and Client Details
 =================================
 
 
-**BOWC** - Businss Object web companian, COE, TCS
-
-**LLR Batch** - Loan Loss Reserve, citi, NAM
-
-**LLR Web** - citi, NAM
-
-**NextGen** - citco
-
-**Russian Plant** - Nisson Motors, Europe
-
-**Volume Service** - S & P
-
-**EISP** (Enterprise Information Search Platform) - Verizon Development
-Service India ( VDSI )
-
-**PVOS** (Port Vehicle Operating System) - Ford India, RMZ
-
-**VSS** (Video Scheduling System) - SNBC, GE
-
-**DBCS** (Demand Based Clustering System) - NBC, GE
-
-**IPC** (International Picture Casting) - NBC, GE
-
-**BASIS** (Business Affairs Summaries and Information System) - NBC, GE
-
-**PPV-VOD** (Pay Per view – video on Demand) - NBC, GE
+1. **BOWC** - Businss Object web companian, COE, TCS
+1. **LLR Batch** - Loan Loss Reserve, citi, NAM
+1. **LLR Web** - citi, NAM
+1. **NextGen** - citco
+1. **Russian Plant** - Nisson Motors, Europe
+1. **Volume Service** - S & P
+1. **EISP** (Enterprise Information Search Platform) - Verizon Development Service India ( VDSI )
+1. **PVOS** (Port Vehicle Operating System) - Ford India, RMZ
+1. **VSS** (Video Scheduling System) - SNBC, GE
+1. **DBCS** (Demand Based Clustering System) - NBC, GE
+1. **IPC** (International Picture Casting) - NBC, GE
+1. **BASIS** (Business Affairs Summaries and Information System) - NBC, GE
+1. **PPV-VOD** (Pay Per view – video on Demand) - NBC, GE
 
 Declaration
 ===========
