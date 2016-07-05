@@ -1,7 +1,11 @@
 # History
 
-**1990, HTML and HTTP are introduced for sharing data.** **1993, CGI programing was introduced, first in Perl and etc..** **1998, DOM convenstion create by w3** **2009, Angular JS life started**
-
++ 1990, HTML and HTTP are introduced for sharing data.
++ 1993, CGI programing was introduced, first in Perl and etc.. 
++ 1998, DOM convention create by w3 .. yes it happened at 98 only.
++ 2006, Google Chrome browser has released
++ 2009, Angular JS life started by Misko Hevery and Adam abrons
+ 
 # Component of Angular JS
 
 1. **Modules**, break up the application into several module.
@@ -27,3 +31,13 @@
 12. it provide support for html-fragmentation using ng-include
 13. **view**, component are developed using already famliar technology that is HTML and CSS.
 14. **distribution**, easy to distrubute the application using **Grunt/Gulp**
+
+Angular JS Project organization
+===============================
+
++ **inline style**, Good for simple poc
++ **Stereo Typed**, Good for small application, only one js file for each type of component
++ **Specific style**, For big application, one folder for each type. it is opposite to _Domain Model_
++ **Domain model**, For big application, one folder for each application's business-module. 
+
+So, start in inline style --> Stereo type --> Domain Model

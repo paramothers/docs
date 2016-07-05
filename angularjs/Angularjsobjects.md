@@ -9,3 +9,4 @@
 7. **$routeScope**, it is super scope object, all of $scope object are child to it.
 8. **$controller**, it is object to get controller instance for testing.
 9. **$delegate**, to decorate any exiting service using $provider
+1. **$filter**, used in controller / services

@@ -6,18 +6,19 @@ https://devotter.com/converter
 Spring annotation to enable any spring module
 =============================================
 
-|                                               |                           |
-|-----------------------------------------------|---------------------------|
-| enable spring mvc                             | @EnableWebMvc             |
-| enable security in spring mvc                 | @EnableWebSecurity        |
-| it has been deprecated in 4.1.0               | @~~EnableWebMvcSecurity~~ |
-| enable spring-data-jpa java configuration     | @EnableJpaRepositories    |
-| enable spring-data-mongodb java configuration | @EnableMongoRepositories  |
-|                                               | @EnableNeo4jRepositories  |
-|                                               | @EnableCaching            |
-| method level security                         | @EnableGlobalSecurity     |
-| enable AMQP based message configuration       | @EnableRabbit             |
-|                                               | @EnableWebSocket          |
+|                                               |                               |
+|-----------------------------------------------|-------------------------------|
+| enable spring mvc                             | @EnableWebMvc                 |
+| enable security in spring mvc                 | @EnableWebSecurity            |
+| it has been deprecated in 4.1.0               | @~~EnableWebMvcSecurity~~     |
+| enable spring-data-jpa java configuration     | @EnableJpaRepositories        |
+| enable spring-data-mongodb java configuration | @EnableMongoRepositories      |
+|                                               | @EnableNeo4jRepositories      |
+|                                               | @EnableCaching                |
+| method level security                         | @EnableGlobalSecurity         |
+| enable AMQP based message configuration       | @EnableRabbit                 |
+|                                               | @EnableWebSocket              |
+| configure Message broker                      | @EnableWebSocketMessageBroker |
 
 
 Spring Context configuration annotation
@@ -98,6 +99,8 @@ Spring MVC, RestFul
 | convert HTTP data into java object                      | @RequestBody             |        |              |          |
 | **File Upload**                                         |                          |        |              |          |
 | used to map multipart request for file upload           | @RequestPart             |        |              |          |
+| **STOMP**                                               |                          |        |              |          |
+| Stomp based controller                                  | @MessageMapping          |        |              |          |
 
 
 Spring-Profile
