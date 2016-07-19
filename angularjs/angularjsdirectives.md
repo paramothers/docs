@@ -3,6 +3,9 @@
  + Directives are case insenstive 
  + it extends HTML behaviour
 
+##Commong directive##
+
++ ng-init
 
 ## essential directives ##
 
@@ -15,11 +18,13 @@
 ## display-view directives##
 
 1. **ng-view**, use with $route service to display the template in SPA
-1. **ng-class**, dynamically apply a class with help of  *ng-model*
-1. **ng-style**, it is better than *ng-class*, directly declare style property
 1. **ng-options**, to populate <options> tags
 1. **ng-include**, it include html fragment from another file like <JSP:include> directive
 
+##CSS related directives##
+
+1. **ng-class**, dynamically/programatically add/modify/remove a class of any element, with help of  *ng-model*
+1. **ng-style**, it is better than *ng-class*, directly declare style property
 
 ## control,looping directives##
 
@@ -40,7 +45,7 @@
 1. **ngFocus**,
 1. **ngKeyPress**, 
 1. **ngKeyDown**,
-1. **ngKeyUp**,
+1. **ngKeyUp**, fire event when key up
 1. **ngMousedown**, 
 1. **ngMouseenter**,
 1. **ngMouseleave**,

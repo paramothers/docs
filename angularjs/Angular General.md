@@ -8,7 +8,8 @@
  
 # Component of Angular JS
 
-1. **Modules**, break up the application into several module.
+1. **Modules**, break up the application into several module. it is like in java we have jar files and reused accross 
+   many projects. Once we have a module, possibly we can re-use in many UI projects
 2. **config**, used to configure the application before to run and routing configuration, dynamically configure Services
 3. **Controller**, handling UI events and manipulationg Model. **Sit between view and service**
 4. **view**, HTML elements .

@@ -21,6 +21,7 @@ Services are **singleton** object and it can be used by controller, directives, 
  6. **$routeProvider**, provide _when_ function to define routing
  7. **$routeParams**, provide access the parameter inside of controller
  8. **$location**, service used to navigate within SPA application, it is like <jsp:forward> to another JSP
+ 1. **$locationProvider**, to enable html5 mode to disable prepend \# in template url.
  9. **$window**, service used to navigate outside of the application
 10. **$log**, used to custom log
 11. **$logProvider**, used to configure the log

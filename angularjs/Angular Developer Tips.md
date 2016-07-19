@@ -25,3 +25,7 @@
 2. Model objects should be sourced from services rather than controller itself.
 3. Manipulation of any DOM, should be through link function of directive
 
+## Directives ##
+
+1. create custom directives to populate application wide domain. for ex. list of users account display many page
+

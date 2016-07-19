@@ -12,10 +12,12 @@ Paramsivam K                                            <img src="https://github
   Bharathidasan University
 * He is good at Design & analysis, orchestration of appropriate
   frameworks/technologies for projects.
+* He played many role and responsibility like selection of technologies, Developer,  Designer and Tester.  
 * He has habit of keep on updating for new technologies/version.
 * He made himself familiar with NodeJS, various javaScript UI frameworks
   and android programming
-* He eager to work in different JavaScript frameworks for both UI and Server-side programming
+* He eager to work in different JavaScript frameworks for both UI and
+  Server-side programming
 * His own documents/articles/quick-reference for many technology can
   find at https://github.com/paramothers/docs
 
@@ -61,15 +63,15 @@ Server Side Component programming
 JavaScript & Web UI Technology
 ==============================
 
-| Java Script | UI Frameworks  | Quality Tool |
-|-------------|----------------|--------------|
-| Node JS 4.0 | Angular JS 1.4 | bower        |
-| JSON        | ExtJS 1.4      | jshint       |
-| Cordova     | GWT 2.4        | Grunt        |
-| Ionic       | SmartGWT 1.2   | Karma        |
-|             | BootStrap 1.1  | Jasmine      |
-|             | HTML 5         | Protractor   |
-|             | CSS 3          |              |
+| Java Script | UI Frameworks  | Quality Tool   |
+|-------------|----------------|----------------|
+| Node JS 4.0 | Angular JS 1.4 | bower  1.7     |
+| JSON        | ExtJS 1.4      | jshint         |
+| Cordova     | GWT 2.4        | Grunt          |
+| Ionic       | SmartGWT 1.2   | Karma   0.13   |
+|             | BootStrap 3.0  | Jasmine 2.4    |
+|             | HTML 5         | Protractor 3.2 |
+|             | CSS 3          |                |
 
 Java Certification
 ==================
@@ -82,19 +84,21 @@ Project Titles and Client Details
 =================================
 
 
-1. **BOWC** - Businss Object web companian, COE, TCS
-1. **LLR Batch** - Loan Loss Reserve, citi, NAM
-1. **LLR Web** - citi, NAM
-1. **NextGen** - citco
-1. **Russian Plant** - Nisson Motors, Europe
-1. **Volume Service** - S & P
-1. **EISP** (Enterprise Information Search Platform) - Verizon Development Service India ( VDSI )
-1. **PVOS** (Port Vehicle Operating System) - Ford India, RMZ
-1. **VSS** (Video Scheduling System) - SNBC, GE
-1. **DBCS** (Demand Based Clustering System) - NBC, GE
-1. **IPC** (International Picture Casting) - NBC, GE
-1. **BASIS** (Business Affairs Summaries and Information System) - NBC, GE
-1. **PPV-VOD** (Pay Per view – video on Demand) - NBC, GE
+ 1. **BOWC** - Businss Object web companian, COE, TCS
+ 2. **LLR Batch** - Loan Loss Reserve, citi, NAM
+ 3. **LLR Web** - citi, NAM
+ 4. **NextGen** - citco
+ 5. **Russian Plant** - Nisson Motors, Europe
+ 6. **Volume Service** - S & P
+ 7. **EISP** (Enterprise Information Search Platform) - Verizon
+    Development Service India ( VDSI )
+ 8. **PVOS** (Port Vehicle Operating System) - Ford India, RMZ
+ 9. **VSS** (Video Scheduling System) - SNBC, GE
+10. **DBCS** (Demand Based Clustering System) - NBC, GE
+11. **IPC** (International Picture Casting) - NBC, GE
+12. **BASIS** (Business Affairs Summaries and Information System) - NBC,
+    GE
+13. **PPV-VOD** (Pay Per view – video on Demand) - NBC, GE
 
 Declaration
 ===========

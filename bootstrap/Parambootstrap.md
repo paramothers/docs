@@ -8,7 +8,7 @@
    - BootStrap 3 use CSS3, and HTML 5
   
  it uses JQuery
- it introduce some of Meta attrubite
+ it introduce some of Meta attribute
 
 other CSS framework are
 
