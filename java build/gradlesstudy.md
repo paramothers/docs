@@ -3,17 +3,20 @@ Gradle
 ======
                                                                                                                                                                                                                                                                    
  + first release in April 2008 ,it is also from apache, it is JVM based build tool                                                                                                                                                                                   
- + Groovy used as build script , Gradle is based on DSL rather than xml file like ant or maven                                                                                                                                                                       
  + it built having in mind both ant and maven , gradle has set of tasks those are **logically grouped into plugin**                                                                                                                                                  
- + android development tool also going to be gradle based instead eclipse plugin.  it has support to REUSE existing ant build script.                                                                                                                                
  + gradle adopt “configuration over convension” philosphy                                                                                                                                                                                                               
- + dependency support not only for external library, but other project also can be a dependency                                                                                                                                                                      
+ + dependency support not only for external library, but other project also can be a dependency                                                                                                                                                                    
+ + Each time you initiate a build, the JVM has to be started, Gradle’s dependencies have to be loaded into the class loader, and the project object model has to be constructed. This procedure usually takes a couple of seconds. Gradle daemon to the rescue       
+
+Gradle Selling Points
+====================
+ + Groovy used as build script , Gradle is based on DSL rather than xml file like ant or maven                                                                                                                                                                       
+ + it support smart exclude for tasks , gradle can run as deamon process , when we do build often                                                                                                                                                                    
+ + Gradle ship with its own Groovy library
+ + android development tool also going to be gradle based instead eclipse plugin.  it has support to REUSE existing ant build script.                                                                                                                                
  + It’s not uncommon to face projects that use client-side languages like JavaScript that communicate with a mixed,  
     multilingual backend like Java, Groovy, and Scala, which in turn calls off to a C++ legacy application. 
  + It’s all about the right tool for the job
- + it support smart exclude for tasks , gradle can run as deamon process , when we do build often                                                                                                                                                                    
- + Each time you initiate a build, the JVM has to be started, Gradle’s dependencies have to be loaded into the class loader, and the project object model has to be constructed. This procedure usually takes a couple of seconds. Gradle daemon to the rescue       
- + Gradle ship with its own Groovy library
 
 Lifecycle
 =========
@@ -24,12 +27,12 @@ Lifecycle
 
 Different file
 ==============
-1. build.gradle
+1. **build.gradle** , it consist of project, task and properties defintion
 2. gradle.properties
 3. settings.gradle
 
-Setup
-=====     
+Setup - environment variables
+=============================     
  
 + **GRADLE\_HOME** , installation path of gradle. usaully unzipped directory
 + **GRADLE\_OPTS** , this environment variable used when jvm settings affect only for Gradle

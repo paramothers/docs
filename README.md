@@ -1,7 +1,7 @@
-Paramsivam K                                            <img src="https://github.com/paramothers/docs/blob/master/SCJP.png" width="88" alt="For Java 1.5"> <img src="https://github.com/paramothers/docs/blob/master/SCWCD.png" width="88" alt="For Servlet 2.5, JSP 1.2 and JSTL 1.1"><img src="https://github.com/paramothers/docs/blob/master/SCBCD.png" width="88" alt="For EJB 2.1">
-=========================================================================================================================================================================================================================================================================================================================================================================================
+Paramsivam K                                            ![For Java 1.5](SCJP.png "For Java 1.5") ![For Servlet 2.5 and JSP 1.2 and JSTL 1.1](SCWCD.png "For Servlet 2.5, JSP 1.2 and JSTL 1.1") ![For EJB 2.1](SCBCD.png "For EJB 2.1")
+=======================================================================================================================================================================================================================================
 
-##### 491499 - 91 9940651567 - paramasivam.k1@tcs.com #####
+##### 91 9940651567 - paramjobseek@gmail.com #####
 
 * He has 12 years of experience in IT, worked in Java and its various
   frameworks/library
@@ -12,7 +12,7 @@ Paramsivam K                                            <img src="https://github
   Bharathidasan University
 * He is good at Design & analysis, orchestration of appropriate
   frameworks/technologies for projects.
-* He played many role and responsibility like selection of technologies, Developer,  Designer and Tester.  
+* He played many role and responsibility like selection of technologies, Developer,  Designer and Tester
 * He has habit of keep on updating for new technologies/version.
 * He made himself familiar with NodeJS, various javaScript UI frameworks
   and android programming
