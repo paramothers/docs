@@ -5,6 +5,14 @@
 + EJB used becauseof JPA
 + do you have have dedicated jasper server
 + why jasper report than bo/etc ?
++ portlet 2.0
++
+
+* portlet.xml
+* springProtlet module
+* use of SimpleDateFormat is tend to error prone
+* why do u want access ejb as remote instead fo local session
+
 
 
 Assumption
