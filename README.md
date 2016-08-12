@@ -1,3 +1,4 @@
+
 Paramsivam K                                            ![For Java 1.5](SCJP.png "For Java 1.5") ![For Servlet 2.5 and JSP 1.2 and JSTL 1.1](SCWCD.png "For Servlet 2.5, JSP 1.2 and JSTL 1.1") ![For EJB 2.1](SCBCD.png "For EJB 2.1")
 =======================================================================================================================================================================================================================================
 
@@ -21,27 +22,30 @@ Paramsivam K                                            ![For Java 1.5](SCJP.png
 * His own documents/articles/quick-reference for many technology can
   find at https://github.com/paramothers/docs
 
+
+
 Server Side Component programming
 =================================
 
 ### Programming ###
 
-| JEE Technology  | Spring 4.2 Modules | XML and Web Service | Persistence Frameworks | Java Build Tool |
-|-----------------|--------------------|---------------------|------------------------|-----------------|
-| Servlet 3.1     | Spring MVC         | XML Schema 1.1      | JDBC 1.4               | Gradle 2.4      |
-| JSP 1.2         | Spring RestFul     | JAXP 1.4            | MyBatis 3.1            | Maven 3.1       |
-| EJB 3.0         | Spring Security    | JAXB 2.0 & Jibx 1.2 | MBG 1.8                | Ant 1.6         |
-| JMS 1.1         | Spring AOP         | SOAP 1.1 & SAAJ 1.2 | JPA 2.0                |                 |
-| JavaConfig      | Spring Batch       | JAX-RPC 1.1         | Hibernate 4.0          |                 |
-| Java Validation | Spring Data        | JAX-WS 2.0          | SQL-99                 |                 |
-|                 | Spring Cache       | XStream   1.2       | PL/SQL                 |                 |
-|                 | Spring Remote      |                     |                        |                 |
-|                 | Spring Message     |                     |                        |                 |
+| Spring 4.2 Modules | XML and Web Service | Persistence Frameworks | Java Build Tool | JEE Technology  |
+| ------------------ | ------------------- | ---------------------- | --------------- | --------------- |
+| Spring MVC         | XML Schema 1.1      | JDBC 1.4               | Gradle 2.4      | Servlet 3.1     |
+| Spring RestFul     | JAXP 1.4            | MyBatis 3.1            | Maven 3.1       | JSP 1.2         |
+| Spring Security    | JAXB 2.0 & Jibx 1.2 | MBG 1.8                | Ant 1.6         | JMS 1.1         |
+| Spring AOP         | SOAP 1.1 & SAAJ 1.2 | JPA 2.0                |                 | JavaConfig      |
+| Spring Batch       | JAX-RPC 1.1         | Hibernate 4.0          |                 | Java Validation |
+| Spring Data        | JAX-WS 2.0          | SQL-99                 |                 |                 |
+| Spring Cache       | XStream   1.2       | PL/SQL                 |                 |                 |
+| Spring Remote      |                     |                        |                 |                 |
+| Spring Message     |                     |                        |                 |                 |
+| Spring Portlet     |                     |                        |                 |                 |
 
 ### Servers and Libraries ###
 
 | Web & App Servers | Frameworks/ Library | Desktop Frameworks | Design            | Product / DB  |
-|-------------------|---------------------|--------------------|-------------------|---------------|
+| ----------------- | ------------------- | ------------------ | ----------------- | ------------- |
 | Jetty 1.9         | Struts 2.1          | SWT 3.0, JFace     | OOAD              | Oracle 12     |
 | Tomcate 7.0       | POI                 | Swing 1.5          | UML 2.0           | Sybase ASE 15 |
 | WebSphere 7.0     | iText 2.6           | AWT                | Design Pattern    | H2   1.2      |
@@ -52,7 +56,7 @@ Server Side Component programming
 ### IDE, VCS and Products ###
 
 | Cloud IDE | SCM-VCS   | Desktop IDE      |
-|-----------|-----------|------------------|
+| --------- | --------- | ---------------- |
 | Codenvy   | Git       | Intellij IDEA 16 |
 | c9.io     | GitHub    | Eclipse 4.3 Mars |
 | coding.io | SVN       | NetBeans 8       |
@@ -64,14 +68,14 @@ JavaScript & Web UI Technology
 ==============================
 
 | Java Script | UI Frameworks  | Quality Tool   |
-|-------------|----------------|----------------|
+| ----------- | -------------- | -------------- |
 | Node JS 4.0 | Angular JS 1.4 | bower  1.7     |
-| JSON        | ExtJS 1.4      | jshint         |
+| JSON        | BootStrap 3.0  | jshint         |
 | Cordova     | GWT 2.4        | Grunt          |
 | Ionic       | SmartGWT 1.2   | Karma   0.13   |
-|             | BootStrap 3.0  | Jasmine 2.4    |
+|             | CSS  3         | Jasmine 2.4    |
 |             | HTML 5         | Protractor 3.2 |
-|             | CSS 3          |                |
+
 
 Java Certification
 ==================
@@ -79,6 +83,8 @@ Java Certification
 * SCJP 1.5, Sun Certified Java Programmer (90%)
 * SCWCD 1.4, Sun Certified Web Component Developer (85%)
 * SCBCD 1.3 Sun Certified Business Component Developer ( 85%)
+
+
 
 Project Titles and Client Details
 =================================
@@ -94,11 +100,13 @@ Project Titles and Client Details
     Development Service India ( VDSI )
  8. **PVOS** (Port Vehicle Operating System) - Ford India, RMZ
  9. **VSS** (Video Scheduling System) - SNBC, GE
-10. **DBCS** (Demand Based Clustering System) - NBC, GE
-11. **IPC** (International Picture Casting) - NBC, GE
-12. **BASIS** (Business Affairs Summaries and Information System) - NBC,
+ 10. **DBCS** (Demand Based Clustering System) - NBC, GE
+ 11. **IPC** (International Picture Casting) - NBC, GE
+ 12. **BASIS** (Business Affairs Summaries and Information System) - NBC,
     GE
-13. **PPV-VOD** (Pay Per view – video on Demand) - NBC, GE
+ 13. **PPV-VOD** (Pay Per view – video on Demand) - NBC, GE
+
+
 
 Declaration
 ===========
