@@ -30,5 +30,17 @@ In existing setup
    populate variouse profile info to AdminEntReportTO
    
    
+   #AUTHICATion  servlet name#
+   
+   https://olbbdev4.tsa.bmo.com/ctpauth/CTPEAILogin/CustUserPasswordAuthServlet
+   https://olbbbccld4web13.tsa.bmo.com/ctpauth/CTPEAILogin/BankUserPasswordAuthServlet
+   
+   **home portal**
+   
+   https://olbbbccld4web13.tsa.bmo.com/wps/myportal/olbb/home ***then admin***
+   https://olbbbccld4web13.tsa.bmo.com/wps/myportal/olbb/administration
+   
+   
+   
    DispatchPortlet -> DefaultAnnotationHandlerMapping - >.AuthenticationInterceptor > Entitlment EJB, jasper session > controller -> ViewRendererServlet
                      
