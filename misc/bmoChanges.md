@@ -14,3 +14,17 @@ Tool changes
 2. ToadEclpse plugin instead of SQL Developer
 3. Eclispe RSE instead of WinSCP
 4. Git among developer by shared drive
+
+
+In existing setup
+=============
+1. few coding standard in java
+2. Attribte key move to constatn
+3. Entitlement object check move to interceptor
+4. date format move to joda and util
+2. JSP practise
+
+
+
+   Profile = Entitilement, from EJB call for given user id
+   populate variouse profile info to AdminEntReportTO
