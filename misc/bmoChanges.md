@@ -28,3 +28,7 @@ In existing setup
 
    Profile = Entitilement, from EJB call for given user id
    populate variouse profile info to AdminEntReportTO
+   
+   
+   DispatchPortlet -> DefaultAnnotationHandlerMapping - >.AuthenticationInterceptor > Entitlment EJB, jasper session > controller -> ViewRendererServlet
+                     
