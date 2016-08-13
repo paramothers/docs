@@ -7,6 +7,7 @@
 6. WAS should be mim 8.5
 
 
+
 Tool changes
 ===========
 
@@ -16,31 +17,38 @@ Tool changes
 4. Git among developer by shared drive
 
 
+
 In existing setup
 =============
 1. few coding standard in java
 2. Attribte key move to constatn
 3. Entitlement object check move to interceptor
 4. date format move to joda and util
-2. JSP practise
+5. JSP practise
 
 
 
    Profile = Entitilement, from EJB call for given user id
    populate variouse profile info to AdminEntReportTO
-   
-   
+
+
    #AUTHICATion  servlet name#
-   
+
    https://olbbdev4.tsa.bmo.com/ctpauth/CTPEAILogin/CustUserPasswordAuthServlet
    https://olbbbccld4web13.tsa.bmo.com/ctpauth/CTPEAILogin/BankUserPasswordAuthServlet
-   
+
    **home portal**
-   
+
    https://olbbbccld4web13.tsa.bmo.com/wps/myportal/olbb/home ***then admin***
    https://olbbbccld4web13.tsa.bmo.com/wps/myportal/olbb/administration
+
    
-   
-   
+
    DispatchPortlet -> DefaultAnnotationHandlerMapping - >.AuthenticationInterceptor > Entitlment EJB, jasper session > controller -> ViewRendererServlet
-                     
+​     
+
++  more use of @RequestParam
++  more use of @SessionAttribute/ @ModelAttribute instead of direct usage of potletSession object. it easy to test.
++  use Restful call to  JasperServer rather than use HTTPclient library
++  avoid websphere depencency completly
++  make war or jar (bundled JAR) as deployment artifact rather than EAR

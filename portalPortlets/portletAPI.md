@@ -19,7 +19,7 @@
 + ResourceServingPortlet
 + PortletConfig
   + PortletContext
-  + PortletSession, PortletSessionUtil
+  + PortletSession, PortletSessionUtil, SessionStatus
   + PortletRequestDispatcher
 + PortletMode
 + PortletURL and ResourceURL
@@ -39,17 +39,9 @@
 
 ## Portlet Spring MVC  annotation
 
-1. @Controller
+1. ​
 
-2. @RequestMapping
-
-3. @ActionMapping
-
-4. @RenderMapping
-
-5. @ResourceMapping
-
-6. @EventMapping
+   ​
 
    ​
 
