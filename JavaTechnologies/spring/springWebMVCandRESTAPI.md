@@ -66,27 +66,50 @@
 
 # Spring Porlet MVC API
 
-1. Controller
+1. DispatchPortlet
+
+2. ResouceServingPortlet
+
+3. Controller
+
    1. PortletModeNameViewController
    2. ParameterizabeViewController
    3. PortletWrappingController
    4. ResourceAwareController
    5. EventAwareController
-2. HandlerMapping
+
+4. HandlerMapping
    1. AbstractHandlerMapping
       1. PortletModeHandlerMapping
       2. ParameterHandlerMapping
       3. PortletModeParameterHandlerMapping
       4. DefaultAnnotationHandelerMapping
-3. DispatcherPortlet
-4. ViewRenderServlet
-5. HandlerInterceptor
+
+5. DispatcherPortlet
+
+6. ViewRenderServlet
+
+7. HandlerInterceptor
    1. HandlerInterceptorAdaptor
       1. ParameterMappingInterceptor
-6. HandlerExceptionResolver
+
+8. HandlerExceptionResolver
    1. AbstracctHandlerExceptionResolver
       1. SimpleMappingExceptionResolver
    2. AnnotationMethodHandlerExceptionResolver
-7. WebDataBinder
-8. BindingResult
-9. AnnotationMethodHandlerAdapter
+
+9. PortletMultipartResolver
+
+   1. CommonPortletMultipartResolverS
+
+10. WebDataBinder
+
+   1. ConfigurableWebBindingInitializer
+
+11. BindingResult
+
+12. AnnotationMethodHandlerAdapter
+
+13. ​
+
+   ​

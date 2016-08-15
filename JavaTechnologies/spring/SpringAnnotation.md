@@ -133,6 +133,7 @@ Spring JMX– annotation
 + @ManagedOperation
 
 
+
 Schedule – annotation
 =====================
 
@@ -140,11 +141,13 @@ Schedule – annotation
 + @Schedule
 
 
+
 Spring Webservice – annotation
 ==============================
 
 + @Endpoint
 + @payloadRoot
+
 
 
 Spring 3.0 Junit 4.5 – annotation
@@ -234,3 +237,8 @@ AspectJ annotation
 
 
 
+# Spring Validation Framework
+
+1. @Valid
+2. @Constraint
+3. ​
