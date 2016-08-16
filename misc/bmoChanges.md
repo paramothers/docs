@@ -30,6 +30,8 @@
   16. mainReport DAO should set size in connection
   17. HttpSession/ProtletSession must be wrapped by a wrapper class. So session usage o0nly by wrapper
   18. use @sessionAttribute with @ModelAttribute to get "adminReportObj"
+  19. gradle should build only current project but not dependent project
+  20. why EXTJS specfic javascript files are in project ?
 
 #    Drastic Changes -  Need client approval
 
