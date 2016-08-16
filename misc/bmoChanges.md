@@ -4,6 +4,11 @@
   2. Attribte key move to constatn
   3. Entitlement object check move to interceptor
   4. date format move to joda and util
+  5. service method parameter count is more.
+  6. Entity and *TO object for same domain. it must be either one
+  7. extjs script include by doHeader() method/ WPS specfic file
+  8. few method used @ResourceMapping instead of @ActionMapping.
+  9. use of @ExceptionResolver for exception handling to avoid repeated code in controller
   5. JSP practise
   6. more use of @RequestParam
   7. more use of @SessionAttribute/ @ModelAttribute instead of direct usage of potletSession object. it easy to test.
