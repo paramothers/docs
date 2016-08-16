@@ -1,6 +1,7 @@
 # In existing setup (what I can contribute)
 
-- 1. few coding standard in java
+- 1. Use of EJB as DAO, really bad 
+- few coding standard in java
   2. Attribte key move to constatn
   3. Entitlement object check move to interceptor
   4. date format move to joda and util
