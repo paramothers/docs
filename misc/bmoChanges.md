@@ -26,6 +26,10 @@
   12. use of EXTJS by recommended architecture with REST/HTTP calls. Use of DispatcherServlet.doHeader() .
   13. use of BuileStep plugin for Jenkin, ex. run a job ONLY if a particular person checkin files.
   14. right now , we have only one portlet..!!!
+  15. few render method in controller removed by favor of <portlet:renderURL>
+  16. mainReport DAO should set size in connection
+  17. HttpSession/ProtletSession must be wrapped by a wrapper class. So session usage o0nly by wrapper
+  18. use @sessionAttribute with @ModelAttribute to get "adminReportObj"
 
 #    Drastic Changes -  Need client approval
 
