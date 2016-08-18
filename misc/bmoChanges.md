@@ -1,4 +1,14 @@
-# In existing setup (what I can contribute)
+# Changes  Required ( Need approval )
+
+1. Cut down EJB usage
+2. Rest Client to connect Jasper Server instead of HttpClient API
+3. Java Validation JSR 338 for Request Parameter Validation
+4. Use of Spring 4.3 
+5. USe of Java 8 ( About WPS and WAS upgrade !! )
+
+
+
+# In existing setup
 
 ##Minor/no impact
 
