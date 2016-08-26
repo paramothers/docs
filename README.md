@@ -1,5 +1,5 @@
 
-Paramsivam K                                            ![For Java 1.5](SCJP.png "For Java 1.5") ![For Servlet 2.5 and JSP 1.2 and JSTL 1.1](SCWCD.png "For Servlet 2.5, JSP 1.2 and JSTL 1.1") ![For EJB 2.1](SCBCD.png "For EJB 2.1")
+Paramsivam K                                            <img src="misc/SCJP.png" height="60" width="85" />  <img src="misc/SCWCD.png" height="60" width="85" />  <img src="misc/SCBCD.png" height="60" width="85" />
 =======================================================================================================================================================================================================================================
 
 ##### 91 9940651567 - paramjobseek@gmail.com #####
