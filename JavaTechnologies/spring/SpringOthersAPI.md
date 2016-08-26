@@ -239,14 +239,17 @@ Two main components are
 
 # API - Unit test
 
-|                           |                            |                                          |                                          |                                          |
-| ------------------------- | -------------------------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
-|                           | AbstractSpringContextTests |                                          |                                          |                                          |
-|                           |                            | AbstractDependencyInjectionSpringContextTests |                                          |                                          |
-|                           |                            | AbstractTransactionalSpringContextTests  |                                          |                                          |
-|                           |                            |                                          | AbstractTransactionalDataSourceSpringContextTests |                                          |
-|                           |                            |                                          |                                          | AbstractAnnotationAwareTransactionalTests |
-| Good for integration test | SpringJUnit4ClassRunner    |                                          |                                          |                                          |
++ TextContextManager
+  + TestContext
+    + **ContextLoader**, it load spring context
+      + **SmartContextLoader**, support @ActiveProfile
+  + **TestExecutionListener**, it heart of test execution class
++ **SpringJUnit4ClassRunner**,  one of Junit Runner.
++ AbstractSpringContextTests
+  + AbstractDependencyInjectionSpringContextTests
+  + AbstractTransactionalSpringContextTests
+    + AbstractTransactionalDataSourceSpringContextTests
+      + AbstractAnnotationAwareTransactionalTests
 
 # API - Exception
 
@@ -307,4 +310,4 @@ Two main components are
 
 + Validator
   + LocalValidatorFactoryBean
-+  BindingResult
++ BindingResult

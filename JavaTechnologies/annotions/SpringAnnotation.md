@@ -153,6 +153,7 @@ Spring Webservice – annotation
 Spring 3.0 Junit 4.5 – annotation
 =================================
 
++ @TestExecutionListeners
 + @TransactionConfiguration
 + @BeforeTransaction
 + @AfterTransaction
@@ -168,6 +169,7 @@ Spring 3.0 Junit 4.5 – annotation
 + @Required
 + @Configurable
 + @Provider
++ @Sql
 
 
 

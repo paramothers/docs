@@ -1,62 +1,52 @@
 
 Gen
-===
+---
 
-|                     |                                          |
-| ------------------- | ---------------------------------------- |
-| it is created by    | `Rod Johnson` at 2002 ,  released in June 2003 |
-|                     | spring is modular framework, a lot of module works together |
-| what Spring give us | DI and AOP                               |
-|                     | Remove boilerplate code by Template pattern and aspect |
-|                     | Gives Power to POJOs                     |
-|                     | declarative programming                  |
+|                  |                                          |
+| ---------------- | ---------------------------------------- |
+| it is created by | `Rod Johnson` at 2002 ,  released in June 2003 |
+|                  | Spring is modular framework, there are module for most of programming |
+
+## How Spring Help to java Developers
+
+1. DI and AOP
+2. Remove boilerplate code by Template pattern and aspect
+3. Gives Power to POJOs
+4. declarative programming either by annotation/ javaconfig/ xml
 
 
-Best Practice
-=============
 
-|             |                                          |
-| ----------- | ---------------------------------------- |
-|             | use of annotation, to integrate with JPA and hibernate (@PersistenceConstext, @autoWire ) , we no need to use any Spring specific classes. |
-|             | use Autowire. We can re factor any reference variable at any time |
-|             | use AutoDiscover. Reduce element in xml file |
-|             | Better to depend autowire and autodiscovery. |
-|             | Override some of bean ONLY whenever exactly need for them. |
-| transaction | use readOnly attribute @Transactional annoation for select method |
-| annotation  | define custome annotation for project's service layer ( Component ) |
-| annotation  | use Repositary annotation, only if we use JPA or hibernate |
-| annotation  | define custome annotation for project's dao layer, if we use plain JDBC or SimpleJDBCTemplate |
-| pointcut    | define pointcut separately and refer it by application |
-| AOP         | have separate AOP for dao , to print the parameters from pojo, at delivery I may disable this alone |
-| AOP         | Have separate AOP for service, to print the parameters from pojo, I can use any pointcut for bug analysis |
-| AOP         | try to use AOP to print stack trace      |
-| AOP         | use  point cut, to use when i need layer specific advice need |
-| DAO         | At least, use interface to access dao layer, provided that service layer not having interfaces |
-|             | Dont all un necessary jar files in class path |
-|             | use external **configuration** files for Datasource |
-| annotation  | use @PreDestory, @Postconstruct Annotation for lifecyle instead of use Spring specific faclity |
-| annotation  | use @Inject (java common ) annotation instead of using Spring Specfic @Autowire annotation |
-|             | use Resource.getResources() to load external resources |
-|             |                                          |
-| AOP         | if we use AOP, for logging, later if we want to change logging framework, we easily change.                                                      
-                More over, logging method will be scattered across application code. If need I can any no. of                                                    
-                Logging statement for debuging, I can delete them whenever no need.                                                                              |
-| AOP         | put all of @Pointcut expression definition in single class and share with many advices.                                                          
-                When referring add package, class name along with method name                                                                                    |
-| DAO         | create my application specific DAO layer exception by extending directly or indirectly spring's DataAccessException                              |
-| Spring-JDBC | create Callable/PreparedStatmentCreator implementation and try to share among more than one DAO or method if possible                            |
-|             |                                                                                                                                                  |
-| XML file    | have separate xml configuration file for JMS related configuration, though minimal element only                                                  |
-| XML file    | have separate xml configuration file for Datasource, ORM related configuration, though minimal element only                                      |
-| XML file    | have separate xml configuration file for Transaction manager though u have only one resource                                                     |
-| XML file    | have separate xml configuration file for AOP, though minimal element only                                                                        |
-| XML file    | have separate xml configuration file as main configuration file, though minimal element only                                                     |
-| XML file    | have separate xml configuration file for Junit test, usually, it will import other bean configuration file and we can point to our test database |
-| Junit       | use in-memory Derby , HSQLDB for testing.                                                                                                        |
+
+## Best Practice
+
+1. use of annotation, to integrate with JPA and hibernate (@PersistenceConstext, @autoWire ) , we no need to use any Spring specific classes.
+2. Better to depend autowire and autodiscovery.
+3. Define custome annotation for project's service/any layer ( Inherint of @Component )
+4. define pointcut separately and refer it by application
+5. have separate AOP for dao , to print the parameters from pojo, at delivery I may disable this alone
+6. Have separate AOP for service, to print the parameters from pojo, I can use any pointcut for bug analysis
+7. try to use AOP to print stack trace 
+8. use  point cut, to use when i need layer specific advice need
+9. use @PreDestory, @Postconstruct Annotation for lifecyle instead of use Spring specific faclity
+10. put all of @Pointcut expression definition in single class and share with many advices
+11. use Conditional Configuration and @profile
+12. one property file load using @PropertySource and access Environment object
+13. use @Profile bounded bean for different deployment environment.
+14. Entire SpringContext/WebContext should configure using JavaConfig.
+15. Have separate marker interface in each layer and use that for scanning path specification
+16. Have as many as configuration files in separate config package
+17. use of AOP, for at least logger entry-exit statements using AspectJ annotations.
+18. Test cases for each controller or each service bean.
+19. create custom annotation as complements of spring specific annotation.
+
+Transaction
+
+1. use readOnly attribute @Transactional annoation for select method
+
 
 
 Suggestion & idea
-=================
+-----------------
 
 |               |                                          |
 | ------------- | ---------------------------------------- |
@@ -65,7 +55,7 @@ Suggestion & idea
 
 
 What Spring Gives
-=================
+-----------------
 
 |                                          |                         |
 | ---------------------------------------- | ----------------------- |
@@ -90,7 +80,7 @@ What Spring Gives
 
 
 API - AOP
-=========
+---------
 
  AOP programming in spring possible in  three ways
 
@@ -106,7 +96,7 @@ API - AOP
 
 
 Spring Web Flow
-===============
+---------------
 
 + flow executor
 + flow registry
@@ -114,7 +104,7 @@ Spring Web Flow
 
 
 Spring Persistence
-================== 
+------------------ 
 
 There are 4 different ways to create datasource in spring project.
 
