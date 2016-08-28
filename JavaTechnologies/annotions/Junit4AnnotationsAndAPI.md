@@ -38,6 +38,7 @@
   + Parameterized
   + Theories
   + Categories
+  + MockitoJunitRunner
 + Assert
 + Assume
 + ParemeterSupplier
