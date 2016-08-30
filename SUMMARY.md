@@ -1,6 +1,6 @@
 # Summary
 
-\* \[Java Technologies\]\(JavaTechnologies\/README.md\)
+\* \[Java Technologies\]\(JavaTechnologies\/JavaIntro.md\)
     \* \[Writing is nice\]\(part1\/writing.md\)
     \* \[GitBook is nice\]\(part1\/gitbook.md\)
 \* \[JavaScript and Web UI\]\(JavaScriptAndWebTechnologies\/README.md\)
