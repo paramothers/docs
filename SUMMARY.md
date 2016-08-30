@@ -19,12 +19,29 @@
   * [Jasper Report](/JavaTechnologies/jasperReport/JasperGeneral.md)
 
     * [Jasper Study](/JavaTechnologies/jasperReport/jasperReportStudy.md)
-    
-    * [JRXML Element](/JavaTechnologies/jasperReport/JRXML Element.md)
-    * [Jasper Template ](/JavaTechnologies/jasperReport/JASPER Template.md)
-    
-    * [Jasper Report java API](/JavaTechnologies/jasperReport/JasperReportAPI.md)    
 
+    * [JRXML Element](/JavaTechnologies/jasperReport/JRXML Element.md)
+
+    * [Jasper Template ](/JavaTechnologies/jasperReport/JASPER Template.md)
+
+    * [Jasper Report java API](/JavaTechnologies/jasperReport/JasperReportAPI.md)
+  * [Java Build]()
+    * [Gradle Study](/JavaTechnologies/java build/gradlesstudy.md)
+    * [Gradle Plugin List](/JavaTechnologies/java build/gradlePluginList.md)
+    * [Gradle Command Line option](/JavaTechnologies/java build/gradleCommandlineOptions.md)
+    * [Gradle API](/JavaTechnologies/java build/gradleAPI.md)
+    * [Maven Study](/JavaTechnologies/java build/mavenstudy.md)
+    * [Gradle Study](/JavaTechnologies/java build/antstudy.md)
+
+
+
+
+
+
+
+
+
+     
 
 [JavaScript and Web UI](JavaScriptAndWebTechnologies/javaScriptLibrariesForWeb.md)
 
