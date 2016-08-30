@@ -63,6 +63,9 @@
   * [Linux Command Level5](linux/commandLevel5.md)
   * [Linux Command Level6](linux/commandLevel6.md) 
 * [Linux Shell Script](linux/shellscript.md)
+* [IDE study](ide/CodenvyStudy.md)
+    * [Intellij IDEA](ide/IDEA Study.md)
+
 
 
 
