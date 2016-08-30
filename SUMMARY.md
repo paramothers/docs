@@ -16,7 +16,7 @@
 
   * [Big Data](/JavaTechnologies/bigdata/Introduction.md)
 
-  * [Jasper Report](/JavaTechnologies/jasperReport/JASPER Template.md "Jasper Template")
+  * [Jasper Report](/JavaTechnologies/jasperReport/JasperGeneral.md)
 
     * [Jasper Report java API](/JavaTechnologies/jasperReport/JasperReportAPI.md)
 
