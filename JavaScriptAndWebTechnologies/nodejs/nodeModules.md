@@ -49,27 +49,33 @@
 1. __passport-local__
 1. __passport-bearer__
 1. __passport-http-bearer__
+1. __passport-oauth2__
 
-**WEB/HTTP**  
+#MiddleWare
+1. __connect__ ,it is framework, to keep a set of middle ware component for web application  
+1. __express__ ,it is middleware for web sites
+2. __express-session__ , need to have large set of information in user's session
+2. __morgan__ , middleware for logging/debugging
+2. __bunyan__ , middleware for logging/debugging use of concept stream
+2. __domain__ , middleware for logging/debugging use of concept stream
+
+
+#WEB/HTTP
 
 1. __http__ , provide http server functionality
 2. **router**, for routing http request
 8. __body-parser__,  to parse form data/requst to string to JSON object.
 4. __querystring__,   to parse qurery string.used as body
 5. __mime__ , to extract mime type from file extension
-6. __serve-static__ , to server static files like css, images, js and etc.
+6. __serve-static__ , to server static files like css, images, js and etc.  
 7. __serve-index__,  to server a directory content.
 9. __cookie-parser__, to parse cookie from requesst and parse into JSON object.
 3. __https__ , TSL/SSL support along with Http protocol.
 10. __cookie-session__, to parse cookie from requesst and parse into JSON object.
 11. __htmlparser__, to convert RSS feed into javascript construct..
 12. __formidable__, to handle the multipart request.
-13. __connect__ ,it is framework, to keep a set of middle ware component for web application  
 
-**Web frameworks**
 
-1. __express__ ,it is middleware for web sites
-2. __express-session__ , need to have large set of information in user's session
 
 **Web View**
 
@@ -98,3 +104,4 @@
 ## Utility
 
 1. chalk
+1. prettyjson
