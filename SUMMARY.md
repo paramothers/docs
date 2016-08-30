@@ -39,6 +39,9 @@
     * [Spring Batch API](JavaTechnologies/spring/springbatch.md)
 * [JavaScript and Web UI](JavaScriptAndWebTechnologies/javaScriptLibrariesForWeb.md)
   * [Node JS](JavaScriptAndWebTechnologies/nodejs/nodeModules.md)
+    * [Node JS Module](JavaScriptAndWebTechnologies/nodejs/nodeModules.md)
+    * [Node JS Global Objects](JavaScriptAndWebTechnologies/nodejs/nodeGlobalObject.md)
+    * [Node JS Aysyc](JavaScriptAndWebTechnologies/nodejs/nodeAsync.md)
   * [Angular JS](JavaScriptAndWebTechnologies/angularjs/Angular General.md)
     * [Angular JS Existing Module](JavaScriptAndWebTechnologies/angularjs/Angular existing module.md)
     * [Angular JS Objects](JavaScriptAndWebTechnologies/angularjs/Angularjsobjects.md)
@@ -47,8 +50,14 @@
     * [Angular JS Directives](JavaScriptAndWebTechnologies/angularjs/angularjsdirectives.md)
   * [Boot Strap](JavaScriptAndWebTechnologies/bootstrap/Parambootstrap.md)
     * [Boot Strap class](JavaScriptAndWebTechnologies/bootstrap/bootstrapClasses.md)   
-  * [Angular JS](JavaScriptAndWebTechnologies/angularjs/Angular Developer Tips.md)
-  * [Angular JS](JavaScriptAndWebTechnologies/angularjs/Angular Developer Tips.md)
+  * [Mongo DB](JavaScriptAndWebTechnologies/mongodb/mongodbStudy.md)
+  * [EXT JS](JavaScriptAndWebTechnologies/extjs/Ext JS General.md)
+    * [EXT JS core ](JavaScriptAndWebTechnologies/extjs/Extjs core.md)
+    * [EXT JS UI API](JavaScriptAndWebTechnologies/extjs/Extjs UI Classes.md)
+    * [EXT JS layout API](JavaScriptAndWebTechnologies/extjs/Extjs layout.md)
+
+
+
 
 
 
