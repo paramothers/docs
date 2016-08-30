@@ -1,4 +1,4 @@
-I have been in IT industry since 2014 onwards. Completed B.E \(cse\) in 2003.
+I have been in IT industry since Nov 2004 onwards. Completed B.E \(cse\) in 2003.
 
 I have worked in "Agriya Infoway", which is my first company. Here i was working with Swing 1.4. i developed a chatting desktop application using JMF. 
 
