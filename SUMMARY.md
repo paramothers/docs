@@ -25,6 +25,8 @@
     * [Jasper Template ](/JavaTechnologies/jasperReport/JASPER Template.md)
 
     * [Jasper Report java API](/JavaTechnologies/jasperReport/JasperReportAPI.md)
+
+
   * [Java Build]()
     * [Gradle Study](/JavaTechnologies/java build/gradlesstudy.md)
     * [Gradle Plugin List](/JavaTechnologies/java build/gradlePluginList.md)
@@ -32,16 +34,18 @@
     * [Gradle API](/JavaTechnologies/java build/gradleAPI.md)
     * [Maven Study](/JavaTechnologies/java build/mavenstudy.md)
     * [Gradle Study](/JavaTechnologies/java build/antstudy.md)
-
-
-
-
-
-
-
-
-
-     
+  * [Jenkin](JavaTechnologies/jenkins/JenkinStudy.md)
+  * [Persistence](JavaTechnologies/persistence/jdbcapi.md)
+    * [JPA](JavaTechnologies/persistence/jpa.md)
+    * [MyBatis](JavaTechnologies/persistence/mybatis.md)
+  * [Portlet ](JavaTechnologies/portalPortlets/PortalGeneral.md)
+    * [Portlet API](JavaTechnologies/portalPortlets/portletAPI.md)
+  * [Spring](JavaTechnologies/spring/springstudy.md)
+    * [Spring Core API](JavaTechnologies/spring/springCoreAPI.md)
+    * [Spring Persistence API](JavaTechnologies/spring/springPersistenceAPI.md)
+    * [Spring MVC and REST API](JavaTechnologies/spring/springWebMVCandRESTAPI.md)
+    * [Spring Other API](JavaTechnologies/spring/SpringOthersAPI.md)
+    * [Spring Batch API](JavaTechnologies/spring/springbatch.md)
 
 [JavaScript and Web UI](JavaScriptAndWebTechnologies/javaScriptLibrariesForWeb.md)
 
