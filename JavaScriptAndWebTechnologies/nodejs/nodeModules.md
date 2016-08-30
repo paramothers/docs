@@ -29,15 +29,16 @@
 **Testing**
 
 1. **assert**,  for supporting unit-test cases. 
-2. **chai**,  provide additional assertions.
+2. **chai**,  provide additional assertions. it is like "assertThat" for junit.
 3. **chai-datetime**,  provide additional assertions.
 4. **mocha**,  a unit-test framework for javascript.
+5. **sinon, **it is mocking framework for javascript.
 
 **NET\/TCP**
 
 1. **net**,   providing TCP server and client
 2. **url**,   to parse URL and query string
-3. **socket-io**, it is web socket protocol implementation for node js.
+3. **socket-io**, it is **web socket** protocol implementation for node js.
 4. **dgram** , provide UDP protocol support
 
 # Authentication and Security
@@ -80,17 +81,19 @@
 **DATABASE**
 
 1. **mysql**, mysql driver for node js
-2. **db-oracle**, oracle driver for node js
-3. **pg**, postgresql driver for node js
+2. **Levlel**, it is from Goolge
+3. **db-oracle**, oracle driver for node js
+4. **pg**, postgresql driver for node js
 
-4. **mongodb**, used to connect mongodb from node.js
+5. **mongodb**, used to connect mongodb from node.js
 
-5. **mongoose**, an abstraction on top of mongodb driver from node.js
+6. **mongoose**, an abstraction on top of mongodb driver from node.js
 
-6. **connect-mongo**, use to store the user's http-SESSION information in mongodb
-7. **redis**, redis driver for node js \(NoSQL\)
-8. **connect**redis\_\_, redis driver for node js \(NoSQL\)
-9. **hiredis**, alternative speed up library for redis database for node js \(NoSQL\)
+7. **connect-mongo**, use to store the user's http-SESSION information in mongodb
+
+8. **redis**, redis driver for node js \(NoSQL\)
+9. **connect**redis\_\_, redis driver for node js \(NoSQL\)
+10. **hiredis**, alternative speed up library for redis database for node js \(NoSQL\)
 
 **Deployment**
 
