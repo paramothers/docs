@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Java Technologies](JavaTechnologies/JavaStudy.md)
-  * [annotations](JavaTechnologies/annotations.md)
+  * [annotations](JavaTechnologies/annotions/annotations.md)
     * [EJB 3.1 Annotation](JavaTechnologies/annotions/Ejb31Annotation.md)
     * [Bean Validation](JavaTechnologies/annotions/BeanValidationDIConfigurationCommonAnnoation.md)
     * [Java](JavaTechnologies/annotions/JavaStudy.md)
