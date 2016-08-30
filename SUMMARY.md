@@ -4,7 +4,6 @@
 * [Java Technologies](JavaTechnologies/JavaStudy.md)
 
   * [annotations](JavaTechnologies/annotions/annotations.md)
-
     * [EJB 3.1 Annotation](JavaTechnologies/annotions/Ejb31Annotation.md)
     * [Bean Validation](JavaTechnologies/annotions/BeanValidationDIConfigurationCommonAnnoation.md)    
     * [JAXWS 21 And Jaxb Annotation](JavaTechnologies/annotions/JAXWS21AndJaxbAnnotation.md)
@@ -13,9 +12,7 @@
     * [mongodb ](JavaTechnologies/annotions/mongodbAnnotation.md)
     * [MyBatis ](JavaTechnologies/annotions/MyBatisAnnotation.md)
     * [Spring 4.2 ](JavaTechnologies/annotions/SpringAnnotation.md)
-
   * [Big Data](/JavaTechnologies/bigdata/Introduction.md)
-
   * [Jasper Report](/JavaTechnologies/jasperReport/JasperGeneral.md)
     * [Jasper Study](/JavaTechnologies/jasperReport/jasperReportStudy.md)
     * [JRXML Element](/JavaTechnologies/jasperReport/JRXML Element.md)
@@ -28,24 +25,30 @@
     * [Gradle API](/JavaTechnologies/java build/gradleAPI.md)
     * [Maven Study](/JavaTechnologies/java build/mavenstudy.md)
     * [Gradle Study](/JavaTechnologies/java build/antstudy.md)
-
   * [Jenkin](JavaTechnologies/jenkins/JenkinStudy.md)
   * [Persistence](JavaTechnologies/persistence/jdbcapi.md)
     * [JPA](JavaTechnologies/persistence/jpa.md)
     * [MyBatis](JavaTechnologies/persistence/mybatis.md)
-
   * [Portlet ](JavaTechnologies/portalPortlets/PortalGeneral.md)
     * [Portlet API](JavaTechnologies/portalPortlets/portletAPI.md)
-
   * [Spring](JavaTechnologies/spring/springstudy.md)
     * [Spring Core API](JavaTechnologies/spring/springCoreAPI.md)
     * [Spring Persistence API](JavaTechnologies/spring/springPersistenceAPI.md)
     * [Spring MVC and REST API](JavaTechnologies/spring/springWebMVCandRESTAPI.md)
     * [Spring Other API](JavaTechnologies/spring/SpringOthersAPI.md)
     * [Spring Batch API](JavaTechnologies/spring/springbatch.md)
-
 * [JavaScript and Web UI](JavaScriptAndWebTechnologies/javaScriptLibrariesForWeb.md)
   * [Node JS](JavaScriptAndWebTechnologies/nodejs/nodeModules.md)
+  * [Angular JS](JavaScriptAndWebTechnologies/angularjs/Angular General.md)
+    * [Angular JS Existing Module](JavaScriptAndWebTechnologies/angularjs/Angular existing module.md)
+    * [Angular JS Objects](JavaScriptAndWebTechnologies/angularjs/Angularjsobjects.md)
+    * [Angular JS eveloper Tips](JavaScriptAndWebTechnologies/angularjs/Angular Developer Tips.md)
+    * [Angular JS Services](JavaScriptAndWebTechnologies/angularjs/AngularService.md)
+    * [Angular JS Directives](JavaScriptAndWebTechnologies/angularjs/angularjsdirectives.md)
+  * [Boot Strap](JavaScriptAndWebTechnologies/bootstrap/Parambootstrap.md)
+    * [Boot Strap class](JavaScriptAndWebTechnologies/bootstrap/bootstrapClasses.md)   
   * [Angular JS](JavaScriptAndWebTechnologies/angularjs/Angular Developer Tips.md)
+  * [Angular JS](JavaScriptAndWebTechnologies/angularjs/Angular Developer Tips.md)
+
 
 
