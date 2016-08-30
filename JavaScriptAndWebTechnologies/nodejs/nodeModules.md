@@ -7,7 +7,7 @@
    3. node_module
 
 
-# Module Name and their usage
+# Module Name and their usages
 
 **CORE**
 
