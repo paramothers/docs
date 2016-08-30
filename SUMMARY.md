@@ -18,8 +18,12 @@
 
   * [Jasper Report](/JavaTechnologies/jasperReport/JasperGeneral.md)
 
-    * [Jasper Report java API](/JavaTechnologies/jasperReport/JasperReportAPI.md)
-
+    * [Jasper Study](/JavaTechnologies/jasperReport/jasperReportStudy.md)
+    
+    * [JRXML Element](/JavaTechnologies/jasperReport/JRXML Element.md)
+    * [Jasper Template ](/JavaTechnologies/jasperReport/JASPER Template.md)
+    
+    * [Jasper Report java API](/JavaTechnologies/jasperReport/JasperReportAPI.md)    
 
 
 [JavaScript and Web UI](JavaScriptAndWebTechnologies/javaScriptLibrariesForWeb.md)
