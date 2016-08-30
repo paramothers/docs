@@ -28,7 +28,7 @@
 
 **Testing**
 
-1. **assert**,  for supporting unit-test cases. simple testing...
+1. **assert**,  for supporting unit-test cases. 
 2. **chai**,  provide additional assertions.
 3. **chai-datetime**,  provide additional assertions.
 4. **mocha**,  a unit-test framework for javascript.
@@ -86,6 +86,7 @@
 4. **mongodb**, used to connect mongodb from node.js
 
 5. **mongoose**, an abstraction on top of mongodb driver from node.js
+
 6. **connect-mongo**, use to store the user's http-SESSION information in mongodb
 7. **redis**, redis driver for node js \(NoSQL\)
 8. **connect**redis\_\_, redis driver for node js \(NoSQL\)
