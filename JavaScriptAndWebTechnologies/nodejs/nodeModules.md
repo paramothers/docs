@@ -1,107 +1,105 @@
+# Modules are three different types
 
-
-#  Modules are three different types
-
-   1. file system based
-   2. core module
-   3. node_module
-
+1. file system based
+2. core module
+3. node\_module
 
 # Module Name and their usages
 
 **CORE**
 
-1. __fs__,  to read/write filesystem
-2. __os__,  to work with operating system.
-3. __path__,  to get filesystem path handling
-4. __q__,  a third party library provide Promises facility.
-5. __util__,  set of utility functions including console global object.
-5. __crypto__
+1. **fs**,  to read\/write filesystem
+2. **os**,  to work with operating system.
+3. **path**,  to get filesystem path handling
+4. **q**,  a third party library provide Promises facility.
+5. **util**,  set of utility functions including console global object.
+6. **crypto**
 
 **Async Programming**
 
-1. __events__,  built in support for event emit and handling.
-2. __async__, to load items in asynchronous manner.
-3. __nimble__, to execute asyncrounous jobs in serial order.
-4. __request__, is simplified HTTP Client.
+1. **events**,  built in support for event emit and handling.
+2. **async**, to load items in asynchronous manner.
+3. **nimble**, to execute asyncrounous jobs in serial order.
+4. **request**, is simplified HTTP Client.
 
 **Debugging**
 
-1. __node-inspector__,  for easy debugging
+1. **node-inspector**,  for easy debugging
 
 **Testing**
 
-1. __assert__,  for supporting unit-test cases.
-2. __chai__,  provide additional assertions.
-3. __chai-datetime__,  provide additional assertions.
-4. __mocha__,  a unit-test framework for javascript.
+1. **assert**,  for supporting unit-test cases. simple testing...
+2. **chai**,  provide additional assertions.
+3. **chai-datetime**,  provide additional assertions.
+4. **mocha**,  a unit-test framework for javascript.
 
-**NET/TCP**
+**NET\/TCP**
 
-1. __net__,   providing TCP server and client
-2. __url__,   to parse URL and query string
-3. __socket-io__, it is web socket protocol implementation for node js.
-4. __dgram__ , provide UDP protocol support
+1. **net**,   providing TCP server and client
+2. **url**,   to parse URL and query string
+3. **socket-io**, it is web socket protocol implementation for node js.
+4. **dgram** , provide UDP protocol support
 
-#Authentication and Security
-1. __jsonwebtoken__,
-1. __passport__,
-1. __passport-local__
-1. __passport-bearer__
-1. __passport-http-bearer__
-1. __passport-oauth2__
+# Authentication and Security
 
-#MiddleWare
-1. __connect__ ,it is framework, to keep a set of middle ware component for web application  
-1. __express__ ,it is middleware for web sites
-2. __express-session__ , need to have large set of information in user's session
-2. __morgan__ , middleware for logging/debugging
-2. __bunyan__ , middleware for logging/debugging use of concept stream
-2. __domain__ , middleware for logging/debugging use of concept stream
+1. **jsonwebtoken**,
+2. **passport**,
+3. **passport-local**
+4. **passport-bearer**
+5. **passport-http-bearer**
+6. **passport-oauth2**
 
+# MiddleWare
 
-#WEB/HTTP
+1. **connect** ,it is framework, to keep a set of middle ware component for web application  
+2. **express** ,it is middleware for web sites
+3. **express-session** , need to have large set of information in user's session
+4. **morgan** , middleware for logging\/debugging
+5. **bunyan** , middleware for logging\/debugging use of concept stream
+6. **domain** , middleware for logging\/debugging use of concept stream
 
-1. __http__ , provide http server functionality
+# WEB\/HTTP
+
+1. **http** , provide http server functionality
 2. **router**, for routing http request
-8. __body-parser__,  to parse form data/requst to string to JSON object.
-4. __querystring__,   to parse qurery string.used as body
-5. __mime__ , to extract mime type from file extension
-6. __serve-static__ , to server static files like css, images, js and etc.  
-7. __serve-index__,  to server a directory content.
-9. __cookie-parser__, to parse cookie from requesst and parse into JSON object.
-3. __https__ , TSL/SSL support along with Http protocol.
-10. __cookie-session__, to parse cookie from requesst and parse into JSON object.
-11. __htmlparser__, to convert RSS feed into javascript construct..
-12. __formidable__, to handle the multipart request.
-
-
+3. **body-parser**,  to parse form data\/requst to string to JSON object.
+4. **querystring**,   to parse qurery string.used as body
+5. **mime** , to extract mime type from file extension
+6. **serve-static** , to server static files like css, images, js and etc.  
+7. **serve-index**,  to server a directory content.
+8. **cookie-parser**, to parse cookie from requesst and parse into JSON object.
+9. **https** , TSL\/SSL support along with Http protocol.
+10. **cookie-session**, to parse cookie from requesst and parse into JSON object.
+11. **htmlparser**, to convert RSS feed into javascript construct..
+12. **formidable**, to handle the multipart request.
 
 **Web View**
 
-1. __ejs__, expres template engine for views.
+1. **ejs**, expres template engine for views.
 
-**DATABASE**  
+**DATABASE**
 
-1. __mysql__, mysql driver for node js
-2. __db-oracle__, oracle driver for node js
-3. __pg__, postgresql driver for node js
+1. **mysql**, mysql driver for node js
+2. **db-oracle**, oracle driver for node js
+3. **pg**, postgresql driver for node js
 
-4. __mongodb__, used to connect mongodb from node.js
-5. __mongoose__, an abstraction on top of mongodb driver from node.js
-6. __connect-mongo__, use to store the user's http-SESSION information in mongodb
-7. __redis__, redis driver for node js (NoSQL)
-8. __connect__redis__, redis driver for node js (NoSQL)
-9. __hiredis__, alternative speed up library for redis database for node js (NoSQL)
+4. **mongodb**, used to connect mongodb from node.js
+
+5. **mongoose**, an abstraction on top of mongodb driver from node.js
+6. **connect-mongo**, use to store the user's http-SESSION information in mongodb
+7. **redis**, redis driver for node js \(NoSQL\)
+8. **connect**redis\_\_, redis driver for node js \(NoSQL\)
+9. **hiredis**, alternative speed up library for redis database for node js \(NoSQL\)
 
 **Deployment**
 
-1. __forever__, used to keep server up always, irrepsective of error
-2. __cluster__, to run the node.js in muilticore processor
-3. __UpStart__, to run the node.js , it is advanced than __forever__
-4. __ngen__, to build our own custom module for npm repository.
+1. **forever**, used to keep server up always, irrepsective of error
+2. **cluster**, to run the node.js in muilticore processor
+3. **UpStart**, to run the node.js , it is advanced than **forever**
+4. **ngen**, to build our own custom module for npm repository.
 
 ## Utility
 
 1. chalk
-1. prettyjson
+2. prettyjson
+
