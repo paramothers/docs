@@ -21,7 +21,7 @@ CSON \( CoffeScript Object Notation\)
 3. Sass, LESS - for CSS
 4. JSCS - for javascript code sytle checker \(like checkstyle in java\)
 5. CssLint, helps to identify css files if has any issues
-6. ESSLint
+6. ESSLint \( it also has JSCS as merged into \)
 
 ## JavaScript-Backend Communication
 
