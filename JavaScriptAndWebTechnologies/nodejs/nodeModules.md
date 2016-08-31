@@ -35,6 +35,10 @@
 3. **chai-datetime**,  provide additional assertions.
 4. **mocha**,  a unit-test framework for javascript.
 5. **sinon, **it is mocking framework for javascript.
+6. **Karma**, is test runner like Junit
+7. **Jasmine**, - used to write test cases for Angular JS
+8. **Protractor **- used to write integration test for Angular JS
+9. **Wows, ** used to write test case for Node JS application
 
 **NET\/TCP**
 
@@ -99,6 +103,7 @@
 
 10. **hiredis**, alternative speed up library for redis database for node js \(NoSQL\)
 
+
 **Deployment**
 
 1. **forever**, used to keep server up always, irrepsective of error
@@ -110,4 +115,12 @@
 
 1. chalk
 2. prettyjson
+
+### 
+
+### JavaScript code coverage modules
+
+1. instanbul
+
+2. jscoverage
 
