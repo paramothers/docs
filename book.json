@@ -1,5 +1,7 @@
 {
  "structure":{
    "readme":"README.md"
-    }
+    },
+ "title":"My Understandig Documents",
+ "description": "This is jus description of book"
 }

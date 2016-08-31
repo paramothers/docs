@@ -2,8 +2,7 @@
 
  **CORE Objects**
  
- 1. Exports
- 
+ 1. Exports 
  1. Console
             __log()__
             __trace()__     ,it print the stacktrace, useful for debugging.
@@ -23,3 +22,4 @@
          it is act as super class to event emit and listen
  
  1. Buffer
+ 1. Stream
