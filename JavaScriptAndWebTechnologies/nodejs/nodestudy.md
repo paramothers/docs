@@ -22,12 +22,14 @@ This Non-Blocking IO enables
 
 1. **First Class Function** - a anonymouse function can be assigned to a variable
 
-2. **Immediate execute function**, it create new variable scope 
+2. **Immediate execute function**, it create new variable scope
+
 3. **Closure **- function passed as parameter to a function or return from a function.
 
-4. Object Literal
+4. **Higher Order function** - a function accept another function as argument
+5. Object Literal
 
-5. 
+6. 
 
 `The Node.js platform allows developers to easily separate code. So there are many modules are there. most of time, as a developer has to orchestrate appropriate module for complete a project`
 
