@@ -18,14 +18,15 @@ This Non-Blocking IO enables
 **Buffers**, - Add supports to deal Binary data in Node JS.
 **Streams**, used as event interface to pass data around
 
-### JavaScript's Construct  are good candidate for Node js  
+### The Below JavaScript's Constructs  are good candidate for Node js
 
-1. First Class Funtion 
+1. **First Class Function** - a anonymouse function can be assigned to a variable
 
-2. Closure 
+2. **Immediate execute function**, it create new variable scope 
+3. **Closure **- function passed as parameter to a function or return from a function.
 
-3. Object Literal
-4. Execute immediate function, it create new variable scope
+4. Object Literal
+
 5. 
 
 `The Node.js platform allows developers to easily separate code. So there are many modules are there. most of time, as a developer has to orchestrate appropriate module for complete a project`
