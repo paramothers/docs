@@ -20,7 +20,7 @@
 **Async Programming**
 
 1. **events**,  built in support for event emit and handling.
-2. **async**, to load items in asynchronous manner.
+2. **async**, to load items in asynchronous manner. It helps developer to do async programming
 3. **nimble**, to execute asyncrounous jobs in serial order.
 4. **request**, is simplified HTTP Client.
 
@@ -96,6 +96,7 @@
 8. **redis**, redis driver for node js \(NoSQL\)
 
 9. **connect**redis\_\_, redis driver for node js \(NoSQL\)
+
 10. **hiredis**, alternative speed up library for redis database for node js \(NoSQL\)
 
 **Deployment**
