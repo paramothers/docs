@@ -38,12 +38,7 @@ CSON \( CoffeScript Object Notation\)
 1. Bower
 2. Npm
 
-### JavaScript Testing tools
-
-1. **Karma**,  is test runner like Junit
-2. **Jasmine**, - used to write test cases for Angular JS
-3. **Protractor **- used to write integration test for Angular JS
-4. **Wows, Chai, Mocha**, used to write test case for Node JS application
+### 
 
 ## JavaScript Runtime
 
