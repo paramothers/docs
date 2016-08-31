@@ -12,6 +12,8 @@
 
 JSON
 
+CSON \( CoffeScript Object Notation\)
+
 ## Quality tools
 
 1. JsLint - for javaScript
@@ -26,12 +28,22 @@ JSON
 1. AJAX
 2. Commet
 
-## JavaScript-NodeJS package
+## JavaScript- workflow
 
 1. Grunt
 2. Gulp
-3. Bower
-4. Karma, Jasmine, Protractor
+
+### JavaScript package manager
+
+1. Bower
+2. Npm
+
+### JavaScript Testing tools
+
+1. **Karma**,  is test runner like Junit
+2. **Jasmine**, - used to write test cases for Angular JS
+3. **Protractor **- used to write integration test for Angular JS
+4. **Wows, Chai, Mocha**, used to write test case for Node JS application
 
 ## JavaScript Runtime
 
