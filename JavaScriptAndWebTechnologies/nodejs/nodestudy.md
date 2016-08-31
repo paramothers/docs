@@ -28,7 +28,7 @@ This Non-Blocking IO enables
 
 4. **Higher Order function** - a function accept another function as argument
 
-5. Object Literal
+5. **Object Literal** -  easy to define arbitary properties
 
 6. 
 
