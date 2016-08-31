@@ -24,9 +24,10 @@ This Non-Blocking IO enables
 
 2. **Immediate execute function**, it create new variable scope
 
-3. **Closure **- function passed as parameter to a function or return from a function.
+3. **Closure **- inner function, which bound the variables declared in outer function.
 
 4. **Higher Order function** - a function accept another function as argument
+
 5. Object Literal
 
 6. 
