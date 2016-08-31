@@ -22,11 +22,9 @@ This Non-Blocking IO enables
 3. Javascript best for `first-class function`, `closure`
 4. CommonJS add module scope in javascript
 
+1. Node takes javascript to server side programming and  Browsers takes javascript to client
 
 
-5. Node takes javascript to server side programming and  Browsers takes javascript to client
-
-  REPL - read evaluate print loop
 
 
 ### Environment Variable
