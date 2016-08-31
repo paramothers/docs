@@ -15,6 +15,11 @@ This Non-Blocking IO enables
 3. creating child process
 
 
+**Buffers**, - Add supports to deal Binary data in Node JS.
+**Streams**, used as event interface to pass data around
+
+
+
 **Node.js is ALSO platform for WEB application development**
 
 1. Web server need to single thread based request handling
@@ -22,9 +27,7 @@ This Non-Blocking IO enables
 3. Javascript best for `first-class function`, `closure`
 4. CommonJS add module scope in javascript
 
-1. Node takes javascript to server side programming and  Browsers takes javascript to client
-
-
+5. Node takes javascript to server side programming and  Browsers takes javascript to client
 
 
 ### Environment Variable

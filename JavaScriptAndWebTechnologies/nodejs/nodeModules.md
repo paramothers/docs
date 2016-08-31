@@ -10,10 +10,12 @@
 
 1. **fs**,  to read\/write filesystem
 2. **os**,  to work with operating system.
-3. **path**,  to get filesystem path handling
-4. **q**,  a third party library provide Promises facility.
-5. **util**,  set of utility functions including console global object.
-6. **crypto**
+3. **Stream, **it provide API to create read\/write\/duplex\/transferable stream
+4. **buffer**, it helps to work different data format.
+5. **path**,  to get filesystem path handling
+6. **q**,  a third party library provide Promises facility.
+7. **util**,  set of utility functions including console global object.
+8. **crypto**
 
 **Async Programming**
 
@@ -92,6 +94,7 @@
 7. **connect-mongo**, use to store the user's http-SESSION information in mongodb
 
 8. **redis**, redis driver for node js \(NoSQL\)
+
 9. **connect**redis\_\_, redis driver for node js \(NoSQL\)
 10. **hiredis**, alternative speed up library for redis database for node js \(NoSQL\)
 
