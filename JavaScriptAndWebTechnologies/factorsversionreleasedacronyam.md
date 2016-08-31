@@ -4,6 +4,6 @@
 
 3. **V8**, is the virtual _machine_ powed by google chrome.
 
-4. REPL - read evaluate print loop
+4. **REPL **- read evaluate print loop
 
 
