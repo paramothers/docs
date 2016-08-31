@@ -17,7 +17,7 @@ JSON
 1. JsLint - for javaScript
 2. JsHint - for javaScript
 3. Sass, LESS - for CSS
-4. JSCS - for CSS
+4. JSCS - for javascript code sytle checker \(like checkstyle in java\)
 5. CssLint, helps to identify css files if has any issues
 6. ESSLint
 
