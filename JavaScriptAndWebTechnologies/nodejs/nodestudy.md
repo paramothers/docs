@@ -18,6 +18,8 @@ This Non-Blocking IO enables
 **Buffers**, - Add supports to deal Binary data in Node JS.
 **Streams**, used as event interface to pass data around
 
+JavaScript's  First Class Funtion and Closure are good candidate for Node js
+
 `The Node.js platform allows developers to easily separate code. So there are many modules are there. most of time, as a developer has to orchestrate appropriate module for complete a project`
 
 ### V8 engine
