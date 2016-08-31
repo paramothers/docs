@@ -14,10 +14,12 @@ JSON
 
 ## Quality tools
 
-1. JsLint
-2. JsHint
-3. CssLint, helps to identify css files if has any issues
-4. ESSLint
+1. JsLint - for javaScript
+2. JsHint - for javaScript
+3. Sass, LESS - for CSS
+4. JSCS - for CSS
+5. CssLint, helps to identify css files if has any issues
+6. ESSLint
 
 ## JavaScript-Backend Communication
 
