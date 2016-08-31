@@ -18,15 +18,16 @@ This Non-Blocking IO enables
 **Buffers**, - Add supports to deal Binary data in Node JS.
 **Streams**, used as event interface to pass data around
 
-### V8 engine 
+### V8 engine
 
-* To do compiling and executing of javascript. 
+* To do compiling and executing of javascript.
 
 * Also do memory management
 
 * it has one fast GC garbage collector
+
 * it has one built-in profiler
-* it compile source code directly to machine\/binary code. Not to any byte code like java.
+* it compile source code directly to machine\/binary code. Not to any byte code like java compiler.
 
 **Node.js is ALSO platform for WEB application development**
 
