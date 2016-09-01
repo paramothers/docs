@@ -13,6 +13,7 @@
 1. SASS
 
 2. LESS
+
 3. BootStrap
 
 ## Domain Object
@@ -39,7 +40,7 @@ CSON \( CoffeScript Object Notation\)
 1. Grunt
 2. Gulp
 
-### JavaScript package manager
+### JavaScript package\/dependency manager
 
 1. Bower
 2. Npm
@@ -48,5 +49,4 @@ CSON \( CoffeScript Object Notation\)
 
 1. NodeJS
 2. Browsers
-
 
