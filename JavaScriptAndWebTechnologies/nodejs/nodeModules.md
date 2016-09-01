@@ -122,7 +122,9 @@
 
 2. grunt-contrib-sass \/ grunt-sass
 
-3. node-sass
+3. grunt-contrib-watch
+4. node-sass
+
 
 ## **Deployment**
 
