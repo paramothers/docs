@@ -28,8 +28,6 @@
 
 1. **node-inspector**,  for easy debugging
 
-
-
 **NET\/TCP**
 
 1. **net**,   providing TCP server and client
@@ -94,8 +92,6 @@
 10. **hiredis**, alternative speed up library for redis database for node js \(NoSQL\)
 
 
-
-
 ## Utility
 
 1. chalk
@@ -124,7 +120,8 @@
 
 1. grunt-cli
 
-2. grunt-contrib-sass
+2. grunt-contrib-sass \/ grunt-sass
+
 3. node-sass
 
 ## **Deployment**
