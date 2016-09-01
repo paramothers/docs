@@ -8,6 +8,13 @@
 6. Backbone.JS
 7. GWT, DWR
 
+### CSS Frameworks
+
+1. SASS
+
+2. LESS
+3. BootStrap
+
 ## Domain Object
 
 JSON
@@ -18,10 +25,9 @@ CSON \( CoffeScript Object Notation\)
 
 1. JsLint - for javaScript
 2. JsHint - for javaScript
-3. Sass, LESS - for CSS
-4. JSCS - for javascript code sytle checker \(like checkstyle in java\)
-5. CssLint, helps to identify css files if has any issues
-6. ESSLint \( it also has JSCS as merged into \)
+3. JSCS - for javascript code sytle checker \(like checkstyle in java\)
+4. CssLint, helps to identify css files if has any issues
+5. ESSLint \( it also has JSCS as merged into \)
 
 ## JavaScript-Backend Communication
 
@@ -38,19 +44,9 @@ CSON \( CoffeScript Object Notation\)
 1. Bower
 2. Npm
 
-### 
-
 ## JavaScript Runtime
 
 1. NodeJS
 2. Browsers
 
-## CSS Frameworks
-
-1. BootStrap
-
-## CSS Theme
-
-1. LESS
-2. SASS
 
