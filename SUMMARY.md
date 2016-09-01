@@ -49,8 +49,8 @@
 ## JavaScript and Web UI
 
 * [JavaScript and Web UI](JavaScriptAndWebTechnologies/javaScriptLibrariesForWeb.md)
-  * [ECMAScript](JavaScriptAndWebTechnologies/ECMAScript/General.md)
-    * [JavaScript API](JavaScriptAndWebTechnologies/ECMAScript/General.md)
+  * [ECMAScript](JavaScriptAndWebTechnologies/ECMAScript/README.md)
+    * [JavaScript API](JavaScriptAndWebTechnologies/ECMAScript/javascriptAPI.md)
   * [Node JS](JavaScriptAndWebTechnologies/nodejs/nodestudy.md)
     * [Node JS Module](JavaScriptAndWebTechnologies/nodejs/nodeModules.md)
     * [Node JS Global Objects](JavaScriptAndWebTechnologies/nodejs/nodeGlobalObject.md)
