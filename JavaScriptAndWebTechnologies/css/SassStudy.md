@@ -1,6 +1,6 @@
 ## SASS
 
-it is installed as a Gem by Ruby.
+~~it is installed as a Gem by Ruby.~~ \( Node JS Now used \)
 it makes speed style creation
 it is better than LESS
 
@@ -11,6 +11,7 @@ it is better than LESS
 2. codeKit
 
 3. Hammer
+
 4. prepros
 5. scout
 6. LiveReload
