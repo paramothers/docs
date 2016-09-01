@@ -51,3 +51,9 @@ CSON \( CoffeScript Object Notation\)
 1. NodeJS
 2. Browsers
 
+### JavaScript - Abstraction programming - translated into javascript
+
+1. CoffeScript
+
+2. TypeScript - from microsoft
+
