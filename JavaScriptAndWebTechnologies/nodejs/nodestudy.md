@@ -30,10 +30,12 @@ This Non-Blocking IO enables
 
 5. **Object Literal** -  easy to define arbitary properties
 
-6. **Module Reveal Pattern** -  return a object from a method to achieve OOPs
+6. **Module Reveal Pattern** -  return a object from a method. for each call. So it every returned instance will own copy of methods and properties. _**it  occupy memory like anything**_
 
-7. **Function **is powerful in javascript than any other lanugages.
-8. 
+7. **Prototype**, using prototype, all instance can share a method definition. \(similar in java -static methods\)
+8. Generally** Function **is powerful in javascript than any other lanugages.
+
+9. 
 
 `The Node.js platform allows developers to easily separate code. So there are many modules are there. most of time, as a developer has to orchestrate appropriate module for complete a project`
 
