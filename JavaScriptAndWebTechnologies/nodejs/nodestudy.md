@@ -32,6 +32,9 @@ This Non-Blocking IO enables
 
 6. **Module Reveal Pattern** -  return a object from a method to achieve OOPs
 
+7. **Function **is powerful in javascript than any other lanugages.
+8. 
+
 `The Node.js platform allows developers to easily separate code. So there are many modules are there. most of time, as a developer has to orchestrate appropriate module for complete a project`
 
 ### V8 engine
