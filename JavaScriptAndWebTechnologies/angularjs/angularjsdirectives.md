@@ -3,7 +3,7 @@
 
 ##Commong directive
 
-+ng-init
++ ng-init
 
 ## essential directives
 
