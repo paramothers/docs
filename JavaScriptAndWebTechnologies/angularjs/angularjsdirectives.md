@@ -1,6 +1,3 @@
-
-
-
 ## Commong directive
 
 + ng-init
