@@ -30,7 +30,7 @@ This Non-Blocking IO enables
 
 5. **Object Literal** -  easy to define arbitary properties
 
-6. 
+6. **Module Reveal Pattern** -  return a object from a method to achieve OOPs
 
 `The Node.js platform allows developers to easily separate code. So there are many modules are there. most of time, as a developer has to orchestrate appropriate module for complete a project`
 
@@ -39,6 +39,7 @@ This Non-Blocking IO enables
 * it is easy to integrate with other projects
 
 * it is platform independent
+
 * To do compiling and executing of javascript.
 
 * Also do memory management
