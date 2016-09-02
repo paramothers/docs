@@ -1,7 +1,7 @@
 
 
 
-##Commong directive
+## Commong directive
 
 + ng-init
 
