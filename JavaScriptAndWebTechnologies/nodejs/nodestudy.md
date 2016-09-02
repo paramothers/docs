@@ -36,6 +36,9 @@ This Non-Blocking IO enables
 
 ### V8 engine
 
+* it is easy to integrate with other projects
+
+* it is platform independent
 * To do compiling and executing of javascript.
 
 * Also do memory management
