@@ -1,13 +1,11 @@
 
- + Directive can be either as element/attribute/class/comment 
- + Directives are case insenstive 
- + it extends HTML behaviour
 
-##Commong directive##
 
-+ ng-init
+##Commong directive
 
-## essential directives ##
++ng-init
+
+## essential directives
 
 1. **ng-app**, bootstrap and it define root of the Angular js application
 1. **ng-controller**, to attach the controller with view, actually going to control the view
