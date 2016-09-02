@@ -1,4 +1,10 @@
+ +. Directive can be either as element/attribute/class/comment
+ +. Directives are case insenstive
+ +. it extends HTML behaviour
+
 ## Commong directive
+
+
 
 + ng-init
 
