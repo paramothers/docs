@@ -1,26 +1,20 @@
-I have been in IT industry since Nov 2004 onwards. Completed B.E \(cse\) in 2003.
+ **About me \(Paramasivam\)**
 
-I have worked in "Agriya Infoway", which is my first company. Here i was working with Swing 1.4. i developed a chatting desktop application using JMF. 
+I have been in IT industry since Nov 2004 onwards. Completed B.E \(CSE\) in 2003.
 
-Then, i switched to "iGATE",  Sep, 2015, where i was working Java web application using Struts 1.2, JSP and EJB 2.1. with jboss, ClearCase, CVS, Ant. I learned about layer in a project implementation.
+I started my career in "Agriya Infoway", where I was working as a Java Developer with Swing 1.4.  I developed a chatting desktop application using JMF.
 
-To do three Java Certification, i resigned from igate and took break for 3 months and completed those certification. \( not by question dump :\) \)
+Then i joined "iGATE" in  2005, where I was working as a Java web applications developer using Struts 1.2, Servlet 2.4, JSP 1.2 and EJB 2.1. with JBoss, ClearCase, CVS, Ant. Also I learned about layered architecture, use few UML Diagram.
 
-After, i joined in Satyam, where i got to learn, usage RAD, RSM, Websphere, Mercury, custom JSTL, Web service \(SOAP\), XML paring, XSD writing, JAXB, Jibx, Hibernate, Spring 2.5, iBatis, JQuery, AJAX, java code generation.
+I wanted to do Java certifications\( Inspired by friends\), I resigned from igate and took break for 3 months and completed those certification. \( not by question dump :\) \). I could not get free time while working in iGATE.
 
+After that, I joined in Satyam, where i got to learn, usage RAD 6, RSM 5, Websphere 6, Mercury, Custom JSTL, Web service \(SOAP\), XML parsing, XSD writing, JAXB, Jibx, Hibernate, Spring 2.5, iBatis, JQuery, AJAX, Java code generation for projects.
 
+After I joined in TCS 2011, got oppertunities to work with GWT, SmartGWT, Spring Batch 2.0, Maven 3.0, Gradle 1.7, JAX-WS 2., MyBatis 3.18, Spring 3.1 & 4, Shell Script, SVN.
 
-After joined in TCS about June-2011, got into GWT, SmartGWT, Spring Batch, Maven, Gradle, JAX-WS, MyBatis, Spring 3.1 & 4, Shell Script, SVN.
-
-Actually most  of technologies in my list \( i.e resume \) i learned with self interest.  
+Actually most  of technologies in my list \( i.e resume \) i learned with self interest.
 
 I got more free time, when i work in TCS. i used all these time to equip me with different technology.
 
-
-
 Now, i can work in any  Java or JavaScript project.
-
-
-
-
 
