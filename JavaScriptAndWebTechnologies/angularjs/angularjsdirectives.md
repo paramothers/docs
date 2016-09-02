@@ -14,7 +14,7 @@
 
 1. **ng-view**, use with $route service to display the template in SPA
 1. **ng-options**, to populate <options> tags
-1. **ng-include**, it include html fragment from another file like <JSP:include> directive
+1. **ng-include**, it include html fragment from another file like 
 
 ##CSS related directives##
 
