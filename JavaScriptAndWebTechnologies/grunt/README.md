@@ -7,9 +7,10 @@
 * it is task based command line tool for build javaScript Projects.
 
 * by default it looks for a Gruntfile.js in root of project directory
+
 * Task can be defined either
-  * Inline
-  * use of external file
-  * use of external module
+  * Inline task
+  * load task from external file
+  * load task from external module
 
 
