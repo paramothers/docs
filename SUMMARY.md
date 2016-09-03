@@ -87,18 +87,12 @@
     * [Boot Strap class](JavaScriptAndWebTechnologies/bootstrap/bootstrapClasses.md)
   * [GRunt](JavaScriptAndWebTechnologies/grunt/README.md)
     * [Grunt API](JavaScriptAndWebTechnologies/grunt/gruntAPI.md)
-
-
   * [Mongo DB](JavaScriptAndWebTechnologies/mongodb/mongodbStudy.md)
-
   * [EXT JS](JavaScriptAndWebTechnologies/extjs/Ext JS General.md)
-
     * [EXT JS core ](JavaScriptAndWebTechnologies/extjs/Extjs core.md)
     * [EXT JS UI API](JavaScriptAndWebTechnologies/extjs/Extjs UI Classes.md)
     * [EXT JS layout API](JavaScriptAndWebTechnologies/extjs/Extjs layout.md)
-
   * [FactorsVersionReleasedAcronyam](JavaScriptAndWebTechnologies/factorsversionreleasedacronyam.md)
-
   * [ECMAScript General](JavaScriptAndWebTechnologies/ECMAScript/General.md)
 
 
