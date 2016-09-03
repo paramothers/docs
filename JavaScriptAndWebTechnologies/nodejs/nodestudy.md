@@ -18,6 +18,8 @@ This Non-Blocking IO enables
 **Buffers**, - Add supports to deal Binary data in Node JS.
 **Streams**, used as event interface to pass data around
 
+Module loaded and cached in Node js
+
 ### The Below JavaScript's Constructs  are good candidate for Node js
 
 1. **First Class Function** - a anonymouse function can be assigned to a variable
@@ -30,7 +32,7 @@ This Non-Blocking IO enables
 
 5. **Object Literal** -  easy to define arbitary properties
 
-6. **Module Reveal Pattern** -  return a object from a method. for each call. So it every returned instance will own copy of methods and properties. _**it  occupy memory like anything**_
+6. **Module Reveal Pattern** -  return a object from a method. for each call. So it every returned instance will own copy of methods and properties. **_it  occupy memory like anything_**
 
 7. **Prototype**, using prototype, all instance can share a method definition. \(similar in java -static methods\)
 
@@ -74,9 +76,9 @@ This Non-Blocking IO enables
 
 ## Module supports frameworks
 
-1. AMD
+1. AMD  \(Asynce Module Definition\), help to reuse node js module in browser
 
-2. CommonJS, realeased on 2009, provide file based module system on server. node js use this module
+2. CommonJS, realeased on 2009, provide file based module system on server. node js use this module system
 
 
 ### Module types
@@ -84,6 +86,7 @@ This Non-Blocking IO enables
 1. file module
 
 2. core module
+
 3. external node\_modules
 
 # Important Topic
