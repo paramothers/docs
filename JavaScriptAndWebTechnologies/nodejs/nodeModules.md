@@ -1,12 +1,12 @@
 # Modules are three different types
 
-1. file system based
-2. core module
-3. node\_module
+1. **file system based,** usually our project specific modules.
+2. **core module**, comes  along with nodejs installation itself
+3. **node\_module**, usually we get by npm
 
-# Module Name and their usages
+# 
 
-**CORE**
+### **CORE**
 
 1. **fs**,  to read\/write filesystem
 2. **os**,  to work with operating system.
@@ -17,22 +17,19 @@
 7. **util**,  set of utility functions including console global object.
 8. **crypto**
 
-**Async Programming**
+### **Async Programming**
 
 1. **events**,  built in support for event emit and handling.
 2. **async**, to load items in asynchronous manner. It helps developer to do async programming
 3. **nimble**, to execute asyncrounous jobs in serial order.
 4. **request**, is simplified HTTP Client.
 
-**Debugging**
+### **Debugging**
 
 1. **node-inspector**,  for easy debugging
 
-
-
-## Utility
+### Utility
 
 1. chalk
 2. prettyjson
-
 
