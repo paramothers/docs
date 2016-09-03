@@ -71,8 +71,9 @@
 
     * [Node JS Global Objects](JavaScriptAndWebTechnologies/nodejs/nodeGlobalObject.md)
     * [Node JS web and network Modules](JavaScriptAndWebTechnologies/nodejs/webAndCoreModules.md)
+    * [Node JS Persistence Modules](JavaScriptAndWebTechnologies/nodejs/nodePersistenceModules.md)
     * [Node JS Workflow and delivery Modules](JavaScriptAndWebTechnologies/nodejs/nodejsworkflowandtesting.md)
-    * [Node JS Modules](JavaScriptAndWebTechnologies/nodejs/nodeModules.md)
+    * [Node JS core and common](JavaScriptAndWebTechnologies/nodejs/nodeModules.md)
     * [Node JS Aysyc](JavaScriptAndWebTechnologies/nodejs/nodeAsync.md)
 
   * [Angular JS](JavaScriptAndWebTechnologies/angularjs/Angular General.md)
