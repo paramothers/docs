@@ -60,14 +60,18 @@
 * [JavaScript and Web UI](JavaScriptAndWebTechnologies/javaScriptLibrariesForWeb.md)
 
   * [ECMAScript](JavaScriptAndWebTechnologies/ECMAScript/README.md)
+
     * [JavaScript API](JavaScriptAndWebTechnologies/ECMAScript/javascriptAPI.md)
 
   * [CSS](JavaScriptAndWebTechnologies/css/README.md)
+
     * [SASS](JavaScriptAndWebTechnologies/css/SassStudy.md)
 
-  * [Node JS](JavaScriptAndWebTechnologies/nodejs/nodestudy.md)    
+  * [Node JS](JavaScriptAndWebTechnologies/nodejs/nodestudy.md)
+
     * [Node JS Global Objects](JavaScriptAndWebTechnologies/nodejs/nodeGlobalObject.md)
-    * [Node JS Module](JavaScriptAndWebTechnologies/nodejs/nodeModules.md)
+    * [Node JS web and network Modules](JavaScriptAndWebTechnologies/nodejs/webAndCoreModules.md)
+    * [Node JS Modules](JavaScriptAndWebTechnologies/nodejs/nodeModules.md)
     * [Node JS Aysyc](JavaScriptAndWebTechnologies/nodejs/nodeAsync.md)
 
   * [Angular JS](JavaScriptAndWebTechnologies/angularjs/Angular General.md)
