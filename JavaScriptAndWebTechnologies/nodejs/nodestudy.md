@@ -1,6 +1,6 @@
 # Introduction
 
-Node.JS is a platform, rather than language.
+Node.JS is a platform, rather than language, used to build command line tool in javaScript
 
 ```
 Node built on top of V8 as virtual machine (similar java uses JVM) + libuv => Non Blocking IO 
@@ -32,7 +32,7 @@ Module loaded and cached in Node js
 
 5. **Object Literal** -  easy to define arbitary properties
 
-6. **Module Reveal Pattern** -  return a object from a method. for each call. So it every returned instance will own copy of methods and properties. **_it  occupy memory like anything_**
+6. **Module Reveal Pattern** -  return a object from a method. for each call. So it every returned instance will own copy of methods and properties. _**it  occupy memory like anything**_
 
 7. **Prototype**, using prototype, all instance can share a method definition. \(similar in java -static methods\)
 
@@ -88,6 +88,7 @@ Module loaded and cached in Node js
 2. core module
 
 3. external node\_modules
+
 
 # Important Topic
 
