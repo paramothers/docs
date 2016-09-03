@@ -7,6 +7,7 @@
 5. AngularJS
 6. Backbone.JS
 7. GWT, DWR
+8. Requrire.js, Browser based module system.
 
 ### CSS Related Frameworks
 
