@@ -65,12 +65,9 @@
   * [CSS](JavaScriptAndWebTechnologies/css/README.md)
     * [SASS](JavaScriptAndWebTechnologies/css/SassStudy.md)
 
-  * [Node JS](JavaScriptAndWebTechnologies/nodejs/nodestudy.md)
-
-    
+  * [Node JS](JavaScriptAndWebTechnologies/nodejs/nodestudy.md)    
     * [Node JS Global Objects](JavaScriptAndWebTechnologies/nodejs/nodeGlobalObject.md)
     * [Node JS Module](JavaScriptAndWebTechnologies/nodejs/nodeModules.md)
-
     * [Node JS Aysyc](JavaScriptAndWebTechnologies/nodejs/nodeAsync.md)
 
   * [Angular JS](JavaScriptAndWebTechnologies/angularjs/Angular General.md)
