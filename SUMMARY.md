@@ -83,10 +83,11 @@
     * [Angular JS eveloper Tips](JavaScriptAndWebTechnologies/angularjs/Angular Developer Tips.md)
     * [Angular JS Services](JavaScriptAndWebTechnologies/angularjs/AngularService.md)
     * [Angular JS Directives](JavaScriptAndWebTechnologies/angularjs/angularjsdirectives.md)
-
   * [Boot Strap](JavaScriptAndWebTechnologies/bootstrap/Parambootstrap.md)
-
     * [Boot Strap class](JavaScriptAndWebTechnologies/bootstrap/bootstrapClasses.md)
+  * [GRunt](JavaScriptAndWebTechnologies/grunt/README.md)
+    * [Grunt API](JavaScriptAndWebTechnologies/grunt/gruntAPI.md)
+
 
   * [Mongo DB](JavaScriptAndWebTechnologies/mongodb/mongodbStudy.md)
 
