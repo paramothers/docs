@@ -1,7 +1,5 @@
 ## **Testing**
 
-
-
 1. **assert**, for supporting unit-test cases.
 
 2. **chai**, provide additional assertions. it is like "assertThat" for junit.
@@ -21,44 +19,24 @@
 9. **Wows,** used to write test case for Node JS application
 
 
-
 ### JavaScript code coverage modules
-
-
 
 1. instanbul
 
-
-
-2. jscoverage
-
-
-
-
+1. jscoverage
 
 ### Workflow
 
-
-
 1. grunt-cli
 
+1. grunt-contrib-sass \/ grunt-sass
 
+1. grunt-contrib-watch
 
-2. grunt-contrib-sass \/ grunt-sass
-
-
-
-3. grunt-contrib-watch
-
-
-
-4. node-sass
-
-
+1. node-sass
+2. browserfy, converty node js module into Browser compatible\( Require.js \) module
 
 ## **Deployment**
-
-
 
 1. **forever**, used to keep server up always, irrepsective of error
 
@@ -67,3 +45,5 @@
 3. **UpStart**, to run the node.js , it is advanced than **forever**
 
 4. **ngen**, to build our own custom module for npm repository.
+
+
