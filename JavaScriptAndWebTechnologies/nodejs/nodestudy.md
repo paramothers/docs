@@ -30,9 +30,10 @@ This Non-Blocking IO enables
 
 5. **Object Literal** -  easy to define arbitary properties
 
-6. **Module Reveal Pattern** -  return a object from a method. for each call. So it every returned instance will own copy of methods and properties. _**it  occupy memory like anything**_
+6. **Module Reveal Pattern** -  return a object from a method. for each call. So it every returned instance will own copy of methods and properties. **_it  occupy memory like anything_**
 
 7. **Prototype**, using prototype, all instance can share a method definition. \(similar in java -static methods\)
+
 8. Generally** Function **is powerful in javascript than any other lanugages.
 
 9. 
@@ -70,6 +71,14 @@ This Non-Blocking IO enables
 
 * NODE\_PATH, & NODE\_MODULES enviornment variables location searched when module require
 * NODE\_ENV, used by express
+
+
+
+## Module supports frameworks
+
+1. AMD
+
+2. CommonJS, realeased on 2009, provide file based module system on server. node js use this module
 
 # Important Topic
 
