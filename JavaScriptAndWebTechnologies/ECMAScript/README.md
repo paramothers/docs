@@ -7,6 +7,8 @@ It is **mixture **of Both "Functional Programming" and "Object oriented Programm
 
 Object are passed by reference.
 
+JavaScript library usually delivered as \*.js file.
+
 ## draw back of ECMAScript was earlier.
 
 1. Till version 3 does not exception handling. so many times is goes off silently.
@@ -17,4 +19,12 @@ Object are passed by reference.
 
 4. DOM manipulation API,  gave bad impression about javascript, since its behave differetly across browsers
 
+
+
+### Some of Java Script Library
+
+1. Underscore.js, provide functional programming
+
+2. Protype.js, 
+3. io.js 
 
