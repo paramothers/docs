@@ -6,19 +6,16 @@ Two more EMCAScript impletation are JScript and ActionScript
 
 Current version is EMCAScript 5. but 6 in progress.
 
-
-
 Object are passed by reference.
 
 JavaScript library usually delivered as \*.js file.
-
-
 
 ### JavaScript Nature
 
 1. dynamic
 
 2. dynamic typed
+
 3. It is mixture of Both "Functional Programming" and "Object oriented Programming". that is both Function and Objects are play major role in this language.
 4. it is deployable as **Source**
 5. 
@@ -33,6 +30,7 @@ JavaScript library usually delivered as \*.js file.
 
 4. DOM manipulation API,  gave bad impression about javascript, since its behave differetly across browsers
 
+5. it is part of Web Platform \(DOM API, HTML** 5 API**\)
 
 ### Some of Java Script Library
 
