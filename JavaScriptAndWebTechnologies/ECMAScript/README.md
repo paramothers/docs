@@ -17,8 +17,10 @@ JavaScript library usually delivered as \*.js file.
 2. dynamic typed
 
 3. It is mixture of Both "Functional Programming" and "Object oriented Programming". that is both Function and Objects are play major role in this language.
+
 4. it is deployable as **Source**
-5. 
+5. First class function, Closure, prototypes, object literal, array literal
+6. 
 
 ## draw back of ECMAScript was earlier.
 
@@ -31,6 +33,7 @@ JavaScript library usually delivered as \*.js file.
 4. DOM manipulation API,  gave bad impression about javascript, since its behave differetly across browsers
 
 5. it is part of Web Platform \(DOM API, HTML** 5 API**\)
+
 
 ### Some of Java Script Library
 
