@@ -40,7 +40,7 @@
 
 ## JavaScript and Web UI
 * [JavaScript and Web UI](JavaScriptAndWebTechnologies/javaScriptLibrariesForWeb.md)
-    * [ECMAScript](JavaScriptAndWebTechnologies/ECMAScript/README.md)
+    * [ECMAScript 6](JavaScriptAndWebTechnologies/ECMAScript/README.md)
         * [JavaScript API](JavaScriptAndWebTechnologies/ECMAScript/javascriptAPI.md)
     * [CSS](JavaScriptAndWebTechnologies/css/README.md)
         * [SASS](JavaScriptAndWebTechnologies/css/SassStudy.md)

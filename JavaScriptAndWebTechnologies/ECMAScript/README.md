@@ -4,16 +4,24 @@ EMCAScript is offical name of JavaScript. First it was called "mocha", then "Liv
 
 Two more EMCAScript impletation are JScript and ActionScript
 
-
 Current version is EMCAScript 5. but 6 in progress.
 
-It is **mixture **of Both "Functional Programming" and "Object oriented Programming". that is both Function and Objects are play major role in this language.
+
 
 Object are passed by reference.
 
 JavaScript library usually delivered as \*.js file.
 
 
+
+### JavaScript Nature
+
+1. dynamic
+
+2. dynamic typed
+3. It is mixture of Both "Functional Programming" and "Object oriented Programming". that is both Function and Objects are play major role in this language.
+4. it is deployable as **Source**
+5. 
 
 ## draw back of ECMAScript was earlier.
 
@@ -32,5 +40,6 @@ JavaScript library usually delivered as \*.js file.
 
 2. Protype.js,
 
-3. io.js 
+3. io.js
+
 
