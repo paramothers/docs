@@ -34,20 +34,23 @@
 18. 1999, XMLHttpRequest API has added, IE 5
 
 19. 2001, JSON introduced, for structured object notation using javascript literal
-20. 2005, **AJAX**, it released
 
-21. 2005, CouchDB first released
+20. 2004, Dojo Toolkit released
+21. 2005, **AJAX**, it released, Desktop based web application
 
-22. 2006, Google Chrome browser has released
+22. 2005, CouchDB first released
 
-23. 2008, July, ECMAScript v4 **abandoned**
+23. 2006, Google Chrome browser has released
 
-24. 2009, Angular JS life started by Misko Hevery and Adam abrons
+24. 2008, July, ECMAScript v4 **abandoned**
 
-25. 2009, Dec, EMCAScript v5 released
-26. 2011, June, EMCAScript v5.1 released
-27. 2012, **Grunt** released by Ben Alman
-28. 2015, June, EMCAScript v6 \(also called ES6 Harmony\) released
-29. 2016, June, EMCAScript v7 released
-30. 
+25. 2009, Angular JS life started by Misko Hevery and Adam abrons
+
+26. 2009, Dec, EMCAScript v5 released
+
+27. 2011, June, EMCAScript v5.1 released
+28. 2012, **Grunt** released by Ben Alman
+29. 2015, June, EMCAScript v6 \(also called ES6 Harmony\) released
+30. 2016, June, EMCAScript v7 released
+31. 
 
