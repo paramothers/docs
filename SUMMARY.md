@@ -2,78 +2,36 @@
 
 ## JavaScript and Web UI
 
-
-
 * [JavaScript and Web UI](JavaScriptAndWebTechnologies/javaScriptLibrariesForWeb.md)
 
  * [ECMAScript 6](JavaScriptAndWebTechnologies/ECMAScript/README.md)
-
- * [JavaScript API](JavaScriptAndWebTechnologies/ECMAScript/javascriptAPI.md)
-
-
-
+   * [JavaScript API](JavaScriptAndWebTechnologies/ECMAScript/javascriptAPI.md)
  * [CSS](JavaScriptAndWebTechnologies/css/README.md)
-
- * [SASS](JavaScriptAndWebTechnologies/css/SassStudy.md)
-
-
-
+   * [SASS](JavaScriptAndWebTechnologies/css/SassStudy.md)
  * [Node JS](JavaScriptAndWebTechnologies/nodejs/nodestudy.md)
-
- * [Node JS Global Objects](JavaScriptAndWebTechnologies/nodejs/nodeGlobalObject.md)
-
- * [Node JS web and network Modules](JavaScriptAndWebTechnologies/nodejs/webAndCoreModules.md)
-
- * [Node JS Persistence Modules](JavaScriptAndWebTechnologies/nodejs/nodePersistenceModules.md)
-
- * [Node JS Workflow and delivery Modules](JavaScriptAndWebTechnologies/nodejs/nodejsworkflowandtesting.md)
-
- * [Node JS core and common](JavaScriptAndWebTechnologies/nodejs/nodeModules.md)
-
- * [Node JS Aysyc](JavaScriptAndWebTechnologies/nodejs/nodeAsync.md)
-
-
+   * [Node JS Global Objects](JavaScriptAndWebTechnologies/nodejs/nodeGlobalObject.md)
+   * [Node JS web and network Modules](JavaScriptAndWebTechnologies/nodejs/webAndCoreModules.md)
+   * [Node JS Persistence Modules](JavaScriptAndWebTechnologies/nodejs/nodePersistenceModules.md)
+   * [Node JS Workflow and delivery Modules](JavaScriptAndWebTechnologies/nodejs/nodejsworkflowandtesting.md)
+   * [Node JS core and common](JavaScriptAndWebTechnologies/nodejs/nodeModules.md)
+   * [Node JS Aysyc](JavaScriptAndWebTechnologies/nodejs/nodeAsync.md)
 
  * [Angular JS](JavaScriptAndWebTechnologies/angularjs/Angular General.md)
-
- * [Angular JS Existing Module](JavaScriptAndWebTechnologies/angularjs/Angular existing module.md)
-
- * [Angular JS Objects](JavaScriptAndWebTechnologies/angularjs/Angularjsobjects.md)
-
- * [Angular JS eveloper Tips](JavaScriptAndWebTechnologies/angularjs/Angular Developer Tips.md)
-
- * [Angular JS Services](JavaScriptAndWebTechnologies/angularjs/AngularService.md)
-
- * [Angular JS Directives](JavaScriptAndWebTechnologies/angularjs/angularjsdirectives.md)
-
-
-
+   * [Angular JS Existing Module](JavaScriptAndWebTechnologies/angularjs/Angular existing module.md)
+   * [Angular JS Objects](JavaScriptAndWebTechnologies/angularjs/Angularjsobjects.md)
+   * [Angular JS eveloper Tips](JavaScriptAndWebTechnologies/angularjs/Angular Developer Tips.md)
+   * [Angular JS Services](JavaScriptAndWebTechnologies/angularjs/AngularService.md)
+   * [Angular JS Directives](JavaScriptAndWebTechnologies/angularjs/angularjsdirectives.md)
  * [Boot Strap](JavaScriptAndWebTechnologies/bootstrap/Parambootstrap.md)
-
- * [Boot Strap class](JavaScriptAndWebTechnologies/bootstrap/bootstrapClasses.md)
-
-
-
+   * [Boot Strap class](JavaScriptAndWebTechnologies/bootstrap/bootstrapClasses.md)
  * [Grunt](JavaScriptAndWebTechnologies/grunt/README.md)
-
- * [Grunt API](JavaScriptAndWebTechnologies/grunt/gruntAPI.md)
-
-
-
+   * [Grunt API](JavaScriptAndWebTechnologies/grunt/gruntAPI.md)
  * [Mongo DB](JavaScriptAndWebTechnologies/mongodb/mongodbStudy.md)
-
  * [EXT JS](JavaScriptAndWebTechnologies/extjs/Ext JS General.md)
-
- * [EXT JS core ](JavaScriptAndWebTechnologies/extjs/Extjs core.md)
-
- * [EXT JS UI API](JavaScriptAndWebTechnologies/extjs/Extjs UI Classes.md)
-
- * [EXT JS layout API](JavaScriptAndWebTechnologies/extjs/Extjs layout.md)
-
-
-
+   * [EXT JS core ](JavaScriptAndWebTechnologies/extjs/Extjs core.md)
+   * [EXT JS UI API](JavaScriptAndWebTechnologies/extjs/Extjs UI Classes.md)
+   * [EXT JS layout API](JavaScriptAndWebTechnologies/extjs/Extjs layout.md)
  * [FactorsVersionReleasedAcronyam](JavaScriptAndWebTechnologies/factorsversionreleasedacronyam.md)
-
  * [ECMAScript General](JavaScriptAndWebTechnologies/ECMAScript/General.md)
 
 
