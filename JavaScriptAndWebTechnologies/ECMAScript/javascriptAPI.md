@@ -17,7 +17,11 @@ Attributes
 ```js
         slice()
         trim()
+        indexOf()
+
 ```
+
+
 
 Date
 
