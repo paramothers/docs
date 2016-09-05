@@ -18,6 +18,7 @@ Attributes
         slice()
         trim()
         indexOf()
+        toUpperCase()
 
 ```
 
