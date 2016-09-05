@@ -51,25 +51,26 @@
 
 27. 2008, July, ECMAScript v4 **abandoned**
 
-28. 2009, Angular JS life started by Misko Hevery and Adam abrons
+28. 2008, PhoneGap has created by Nitobi.  Later it bought by Adobe
+29. 2009, Angular JS life started by Misko Hevery and Adam abrons
 
-29. 2009, Node.js implemention javascript on server
+30. 2009, Node.js implemention javascript on server
 
-30. 2009, PhoneGap, for developing native application using HTML5. _Open source version_ of phoneGap is called Cordova.
+31. 2009, PhoneGap, for developing native application using HTML5. _Open source version_ of phoneGap is called Cordova.
 
-31. 2009, Dec, EMCAScript v5 released
+32. 2009, Dec, EMCAScript v5 released
 
-32. 2009, Chormium os released as Web platform operation system \( WebOs, Firefos OS \)
+33. 2009, Chormium os released as Web platform operation system \( WebOs, Firefos OS \)
 
-33. 2011, June, EMCAScript v5.1 released
+34. 2011, June, EMCAScript v5.1 released
 
-34. 2011, **Windows8**, use extensively HTML5 apps
+35. 2011, **Windows8**, use extensively HTML5 apps
 
-35. 2012, **Grunt** released by Ben Alman
+36. 2012, **Grunt** released by Ben Alman
 
-36. 2015, June, EMCAScript v6 \(also called ES6 Harmony\) released
+37. 2015, June, EMCAScript v6 \(also called ES6 Harmony\) released
 
-37. 2016, June, EMCAScript v7 released
+38. 2016, June, EMCAScript v7 released
 
-38. 
+39. 
 
