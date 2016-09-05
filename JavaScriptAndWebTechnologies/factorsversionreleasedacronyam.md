@@ -60,9 +60,11 @@
 31. 2009, Dec, EMCAScript v5 released
 
 32. 2009, Chormium os released as Web platform operation system \( WebOs, Firefos OS \)
+
 33. 2011, June, EMCAScript v5.1 released
 
-34. 2011, Windows8, use extensively HTML5 apps
+34. 2011, **Windows8**, use extensively HTML5 apps
+
 35. 2012, **Grunt** released by Ben Alman
 
 36. 2015, June, EMCAScript v6 \(also called ES6 Harmony\) released
