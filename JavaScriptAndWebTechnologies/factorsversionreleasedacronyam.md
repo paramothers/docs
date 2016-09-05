@@ -23,25 +23,28 @@
 
 13. 1997, June, the first ECMA-261, ECMAScript v1 has adopted\/released
 
-14. 1997, Dynamic HTML, DOM Manipulation and Tree Structure of document
+14. 1997, Dynamic HTML, DOM Manipulation and Tree Structure of document IE 4, Netscape 4
+
 15. 1998, Aug, ECMAScript v2 released
 
 16. 1998, DOM convention create by w3 .. yes it happened at 98 only.
 
 17. 1999, Dec, ECMAScript v3 released
 
-18. 2005, **AJAX**, it released
+18. 1999, XMLHttpRequest API has added, IE 5
+19. 2005, **AJAX**, it released
 
-19. 2005, CouchDB first released
+20. 2005, CouchDB first released
 
-20. 2006, Google Chrome browser has released
+21. 2006, Google Chrome browser has released
 
-21. 2008, July, ECMAScript v4 **abandoned**
-22. 2009, Angular JS life started by Misko Hevery and Adam abrons
-23. 2009, Dec, EMCAScript v5 released
-24. 2011, June, EMCAScript v5.1 released
-25. 2012, **Grunt** released by Ben Alman
-26. 2015, June, EMCAScript v6 \(also called ES6 Harmony\) released
-27. 2016, June, EMCAScript v7 released
-28. 
+22. 2008, July, ECMAScript v4 **abandoned**
+
+23. 2009, Angular JS life started by Misko Hevery and Adam abrons
+24. 2009, Dec, EMCAScript v5 released
+25. 2011, June, EMCAScript v5.1 released
+26. 2012, **Grunt** released by Ben Alman
+27. 2015, June, EMCAScript v6 \(also called ES6 Harmony\) released
+28. 2016, June, EMCAScript v7 released
+29. 
 
