@@ -26,6 +26,8 @@
    * [Boot Strap class](JavaScriptAndWebTechnologies/bootstrap/bootstrapClasses.md)
  * [Grunt](JavaScriptAndWebTechnologies/grunt/README.md)
    * [Grunt API](JavaScriptAndWebTechnologies/grunt/gruntAPI.md)
+ * [JavaScript DB](JavaScriptAndWebTechnologies/mongodb/mongodbStudy.md)
+
  * [Mongo DB](JavaScriptAndWebTechnologies/mongodb/mongodbStudy.md)
  * [EXT JS](JavaScriptAndWebTechnologies/extjs/Ext JS General.md)
    * [EXT JS core ](JavaScriptAndWebTechnologies/extjs/Extjs core.md)
