@@ -4,7 +4,7 @@ EMCAScript is offical name of JavaScript. First it was called "mocha", then "Liv
 
 Two more EMCAScript impletation are JScript and ActionScript
 
-Current version is EMCAScript 7\(as on Sep,2016\). 
+Current version is EMCAScript 7\(as on Sep,2016\).
 
 Object are passed by reference.
 
@@ -21,6 +21,7 @@ JavaScript library usually delivered as \*.js file.
 4. it is deployable as **Source**
 
 5. First class function, Closure, prototypes, object literal, array literal
+
 6. 
 
 ## draw back of ECMAScript was earlier.
@@ -36,12 +37,5 @@ JavaScript library usually delivered as \*.js file.
 5. it is part of Web Platform \(DOM API, HTML** 5 API**\)
 
 
-### Some of Java Script Library
-
-1. Underscore.js, provide functional programming
-
-2. Protype.js,
-
-3. io.js
-
+### 
 
