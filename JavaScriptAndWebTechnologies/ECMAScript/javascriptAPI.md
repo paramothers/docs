@@ -10,20 +10,14 @@ Attributes
     legth
 ```
 
-     Functions\/Methods
-
-```js
-        slice
-        trim
+```
+ Functions\/Methods
 ```
 
-
-
-
-
-
-
-
+```js
+        slice()
+        trim()
+```
 
 Date
 
