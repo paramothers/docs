@@ -21,7 +21,7 @@
         * [Angular JS Directives](JavaScriptAndWebTechnologies/angularjs/angularjsdirectives.md)
     * [Bootstrap](JavaScriptAndWebTechnologies/bootstrap/Parambootstrap.md)
         * [Boot Strap class](JavaScriptAndWebTechnologies/bootstrap/bootstrapClasses.md)
-    * [Grunt](JavaScriptAndWebTechnologies/grunt/README.md)
+    * [Grunt and Gulp](JavaScriptAndWebTechnologies/grunt/README.md)
         * [Grunt API](JavaScriptAndWebTechnologies/grunt/gruntAPI.md)
     * [JavaScript DB](JavaScriptAndWebTechnologies/javascriptdb/README.md)
         * [Mongo DB](JavaScriptAndWebTechnologies/javascriptdb/mongodb/mongodbStudy.md)
