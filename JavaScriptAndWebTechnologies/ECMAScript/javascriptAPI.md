@@ -2,7 +2,7 @@ DOM - API
 
 Math
 
-String
+### String
 
 Attributes
 
