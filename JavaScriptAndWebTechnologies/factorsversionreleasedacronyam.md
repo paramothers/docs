@@ -55,7 +55,8 @@
 
 29. 2009, Node.js implemention javascript on server
 
-30. 2009, PhoneGap, for developing native application using HTML5. Open source version of phoneGap is called Cordova.
+30. 2009, PhoneGap, for developing native application using HTML5. _Open source version_ of phoneGap is called Cordova.
+
 31. 2009, Dec, EMCAScript v5 released
 
 32. 2011, June, EMCAScript v5.1 released
