@@ -3,7 +3,6 @@
 ## JavaScript and Web UI
 
 * [JavaScript and Web UI](JavaScriptAndWebTechnologies/javaScriptLibrariesForWeb.md)
-
  * [ECMAScript 6](JavaScriptAndWebTechnologies/ECMAScript/README.md)
    * [JavaScript API](JavaScriptAndWebTechnologies/ECMAScript/javascriptAPI.md)
  * [CSS](JavaScriptAndWebTechnologies/css/README.md)
@@ -15,7 +14,6 @@
    * [Node JS Workflow and delivery Modules](JavaScriptAndWebTechnologies/nodejs/nodejsworkflowandtesting.md)
    * [Node JS core and common](JavaScriptAndWebTechnologies/nodejs/nodeModules.md)
    * [Node JS Aysyc](JavaScriptAndWebTechnologies/nodejs/nodeAsync.md)
-
  * [Angular JS](JavaScriptAndWebTechnologies/angularjs/Angular General.md)
    * [Angular JS Existing Module](JavaScriptAndWebTechnologies/angularjs/Angular existing module.md)
    * [Angular JS Objects](JavaScriptAndWebTechnologies/angularjs/Angularjsobjects.md)
@@ -26,9 +24,9 @@
    * [Boot Strap class](JavaScriptAndWebTechnologies/bootstrap/bootstrapClasses.md)
  * [Grunt](JavaScriptAndWebTechnologies/grunt/README.md)
    * [Grunt API](JavaScriptAndWebTechnologies/grunt/gruntAPI.md)
- * [JavaScript DB](JavaScriptAndWebTechnologies/mongodb/mongodbStudy.md)
-
- * [Mongo DB](JavaScriptAndWebTechnologies/mongodb/mongodbStudy.md)
+ * [JavaScript DB](JavaScriptAndWebTechnologies/javascriptdb/README.md)
+     * [Mongo DB](JavaScriptAndWebTechnologies/mongodb/mongodbStudy.md)
+     * [Couch DB](JavaScriptAndWebTechnologies/mongodb/mongodbStudy.md)
  * [EXT JS](JavaScriptAndWebTechnologies/extjs/Ext JS General.md)
    * [EXT JS core ](JavaScriptAndWebTechnologies/extjs/Extjs core.md)
    * [EXT JS UI API](JavaScriptAndWebTechnologies/extjs/Extjs UI Classes.md)
