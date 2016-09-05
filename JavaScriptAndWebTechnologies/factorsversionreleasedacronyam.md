@@ -36,21 +36,25 @@
 19. 2001, JSON introduced, for structured object notation using javascript literal
 
 20. 2004, Dojo Toolkit released
-21. 2005, **AJAX**, it released, Desktop based web application
 
-22. 2005, CouchDB first released
+21. 2005, **Ajax**, it released\/named by _Jesse James Garrett_, Desktop based web application
+
+22. 2005, CouchDB, the first javascript centric database released
 
 23. 2006, Google Chrome browser has released
 
-24. 2008, July, ECMAScript v4 **abandoned**
+24. 2006, jQuery, for DOM manipulation easily.
+25. 2007, WebKit, for mobile web stream
+26. 2008, July, ECMAScript v4 **abandoned**
 
-25. 2009, Angular JS life started by Misko Hevery and Adam abrons
+27. 2009, Angular JS life started by Misko Hevery and Adam abrons
 
-26. 2009, Dec, EMCAScript v5 released
+28. 2009, Dec, EMCAScript v5 released
 
-27. 2011, June, EMCAScript v5.1 released
-28. 2012, **Grunt** released by Ben Alman
-29. 2015, June, EMCAScript v6 \(also called ES6 Harmony\) released
-30. 2016, June, EMCAScript v7 released
-31. 
+29. 2011, June, EMCAScript v5.1 released
+
+30. 2012, **Grunt** released by Ben Alman
+31. 2015, June, EMCAScript v6 \(also called ES6 Harmony\) released
+32. 2016, June, EMCAScript v7 released
+33. 
 
