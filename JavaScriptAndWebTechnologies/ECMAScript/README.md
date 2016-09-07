@@ -10,6 +10,12 @@ Object are passed by reference.
 
 JavaScript library usually delivered as \*.js file.
 
+### Subset of java script
+1. Objective-J
+2. CoffeScript
+3. TypeScript
+
+
 ### JavaScript Nature
 
 1. dynamic
@@ -39,4 +45,7 @@ JavaScript library usually delivered as \*.js file.
 
 ### Syntaic Sugar
 
+1. Short-circut from C-language
+2. function paramteter with default values
+3. conditional invocation of methods
 
