@@ -22,7 +22,7 @@ Paramsivam K                                            <img src="misc/SCJP.png"
 * He eager to work in different JavaScript frameworks for both UI and
   Server-side programming
 * His own documents/articles/quick-reference for many technology can
-  find at https://github.com/paramothers/docs
+  find at [My Tech Book](https://paramothers.gitbooks.io/mybook/content/)
 
 
 ### Objective
@@ -31,7 +31,7 @@ Want to get more work on Java Script technologies for Desktop, Mobile and Web.
 
 ### Technology Experience and Exposure
 
-|  Java Script Technology |  Java Technology  |
+|  JavaScript Technologies |  Java Technologies  |
 | ------------------    | ------------------- |
 | **Runtime**: Node JS 4.0| **Spring 4.2 Modules**: MVC, RestFul, Message, Security, AOP, Batch, Data, Remote, Cache, Portlet|
 | **UI frameworks**:  Angular JS 1.4, HTML 5, CSS 3, BootStrap 3.0 | **Persistence**: JDBC 1.4, MyBatis 3.1, MBG 1.8, JPA 2.0, Hibernate 4.0, SQL-99, PL/SQL  |
