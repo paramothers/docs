@@ -104,5 +104,7 @@
 * [Linux Shell Script](linux/shellscript.md)
 * [IDE study](ide/CodenvyStudy.md)
   * [Intellij IDEA](ide/IDEA Study.md)
+  
+##  Misc
 
 
