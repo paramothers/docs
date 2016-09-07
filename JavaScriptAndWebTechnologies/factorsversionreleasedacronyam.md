@@ -53,7 +53,7 @@
 
 28. 2008, PhoneGap has created by Nitobi.  Later it bought by Adobe
 29. 2009, Angular JS life started by Misko Hevery and Adam abrons
-
+  
 30. 2009, Node.js implemention javascript on server
 
 31. 2009, PhoneGap, for developing native application using HTML5. _Open source version_ of phoneGap is called Cordova.
