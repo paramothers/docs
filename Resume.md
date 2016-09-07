@@ -22,6 +22,26 @@ Paramsivam K                                            <img src="misc/SCJP.png"
 * His own documents/articles/quick-reference for many technology can
   find at https://github.com/paramothers/docs
 
+JavaScript & Web UI Technology
+==============================
+
+| Java Script | UI Frameworks  | Quality Tool   |
+| ----------- | -------------- | -------------- |
+|  | Angular JS 1.4 | bower  1.7     |
+| JSON        | BootStrap 3.0  | jshint         |
+| Cordova     | GWT 2.4        | Grunt          |
+| Ionic       | SmartGWT 1.2   | Karma   0.13   |
+|             | CSS  3         | Jasmine 2.4    |
+|             | HTML 5         | Protractor 3.2 |
+
+
+|  Java Script Technology |  Java Technology  |
+| ------------------    | ------------------- |
+| **Runtime :** Node JS 4.0| |
+| | |
+| | |
+| | |
+| | |
 
 
 Server Side Component programming
@@ -64,17 +84,7 @@ Server Side Component programming
 |           |           | Sublime Text 3   |
 
 
-JavaScript & Web UI Technology
-==============================
 
-| Java Script | UI Frameworks  | Quality Tool   |
-| ----------- | -------------- | -------------- |
-| Node JS 4.0 | Angular JS 1.4 | bower  1.7     |
-| JSON        | BootStrap 3.0  | jshint         |
-| Cordova     | GWT 2.4        | Grunt          |
-| Ionic       | SmartGWT 1.2   | Karma   0.13   |
-|             | CSS  3         | Jasmine 2.4    |
-|             | HTML 5         | Protractor 3.2 |
 
 
 Java Certification
