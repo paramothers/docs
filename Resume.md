@@ -29,7 +29,7 @@ JavaScript & Web UI Technology
 |  Java Script Technology |  Java Technology  |
 | ------------------    | ------------------- |
 | **Runtime**: Node JS 4.0| **Spring 4.2 Modules**: MVC, RestFul, Message, Security, AOP, Batch, Data, Remote, Cache, Portlet|
-| **UI frameworks**:  Angular JS 1.4, HTML 5, CSS 3, BootStrap 3.0 | |
+| **UI frameworks**:  Angular JS 1.4, HTML 5, CSS 3, BootStrap 3.0 | **Persistence**: JDBC 1.4, MyBatis 3.1, MBG 1.8, JPA 2.0, Hibernate 4.0, SQL-99, PL/SQL  |
 | **Hybrid-Mobile**: Cordova 4, Ionic| |
 | **Domain-Object**: JSON, CSON| |
 | **Dependency-Resolve**: Bower, NPM| |
@@ -45,13 +45,13 @@ Server Side Component programming
 
 |  | XML and Web Service | Persistence Frameworks | Java Build Tool | JEE Technology  |
 | ------------------ | ------------------- | ---------------------- | --------------- | --------------- |
-| Spring          | XML Schema 1.1      | JDBC 1.4               | Gradle 2.4      | Servlet 3.1     |
-| Spring      | JAXP 1.4            | MyBatis 3.1            | Maven 3.1       | JSP 1.2         |
-| Spring     | JAXB 2.0 & Jibx 1.2 | MBG 1.8                | Ant 1.6         | JMS 1.1         |
-| Spring          | SOAP 1.1 & SAAJ 1.2 | JPA 2.0                |                 | JavaConfig      |
-| Spring        | JAX-RPC 1.1         | Hibernate 4.0          |                 | Java Validation |
-| Spring         | JAX-WS 2.0          | SQL-99                 |                 |                 |
-| Spring        | XStream   1.2       | PL/SQL                 |                 |                 |
+| Spring          | XML Schema 1.1      |               | Gradle 2.4      | Servlet 3.1     |
+| Spring      | JAXP 1.4            |             | Maven 3.1       | JSP 1.2         |
+| Spring     | JAXB 2.0 & Jibx 1.2 |                 | Ant 1.6         | JMS 1.1         |
+| Spring          | SOAP 1.1 & SAAJ 1.2 |                |                 | JavaConfig      |
+| Spring        | JAX-RPC 1.1         |           |                 | Java Validation |
+| Spring         | JAX-WS 2.0          |                  |                 |                 |
+| Spring        | XStream   1.2       |                 |                 |                 |
 | Spring       |                     |                        |                 |                 |
 | Spring      |                     |                        |                 |                 |
 | Spring      |                     |                        |                 |                 |
