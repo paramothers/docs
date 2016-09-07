@@ -49,4 +49,6 @@ JavaScript library usually delivered as \*.js file.
 2. function paramteter with default values
 3. conditional invocation of methods
 4. arrow function (i.e Shorter function)
+5. new syntax for method defintion within object literal
+6. variable length of argument (we call them as resst operator in javaScript.. ES6)
 
