@@ -23,7 +23,7 @@ Paramsivam K                                            <img src="misc/SCJP.png"
 * His own documents/articles/quick-reference for many technology can
   find at [My Tech Book](https://paramothers.gitbooks.io/mybook/content/)
 
-
+****
 ### Objective
 
 Want to get more work on Java Script technologies for Desktop, Mobile and Web.
