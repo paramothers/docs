@@ -11,6 +11,7 @@ Paramsivam K                                            <img src="misc/SCJP.png"
 * He worked for 5 years at **TCS**, 5 years at **Mahindra Satyam** and 2
   years at **iGATE**
 * He has exposure in Banking, Oil and Gas, Logistic and Media domain.
+* He worked for GE-NBC, Ford, Nissan, Standard & Poor's , Citi, Citco Bank, Verizon
 * He completed, **B.E** in **Computer Science Engineering** at 2003, in
   Bharathidasan University
 * He is good at Design & analysis, orchestration of appropriate
@@ -52,8 +53,7 @@ Want to get more work on Java Script technologies for Desktop, Mobile and Web.
 * SCWCD 1.4, Sun Certified Web Component Developer (85%)
 * SCBCD 1.3 Sun Certified Business Component Developer ( 85%)
 
-
-### Project Roles and Responsibility
+### Played Roles and Responsibility
 
 * Developer
 * Tester
@@ -62,21 +62,52 @@ Want to get more work on Java Script technologies for Desktop, Mobile and Web.
 
 ### Project Titles and Client Details
 
- 1. **BOWC** - Businss Object web companian, COE, TCS
- 2. **LLR Batch** - Loan Loss Reserve, citi, NAM
- 3. **LLR Web** - citi, NAM
- 4. **NextGen** - citco
- 5. **Russian Plant** - Nisson Motors, Europe
- 6. **Volume Service** - S & P
- 7. **EISP** (Enterprise Information Search Platform) - Verizon
-    Development Service India ( VDSI )
- 8. **PVOS** (Port Vehicle Operating System) - Ford India, RMZ
- 9. **VSS** (Video Scheduling System) - SNBC, GE
- 10. **DBCS** (Demand Based Clustering System) - NBC, GE
- 11. **IPC** (International Picture Casting) - NBC, GE
- 12. **BASIS** (Business Affairs Summaries and Information System) - NBC,
-    GE
- 13. **PPV-VOD** (Pay Per view – video on Demand) - NBC, GE
+
+####12. Loan Loss Reserve 
+
+it comes under credit risk, to help the customer how much amount has to be reserved in terms of million based on 35 different calculation applied on about 2 million transaction across globe. We calculate many loan equivalence amounts, Risk Capital amounts. Basically it is batch application consist of 35 different tasks. We have a web front end application, through which, user can upload data for every month and can do some adjustment on calculated amounts.
+
+####11. NextGen
+
+CITCO provides the Custodial and Brokerage services. NextGen, which is the bank of Citco is responsible for taking and executing Trade for different Assets. It also keeps track for the Companies which is holding their corresponding assets. There are many external system of CITCO like Fund Administrator, Equation, CDS, CORONA, etc. with which NextGen is interacting
+
+####10. Russian Plant
+
+MRP Lite project is to provide a facility to receive Individual Parts delivered from a number of suppliers and store them in a warehouse external to the plant. It is also the aim of this project to provide a facility to Kit these individual parts into groups of parts called Local Kit cases ready for delivery to the Warehouse at the plant.
+
+####9. Volume Services
+
+It is rating providing application. S&P provide rating for different companies and different domains based on different criteria. This volume service developed to provide rating for stock exchange like NSE.
+
+####8. Enterprise Information Search Platform (EISP)
+
+It is like Google Search. Once feed user data in to search engine, it can be searched and searched result grouped logically, result can be ranked logically. This application built on top of FAST Search Engine. User send search request to engine by a web service interface. 
+
+####7. Port Vehicle Operating System (PVOS)
+
+  it was a logistic application for Jaguar and Land Rover vechile. It has facility to handle and track all the activities from Port to Customer Delivery process
+  
+####6. Video Scheduling System (VSS)
+
+A web based application, in which watch the movie clips, listen the mp3 clips using media player plug-in but with customized player controls and rate the clips. In admin, manage the clips in category and sub-category, secure some of clips only for authenticated user, and upload the clips, managing some outside media link as reference to CSBD, SNBC 
+
+####5. Demand Based Clustering System (DBCS)
+
+A statistical engine that allows the use of sales data and consumer demographic data to improve product assortment on retail shelves for DVDs. It uses the K-Means Clustering to make distinctions
+
+####4. International Picture Casting (IPC) 
+
+International Pictures Casting, which makes selection of voice talents in different languages for a film to be web enabled. Adding role to a film, adding real actor role, add voice talent to a particular role, upload their voice clip and resume.  In admin, add films to the application, associate user to film access, approve the voice talent
+
+####3.Business Affairs Summaries and Information System(BASIS) 
+
+The current system is a VB / Sybase system which has five different modules to help business affairs admin and negotiators on the contract negotiations for NBCU Project, The project will develop the BARMS system as a single integrated application in J2EE based web information system. The system will also integrate Business Affairs and Negotiators for cable channels
+
+####2. Pay Per view – video on Demand (PPV-VOD)
+
+A multi-year agreement with the customer that obligates them to license the rights to particular categories of titles. As user login title selection, adding notes, update the status of deals of titles, maintain own deals and advanced search. Admin user can add team, maintaining team’s user and deals, auto-notification
+
+####1. 
 
 
 
@@ -88,6 +119,6 @@ best of my knowledge. I look forward to joining your Firm/Project where
 I can further my career and put to the best of use my experience,
 knowledge and communication skills.
 
-                                                                                       K.PARAMASIVAM.
+                                                    K.PARAMASIVAM.
 
 
