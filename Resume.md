@@ -14,8 +14,6 @@ Paramsivam K                                            <img src="misc/SCJP.png"
 * He worked for GE-NBC, Ford, Nissan, Standard & Poor's , Citi, Citco Bank, Verizon
 * He completed, **B.E** in **Computer Science Engineering** at 2003, in
   Bharathidasan University
-* He is good at Design & analysis, orchestration of appropriate
-  frameworks/technologies for projects.
 * He played many role and responsibility like selection of technologies, Developer,  Designer and Tester
 * He has habit of keep on updating for new technologies/version.
 * He made himself familiar with NodeJS, various javaScript UI frameworks
@@ -32,7 +30,7 @@ Want to get more work on Java Script technologies for Desktop, Mobile and Web.
 
 ### Technology Experience and Exposure
 
-|  JavaScript Technologies |  Java Technologies  |
+|  JavaScript Technologies |  Java Technologies  |     
 | ------------------    | ------------------- |
 | **Runtime**: Node JS 4.0| **Spring 4.2 Modules**: MVC, RestFul, Message, Security, AOP, Batch, Data, Remote, Cache, Portlet|
 | **UI frameworks**:  Angular JS 1.4, HTML 5, CSS 3, BootStrap 3.0 | **Persistence**: JDBC 1.4, MyBatis 3.1, MBG 1.8, JPA 2.0, Hibernate 4.0, SQL-99, PL/SQL  |
@@ -41,10 +39,10 @@ Want to get more work on Java Script technologies for Desktop, Mobile and Web.
 | **Dependency-Resolve**: Bower, NPM| **Web Service and XML**: XML Schema 1.1, JAXP 1.4, JAXB 2.0 & Jibx 1.2, SOAP 1.1 & SAAJ 1.2, JAX-RPC 1.1, JAX-WS 2.0, XStream   1.2|
 | **Linter**: JSHint, CCSLint| **Desktop Frameworks**: SWT 3.0, JFace,  Swing 1.5, AWT |
 | **Workflow**: Grunt, Gulp| **Web & App Servers**: Jetty 1.9, Tomcate 7.0, WebSphere 7.0, jBOSS 4,Weblogic 9.2   |
-| **Test**: Jasmine 2.4, Protractor 3.2, Karma   0.13| **Library**: Struts 2.1, POI, iText 2.6, jUnit 4.12 |
+| **Test**: Jasmine 2.4, Protractor 3.2, Karma   0.13| **Library**: Struts 2.1, POI, iText 2.6, jUnit 4.12, Mockito |
 | **VCS**: Git, GitHub, SVN, ClearCase | **Design**: OOAD, UML 2.0, Design Pattern, Design Thumb Rule |
 | **IDE**: Atom 1.5, Eclipse 4.3 Mars, Intellij IDEA 16, NetBeans 8, Sublime Text 3| **DB**: Oracle 12, Sybase ASE 15, H2 1.2, HSQLDB  2.0 |
-| **Cloud IDE**:  c9.io, coding.io, Codenvy3| **Others**: gitbook, kamihq, Markdown |
+| **Cloud IDE**:  c9.io, coding.io, Codenvy3| **Others**: gitbook, kamihq, Markdown, Xodo |
 
 
 ### Java Certification
@@ -56,8 +54,9 @@ Want to get more work on Java Script technologies for Desktop, Mobile and Web.
 ### Played Roles and Responsibility
 
 * Developer
-* Tester
-* BOM Designer
+* Tester as writing Unit/Integration 
+* Design & analysis
+* orchestration of appropriate frameworks/technologies
 * Tech Lead
 
 ### Project Titles and Client Details
