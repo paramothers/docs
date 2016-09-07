@@ -22,9 +22,12 @@ Paramsivam K                                            <img src="misc/SCJP.png"
 * His own documents/articles/quick-reference for many technology can
   find at https://github.com/paramothers/docs
 
-JavaScript & Web UI Technology
-==============================
 
+### Objective
+
+Want to get more work on Java Script technologies
+
+### Technology Experience and Exposure
 
 |  Java Script Technology |  Java Technology  |
 | ------------------    | ------------------- |
@@ -38,20 +41,24 @@ JavaScript & Web UI Technology
 | **Test**: Jasmine 2.4, Protractor 3.2, Karma   0.13| **Library**: Struts 2.1, POI, iText 2.6, jUnit 4.12 |
 | **VCS**: Git, GitHub, SVN, ClearCase | **Design**: OOAD, UML 2.0, Design Pattern, Design Thumb Rule |
 | **IDE**: Atom 1.5, Eclipse 4.3 Mars, Intellij IDEA 16, NetBeans 8, Sublime Text 3| **DB**: Oracle 12, Sybase ASE 15, H2 1.2, HSQLDB  2.0 |
-| **Cloud IDE**:  c9.io, coding.io, Codenvy3| **Others**: gitbook, kamihq |
+| **Cloud IDE**:  c9.io, coding.io, Codenvy3| **Others**: gitbook, kamihq, Markdown |
 
-Java Certification
-==================
+
+### Java Certification
 
 * SCJP 1.5, Sun Certified Java Programmer (90%)
 * SCWCD 1.4, Sun Certified Web Component Developer (85%)
 * SCBCD 1.3 Sun Certified Business Component Developer ( 85%)
 
 
+### Project Roles and Responsibility
 
-Project Titles and Client Details
-=================================
+* Developer
+* Tester
+* BOM Designer
+* Tech Lead
 
+### Project Titles and Client Details
 
  1. **BOWC** - Businss Object web companian, COE, TCS
  2. **LLR Batch** - Loan Loss Reserve, citi, NAM
@@ -71,10 +78,10 @@ Project Titles and Client Details
 
 
 
-Declaration
-===========
 
-Hereby I declare that all the above-furnished information is true to the
+### Declaration
+
+Hereby, I declare that all the above-furnished information is true to the
 best of my knowledge. I look forward to joining your Firm/Project where
 I can further my career and put to the best of use my experience,
 knowledge and communication skills.
