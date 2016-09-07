@@ -30,56 +30,15 @@ JavaScript & Web UI Technology
 | ------------------    | ------------------- |
 | **Runtime**: Node JS 4.0| **Spring 4.2 Modules**: MVC, RestFul, Message, Security, AOP, Batch, Data, Remote, Cache, Portlet|
 | **UI frameworks**:  Angular JS 1.4, HTML 5, CSS 3, BootStrap 3.0 | **Persistence**: JDBC 1.4, MyBatis 3.1, MBG 1.8, JPA 2.0, Hibernate 4.0, SQL-99, PL/SQL  |
-| **Hybrid-Mobile**: Cordova 4, Ionic| |
-| **Domain-Object**: JSON, CSON| |
-| **Dependency-Resolve**: Bower, NPM| |
-| **Linter**: JSHint, CCSLint| |
-| **Workflow**: Grunt, Gulp| |
-| **Test**: Jasmine 2.4, Protractor 3.2, Karma   0.13| |
-
-
-Server Side Component programming
-=================================
-
-### Programming ###
-
-|  | XML and Web Service | Persistence Frameworks | Java Build Tool | JEE Technology  |
-| ------------------ | ------------------- | ---------------------- | --------------- | --------------- |
-| Spring          | XML Schema 1.1      |               | Gradle 2.4      | Servlet 3.1     |
-| Spring      | JAXP 1.4            |             | Maven 3.1       | JSP 1.2         |
-| Spring     | JAXB 2.0 & Jibx 1.2 |                 | Ant 1.6         | JMS 1.1         |
-| Spring          | SOAP 1.1 & SAAJ 1.2 |                |                 | JavaConfig      |
-| Spring        | JAX-RPC 1.1         |           |                 | Java Validation |
-| Spring         | JAX-WS 2.0          |                  |                 |                 |
-| Spring        | XStream   1.2       |                 |                 |                 |
-| Spring       |                     |                        |                 |                 |
-| Spring      |                     |                        |                 |                 |
-| Spring      |                     |                        |                 |                 |
-
-### Servers and Libraries ###
-
-| Web & App Servers | Frameworks/ Library | Desktop Frameworks | Design            | Product / DB  |
-| ----------------- | ------------------- | ------------------ | ----------------- | ------------- |
-| Jetty 1.9         | Struts 2.1          | SWT 3.0, JFace     | OOAD              | Oracle 12     |
-| Tomcate 7.0       | POI                 | Swing 1.5          | UML 2.0           | Sybase ASE 15 |
-| WebSphere 7.0     | iText 2.6           | AWT                | Design Pattern    | H2   1.2      |
-| jBOSS 4           | jUnit 4.0           |                    | Design Thumb Rule | HSQLDB  2.0   |
-| Weblogic 9.2      |                     |                    |                   |               |
-
-
-### IDE, VCS and Products ###
-
-| Cloud IDE | SCM-VCS   | Desktop IDE      |
-| --------- | --------- | ---------------- |
-| Codenvy   | Git       | Intellij IDEA 16 |
-| c9.io     | GitHub    | Eclipse 4.3 Mars |
-| coding.io | SVN       | NetBeans 8       |
-|           | ClearCase | Atom 1.5         |
-|           |           | Sublime Text 3   |
-
-
-
-
+| **Hybrid-Mobile**: Cordova 4, Ionic| **Build Tool**: Gradle 2.4, Maven 3.1, Ant 1.6 |
+| **Domain-Object**: JSON, CSON| **JEE Technology**: Servlet 3.1, JSP 1.2, JMS 1.1, JavaConfig, Java Validation |
+| **Dependency-Resolve**: Bower, NPM| **Web Service and XML**: XML Schema 1.1, JAXP 1.4, JAXB 2.0 & Jibx 1.2, SOAP 1.1 & SAAJ 1.2, JAX-RPC 1.1, JAX-WS 2.0, XStream   1.2|
+| **Linter**: JSHint, CCSLint| **Desktop Frameworks**: SWT 3.0, JFace,  Swing 1.5, AWT |
+| **Workflow**: Grunt, Gulp| **Web & App Servers**: Jetty 1.9, Tomcate 7.0, WebSphere 7.0, jBOSS 4,Weblogic 9.2   |
+| **Test**: Jasmine 2.4, Protractor 3.2, Karma   0.13| **Library**: Struts 2.1, POI, iText 2.6, jUnit 4.12 |
+| **VCS**: Git, GitHub, SVN, ClearCase | **Design**: OOAD, UML 2.0, Design Pattern, Design Thumb Rule |
+| **IDE**: Atom 1.5, Eclipse 4.3 Mars, Intellij IDEA 16, NetBeans 8, Sublime Text 3| **DB**: Oracle 12, Sybase ASE 15, H2 1.2, HSQLDB  2.0 |
+| **Cloud IDE**:  c9.io, coding.io, Codenvy3| **Others**: gitbook, kamihq |
 
 Java Certification
 ==================
