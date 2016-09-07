@@ -25,7 +25,7 @@ Paramsivam K                                            <img src="misc/SCJP.png"
 
 ### Objective
 
-Want to get more work on Java Script technologies
+Want to get more work on Java Script technologies for Desktop, Mobile and Web.
 
 ### Technology Experience and Exposure
 
