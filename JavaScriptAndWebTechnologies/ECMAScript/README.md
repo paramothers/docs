@@ -43,9 +43,10 @@ JavaScript library usually delivered as \*.js file.
 5. it is part of Web Platform \(DOM API, HTML** 5 API**\)
 
 
-### Syntaic Sugar
+### Syntaic Sugar or source code improvement
 
 1. Short-circut from C-language
 2. function paramteter with default values
 3. conditional invocation of methods
+4. arrow function (i.e Shorter function)
 
