@@ -37,5 +37,6 @@ JavaScript library usually delivered as \*.js file.
 5. it is part of Web Platform \(DOM API, HTML** 5 API**\)
 
 
-### 
+### Syntaic Sugar
+
 
