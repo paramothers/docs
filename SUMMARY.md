@@ -106,6 +106,6 @@
   * [Intellij IDEA](ide/IDEA Study.md)
   
 ##  Misc
-*  
+*  Resume
 
 
