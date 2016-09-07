@@ -25,23 +25,17 @@ Paramsivam K                                            <img src="misc/SCJP.png"
 JavaScript & Web UI Technology
 ==============================
 
-| Java Script | UI Frameworks  | Quality Tool   |
-| ----------- | -------------- | -------------- |
-|  | Angular JS 1.4 | bower  1.7     |
-| JSON        | BootStrap 3.0  | jshint         |
-| Cordova     | GWT 2.4        | Grunt          |
-| Ionic       | SmartGWT 1.2   | Karma   0.13   |
-|             | CSS  3         | Jasmine 2.4    |
-|             | HTML 5         | Protractor 3.2 |
-
 
 |  Java Script Technology |  Java Technology  |
 | ------------------    | ------------------- |
-| **Runtime :** Node JS 4.0| |
-| | |
-| | |
-| | |
-| | |
+| **Runtime**: Node JS 4.0| |
+| **UI frameworks**:  Angular JS 1.4, HTML 5, CSS 3, BootStrap 3.0 | |
+| **Hybrid-Mobile**: Cordova 4, Ionic| |
+| **Domain-Object**: JSON, CSON| |
+| **Dependency-Resolve**: Bower, NPM| |
+| **Linter**: JSHint, CCSLint| |
+| **Workflow**: Grunt, Gulp| |
+| **Test**: Jasmine 2.4, Protractor 3.2, Karma   0.13| |
 
 
 Server Side Component programming
