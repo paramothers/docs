@@ -5,4 +5,4 @@ Each value datatype has properties
 
 1. Undefined, Null
 2. Boolean, Numbers , String
-3. Objects [array, object litral] 
+3. Objects [array, object litral, Regular expression] 
