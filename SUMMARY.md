@@ -33,7 +33,6 @@
        * [EXT JS UI API](JavaScriptAndWebTechnologies/extjs/Extjs UI Classes.md)
        * [EXT JS layout API](JavaScriptAndWebTechnologies/extjs/Extjs layout.md)
    * [FactorsVersionReleasedAcronyam](JavaScriptAndWebTechnologies/factorsversionreleasedacronyam.md)
-   * [ECMAScript General](JavaScriptAndWebTechnologies/ECMAScript/generalmd.md)
 * [Introduction](README.md)
 * [Java Technologies](JavaTechnologies/JavaStudy.md)
    * [annotations](JavaTechnologies/annotions/annotations.md)
