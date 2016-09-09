@@ -7,7 +7,7 @@
 
 5. 1993, CGI programing was introduced, first in Perl and etc..
 
-6. 1993, NASA's Mosaic is first browser
+6. 1993, National Center for SuperComputiong application (NCSA) 's Mosaic is first browser
 
 7. 1994, Netscape company founded.
 
