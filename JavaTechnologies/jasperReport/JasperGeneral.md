@@ -17,9 +17,9 @@
  in Report       |  
 
  
-
+| ----- | ------|
 | Jasper compiletion parameters    |                    |                  
 | ***jasper.reports.compiler.class***                                               
 | to specify the compiation class name |           |                   |
-| jasper.reports.compilation.xml.validation  | to enable the validation             |            
+| jasper.reports.compilation.xml.validation  | to enable the validation  |            
 | jasper.reports.compile.temp      | directory used for compilation       |
