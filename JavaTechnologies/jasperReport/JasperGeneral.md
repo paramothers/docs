@@ -15,8 +15,8 @@
 | i-Report and Jasper studio eclipse plugin for GUI tool to design and faster development |
 | Jasper Report, is just going to read data from DB/XML/CSV/Java objects and display                           
  in Report       |  
-
- 
+---
+|  |    | 
 | ----- | ------|
 | Jasper compiletion parameters    |                    |                  
 | ***jasper.reports.compiler.class***                                               
