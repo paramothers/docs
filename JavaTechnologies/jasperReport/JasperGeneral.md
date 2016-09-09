@@ -17,25 +17,9 @@
  in Report       |  
 
  
-### Office software history
 
-|     | sun and Oracle                       |            |                    |                   |
-|                                                                                                              |     | starDivision                         | sun        |                    |                   |
-|                                                                                                              |     | StarOffice                           | OpenOffice | Oracle Open Office | Apache OpenOffice |
-|                                                                                                              |     |                                      |            | Libre Office       |                   |
-|                                                                                                              |     |                                      |            |                    |                   |
-|                                                                                                              |     |                                      |            |                    |                   |
-| to get complete list of attribute of &lt;style&gt; element go to                                             
- http://jasperforge.org/uploads/publish/jasperreportswebsite/JR%20Website/jasperreports\_quickref.html\#style  |     |                                      |            |                    |                   |
-|                                                                                                              |     |                                      |            |                    |                   |
-|                                                                                                              |     |                                      |            |                    |                   |
-| Jasper compiletion parameters                                                                                |     |                                      |            |                    |                   |
-| ***jasper.reports.compiler.class***                                                                          |     | to specify the compiation class name |            |                    |                   |
-| jasper.reports.compilation.xml.validation                                                                    |     | to enable the validation             |            |                    |                   |
-| jasper.reports.compile.temp                                                                                  |     | directory used for compilation       |            |                    |                   |
-
-| jasper.reports.compile.keep.java.file |      | keep th compiled file |      |      |      |
-| ------------------------------------- | ---- | --------------------- | ---- | ---- | ---- |
-|                                       |      |                       |      |      |      |
-
-------------------------------------------------------------------------
+| Jasper compiletion parameters    |                    |                  
+| ***jasper.reports.compiler.class***                                               
+| to specify the compiation class name |           |                   |
+| jasper.reports.compilation.xml.validation  | to enable the validation             |            
+| jasper.reports.compile.temp      | directory used for compilation       |
