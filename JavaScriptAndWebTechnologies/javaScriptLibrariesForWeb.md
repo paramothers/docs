@@ -1,13 +1,14 @@
 ### JavaScript UI Frameworks
 
-1. Yahoo API
-2. Dojo Toolkit
-3. JQuery
-4. ExtJS
-5. AngularJS
+1. Yahoo API / Dojo Toolkit
+3. JQuery / ExtJS / AngularJS
 6. Backbone.JS
 7. GWT, DWR
+
+### JavaScript Module Frameworks
+
 8. Requrire.js, Browser based module system.
+9. CommonJS, Server based module system
 
 ### CSS Related Frameworks
 
@@ -59,12 +60,14 @@ CSON \( CoffeScript Object Notation\)
 1. Bower (for client UI library depencency)
 2. Npm
 
-## JavaScript Runtime
+### JavaScript Runtime
 
 1. v8-NodeJS
 2. Browsers
 3. mozilla' SpiderMonkey
 
+### Javascript Documentation
+1. JSDoc
 ### JavaScript - Abstraction programming - translated into javascript
 
 1. CoffeScript
