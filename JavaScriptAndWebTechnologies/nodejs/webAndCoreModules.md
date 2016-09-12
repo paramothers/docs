@@ -37,6 +37,7 @@
 5. **bunyan** , middleware for logging\/debugging use of concept stream
 
 6. **domain** , middleware for logging\/debugging use of concept stream
+7. **seneca-web**, middleware for seneca micro services
 
 
 ### WEB\/HTTP
