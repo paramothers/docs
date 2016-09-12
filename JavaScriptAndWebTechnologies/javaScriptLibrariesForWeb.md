@@ -58,6 +58,7 @@ CSON \( CoffeScript Object Notation\)
 ### JavaScript package\/dependency manager
 
 1. Bower (for client UI library depencency)
+2. Browserify
 2. Npm
 
 ### JavaScript Runtime
