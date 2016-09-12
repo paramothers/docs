@@ -1,4 +1,4 @@
-## JavaScript UI Frameworks
+### JavaScript UI Frameworks
 
 1. Yahoo API
 2. Dojo Toolkit
@@ -18,33 +18,45 @@
 3. BootStrap
 
 
-## Domain Object
+### Domain Object
 
 JSON
 
 CSON \( CoffeScript Object Notation\)
 
-## Quality tools
+### Java Script Linting tools
 
 1. JsLint - for javaScript
 2. JsHint - for javaScript
-3. JSCS - for javascript code sytle checker \(like checkstyle in java\)
-4. CssLint, helps to identify css files if has any issues
+3. JSCS - for javascript code sytle checker \(like checkstyle in java\)4. 
 5. ESSLint \( it also has JSCS as merged into \)
 
-## JavaScript-Backend Communication
+### JavaScript Unit testing framework
+1. Mocha
+2. Jasmine
+
+### Javascript Minification
+1. UglifyJs
+2. YUICompressor
+3. Closure Compiler
+
+
+### JavaScript-Backend Communication
 
 1. AJAX
 2. Commet
 
-## JavaScript- workflow
+### JavaScript- Build-workflow
 
 1. Grunt
 2. Gulp
 
+### JavaScript Scaffolding tool
+1. Yo (it is like set of archeType used in Mavan project creation)
+
 ### JavaScript package\/dependency manager
 
-1. Bower
+1. Bower (for client UI library depencency)
 2. Npm
 
 ## JavaScript Runtime
