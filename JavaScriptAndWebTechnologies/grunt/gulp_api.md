@@ -4,5 +4,7 @@
 
 1. gulp
   2. task().
-  3. 
+  3. src().
+  4. dest()
+  5. pipe()
 
