@@ -23,7 +23,7 @@
        * [Boot Strap class](JavaScriptAndWebTechnologies/bootstrap/bootstrapClasses.md)
    * [Grunt and Gulp](JavaScriptAndWebTechnologies/grunt/README.md)
        * [Grunt API](JavaScriptAndWebTechnologies/grunt/gruntAPI.md)
-       * Gulp API
+       * [Gulp API](JavaScriptAndWebTechnologies/grunt/gulp_api.md)
    * [Hybrid Mobile](JavaScriptAndWebTechnologies/hybridMobile/README.md)
    * [Hybrid Desktop](JavaScriptAndWebTechnologies/hybridDesktop/README.md)
    * [JavaScript DB](JavaScriptAndWebTechnologies/javascriptdb/README.md)
