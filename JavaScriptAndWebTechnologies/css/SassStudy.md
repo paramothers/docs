@@ -1,8 +1,9 @@
 ## SASS
 
-~~it is installed as a Gem by Ruby.~~ \( Node JS Now used \)
-it makes speed style creation
-it is better than LESS
+
+it makes speed style creation. it is better than LESS
+SASS was born from Ruby Community.
+it was installed as a Gem for Ruby.But now Nodejs can be used.
 
 ## SASS Preprocessor \( compiling Sass files \)
 
