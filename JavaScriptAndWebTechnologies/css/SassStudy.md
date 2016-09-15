@@ -7,6 +7,7 @@ it was installed as a Gem for Ruby.But now Nodejs can be used.
 
 **Mixin**, helps in sharing common styles
 **@import**, used to combine many stylesheet to one
+**@extend**, used as a inheritance for reuse common styles
 
 
 
