@@ -1,9 +1,14 @@
-## SASS
+## SASS (dynamically CSS generator)
 
 
 it makes speed style creation. it is better than LESS
 SASS was born from Ruby Community.
 it was installed as a Gem for Ruby.But now Nodejs can be used.
+
+**Mixin**, helps in sharing common styles
+**@import**, used to combine many stylesheet to one
+
+
 
 ## SASS Preprocessor \( compiling Sass files \)
 
