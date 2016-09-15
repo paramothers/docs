@@ -61,6 +61,7 @@
 32. 2009, Dec, EMCAScript v5 released
 
 33. 2009, Chormium os released as Web platform operation system \( WebOs, Firefos OS \)
+34. 2010, HTML 5  become a buzzword
 
 34. 2011, June, EMCAScript v5.1 released
 
