@@ -3,9 +3,10 @@
 
 it makes speed style creation. it is better than LESS
 SASS was born from Ruby Community.
-it was installed as a Gem for Ruby.But now Nodejs can be used.
+it was installed as a Gem for Ruby. But now Nodejs can be used.
 
-**Mixin**, helps in sharing common styles
+**@Mixin**, helps in sharing common styles
+**@include**, include a block of style definition
 **@import**, used to combine many stylesheet to one
 **@extend**, used as a inheritance for reuse common styles
 
