@@ -33,7 +33,7 @@ CSON \( CoffeScript Object Notation\)
 6. JsLint - for javaScript, it is oldest tool - Avoid usage of this tool
 
 ### JavaScript Unit testing framework
-1. Mocha
+1. Mocha with **Chai** for assertion and **Sinon** for double check
 2. Jasmine
 
 ### Javascript Minification
