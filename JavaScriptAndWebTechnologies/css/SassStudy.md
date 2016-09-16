@@ -2,7 +2,7 @@
 
 
 it makes speed style creation. it is better than LESS
-SASS was born from Ruby Community.
+SASS and  Compass are developed by Ruby Community.
 it was installed as a Gem for Ruby. But now Nodejs can be used.
 
 **@Mixin**, helps in sharing common styles
