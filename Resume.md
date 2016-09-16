@@ -32,8 +32,9 @@ Want to use obtained expertise JavaScript technologies for Desktop, Mobile and W
 
 |  JavaScript Technologies |  Java Technologies  |     
 | ------------------    | ------------------- |
-| **Runtime**: Node JS 4.0| **Spring 4.2 Modules**: MVC, RestFul, Message, Security, AOP, Batch, Data, Remote, Cache, Portlet|
-| **UI frameworks**:  Angular JS 1.4, HTML 5, CSS 3, BootStrap 3.0 | **Persistence**: JDBC 1.4, MyBatis 3.1, MBG 1.8, JPA 2.0, Hibernate 4.0, SQL-99, PL/SQL  |
+| **Runtime**: Node JS 4.0|  |
+| **CSS**:  CSS 3, BootStrap 3.0, SASS, [Less]| **Spring 4.2 Modules**: MVC, RestFul, Message, Security, AOP, Batch, Data, Remote, Cache, Portlet|
+| **UI frameworks**:  Angular JS 1.4,[ExtJS 4, JQuery] | **Persistence**: JDBC 1.4, MyBatis 3.1, MBG 1.8, JPA 2.0, Hibernate 4.0, SQL-99, PL/SQL  |
 | **Hybrid-Mobile**: Cordova 4, Ionic| **Build Tool**: Gradle 2.4, Maven 3.1, Ant 1.6 |
 | **Domain-Object**: JSON, CSON| **JEE Technology**: Servlet 3.1, JSP 1.2, JMS 1.1, JavaConfig, Java Validation |
 | **Dependency-Resolve**: NPM, Bower, [Broserify]| **Web Service and XML**: XML Schema 1.1, JAXP 1.4, JAXB 2.0 & Jibx 1.2, SOAP 1.1 & SAAJ 1.2, JAX-RPC 1.1, JAX-WS 2.0, XStream   1.2|
