@@ -37,7 +37,7 @@ Want to use obtained expertise JavaScript technologies for Desktop, Mobile and W
 | **Hybrid-Mobile**: Cordova 4, Ionic| **Build Tool**: Gradle 2.4, Maven 3.1, Ant 1.6 |
 | **Domain-Object**: JSON, CSON| **JEE Technology**: Servlet 3.1, JSP 1.2, JMS 1.1, JavaConfig, Java Validation |
 | **Dependency-Resolve**: Bower, NPM| **Web Service and XML**: XML Schema 1.1, JAXP 1.4, JAXB 2.0 & Jibx 1.2, SOAP 1.1 & SAAJ 1.2, JAX-RPC 1.1, JAX-WS 2.0, XStream   1.2|
-| **Linter**: JSHint, CCSLint| **Desktop Frameworks**: SWT 3.0, JFace,  Swing 1.5, AWT |
+| **Linting**: JSHint, CCSLint| **Desktop Frameworks**: SWT 3.0, JFace,  Swing 1.5, AWT |
 | **Workflow**: Gulp, [Grunt] | **Web & App Servers**: Jetty 1.9, Tomcate 7.0, WebSphere 7.0, jBOSS 4,Weblogic 9.2   |
 | **Test**: Jasmine 2.4, Protractor 3.2, Karma   0.13| **Library**: Struts 2.1, POI, iText 2.6, jUnit 4.12, Mockito |
 | **VCS**: Git, GitHub, SVN, ClearCase | **Design**: OOAD, UML 2.0, Design Pattern, Design Thumb Rule |
