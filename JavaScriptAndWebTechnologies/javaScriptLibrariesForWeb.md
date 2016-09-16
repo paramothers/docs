@@ -29,8 +29,8 @@ CSON \( CoffeScript Object Notation\)
 
 1. ESLint \( it also has featuere of  JSCS as merged into \). it is latest tool
 3. JSCS - for javascript code sytle checker \(like checkstyle in java\)4. 
-5. JsLint - for javaScript, it is oldest tool
-6. JsHint - for javaScript, it is came after JSLint
+5. JsHint - for javaScript, it is came after JSLint
+6. JsLint - for javaScript, it is oldest tool - Avoid usage of this tool
 
 ### JavaScript Unit testing framework
 1. Mocha
