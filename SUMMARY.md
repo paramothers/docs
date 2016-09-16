@@ -40,7 +40,7 @@
        * [JSLint](JavaScriptAndWebTechnologies/jslint.md)
        * [JSHint](JavaScriptAndWebTechnologies/jshint.md)
        * [ESLint](JavaScriptAndWebTechnologies/eslint.md)
-       * JSCS
+       * [JSCS](JavaScriptAndWebTechnologies/jscs.md)
 * [Introduction](README.md)
 * [Java Technologies](JavaTechnologies/JavaStudy.md)
    * [annotations](JavaTechnologies/annotions/annotations.md)
