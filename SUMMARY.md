@@ -38,7 +38,7 @@
        * [html 5 API](JavaScriptAndWebTechnologies/html_5_api.md)
    * [Linting Tools](JavaScriptAndWebTechnologies/linting_tools.md)
        * [JSLint](JavaScriptAndWebTechnologies/jslint.md)
-       * JSHint
+       * [JSHint](JavaScriptAndWebTechnologies/jshint.md)
 * [Introduction](README.md)
 * [Java Technologies](JavaTechnologies/JavaStudy.md)
    * [annotations](JavaTechnologies/annotions/annotations.md)
