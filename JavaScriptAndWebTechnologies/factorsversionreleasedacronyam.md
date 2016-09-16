@@ -34,6 +34,7 @@
 18. 1999, XMLHttpRequest API has added, IE 5
 
 19. 2001, JSON introduced, for structured object notation using javascript literal
+20. 2002, JSLint tool created by **Douglas Crockford**
 
 20. 2004, Dojo Toolkit released
 
