@@ -30,7 +30,7 @@ CSON \( CoffeScript Object Notation\)
 1. JsLint - for javaScript
 2. JsHint - for javaScript
 3. JSCS - for javascript code sytle checker \(like checkstyle in java\)4. 
-5. ESSLint \( it also has JSCS as merged into \)
+5. ESLint \( it also has JSCS as merged into \)
 
 ### JavaScript Unit testing framework
 1. Mocha
