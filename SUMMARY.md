@@ -36,9 +36,6 @@
        * [JSHint](JavaScriptAndWebTechnologies/jshint.md)
        * [ESLint](JavaScriptAndWebTechnologies/eslint.md)
        * [JSCS](JavaScriptAndWebTechnologies/jscs.md)
-   * [Grunt and Gulp](JavaScriptAndWebTechnologies/grunt/README.md)
-       * [Grunt API](JavaScriptAndWebTechnologies/grunt/gruntAPI.md)
-       * [Gulp API](JavaScriptAndWebTechnologies/grunt/gulp_api.md)
    * JavaScript Testing
        * Testing Frameworks
    * [Node and Its Technologies](JavaScriptAndWebTechnologies/node_and_its_technologies.md)
@@ -49,6 +46,9 @@
            * [Node JS Workflow and delivery Modules](JavaScriptAndWebTechnologies/nodejs/nodejsworkflowandtesting.md)
            * [Node JS core and common](JavaScriptAndWebTechnologies/nodejs/nodeModules.md)
            * [Node JS Aysyc](JavaScriptAndWebTechnologies/nodejs/nodeAsync.md)
+       * [Grunt and Gulp](JavaScriptAndWebTechnologies/grunt/README.md)
+           * [Grunt API](JavaScriptAndWebTechnologies/grunt/gruntAPI.md)
+           * [Gulp API](JavaScriptAndWebTechnologies/grunt/gulp_api.md)
        * test
 * [Introduction](README.md)
 * [Java Technologies](JavaTechnologies/JavaStudy.md)
