@@ -26,8 +26,6 @@
    * [ECMAScript 6](JavaScriptAndWebTechnologies/ECMAScript/README.md)
        * [JavaScript API](JavaScriptAndWebTechnologies/ECMAScript/javascriptAPI.md)
        * [ES5 Basic](JavaScriptAndWebTechnologies/ECMAScript/es5_basic.md)
-   * [Hybrid Mobile](JavaScriptAndWebTechnologies/hybridMobile/README.md)
-   * [Hybrid Desktop](JavaScriptAndWebTechnologies/hybridDesktop/README.md)
    * [Node and Its Technologies](JavaScriptAndWebTechnologies/node_and_its_technologies.md)
        * [Node JS](JavaScriptAndWebTechnologies/nodejs/nodestudy.md)
            * [Node JS Global Objects](JavaScriptAndWebTechnologies/nodejs/nodeGlobalObject.md)
@@ -50,6 +48,8 @@
            * [Mongo DB](JavaScriptAndWebTechnologies/javascriptdb/mongodb/mongodbStudy.md)
            * [Couch DB](JavaScriptAndWebTechnologies/javascriptdb/couchdb/README.md)
        * test
+   * [Hybrid Mobile](JavaScriptAndWebTechnologies/hybridMobile/README.md)
+   * [Hybrid Desktop](JavaScriptAndWebTechnologies/hybridDesktop/README.md)
 * [Introduction](README.md)
 * [Java Technologies](JavaTechnologies/JavaStudy.md)
    * [annotations](JavaTechnologies/annotions/annotations.md)
