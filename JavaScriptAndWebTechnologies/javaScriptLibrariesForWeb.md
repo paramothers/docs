@@ -1,7 +1,11 @@
-### JavaScript UI Frameworks
+### Web UI
+1. Html5
+2. CSS3
+
+### JavaScript UI Frameworks for faster web-client development
 
 1. Yahoo API / Dojo Toolkit
-3. JQuery / ExtJS / AngularJS
+3.** JQuery / ExtJS / AngularJS**
 6. Backbone.JS
 7. GWT, DWR
 
@@ -12,11 +16,11 @@
 
 ### CSS Related Frameworks
 
-1. SASS
+1. SASS, for faster css development
 
 2. LESS
 
-3. BootStrap
+3. BootStrap, set of predefined class definitions
 
 
 ### Domain Object
@@ -71,7 +75,7 @@ CSON \( CoffeScript Object Notation\)
 1. JSDoc
 ### JavaScript - Abstraction programming - translated into javascript
 
-1. CoffeScript
+1. CoffeScript, it is like GWT programming in Java-translate-to-html and Javascript
 
 2. TypeScript - from microsoft
 
@@ -80,7 +84,7 @@ CSON \( CoffeScript Object Notation\)
 
 1. Electron
 
-2. Node-Webkit
+2. Node-Webkit (NW)
 
 
 ### Some of Java Script Library
@@ -89,6 +93,6 @@ CSON \( CoffeScript Object Notation\)
 
 2. Protype.js,
 
-3. io.js
+3. io.js, Now it is merged with node.js on node.js v4
 
 
