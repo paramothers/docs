@@ -30,6 +30,10 @@
 #### File system handling specification
 
 #### Indexed DB API
+
+#### Geo Location API
+
+#### DOM API specification in html5 specification itself.
  
 
 
