@@ -36,6 +36,7 @@
    * [FactorsVersionReleasedAcronyam](JavaScriptAndWebTechnologies/factorsversionreleasedacronyam.md)
    * [html5](JavaScriptAndWebTechnologies/html5.md)
        * [html 5 API](JavaScriptAndWebTechnologies/html_5_api.md)
+       * Html Tags
    * [Linting Tools](JavaScriptAndWebTechnologies/linting_tools.md)
        * [JSLint](JavaScriptAndWebTechnologies/jslint.md)
        * [JSHint](JavaScriptAndWebTechnologies/jshint.md)
