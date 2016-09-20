@@ -10,6 +10,7 @@
 8. webworker
 9. 
 
+HTML5 is most of time dealing with javascript
 
 MicroData
 ARIA ( Accessable Rich Internet Application) 
