@@ -16,4 +16,7 @@ HTML5 is most of time dealing with JavaScript
 **ARIA** ( Accessible Rich Internet Application) 
  1. Role
  2. aria-ANY Attributes
+
+**Modernizer**, tool to detect the given browser has support for new element or supply javascript alternatively.
+
 JavaScript API specification for Browser
