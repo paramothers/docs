@@ -1,6 +1,7 @@
 # Summary
 
 * [JavaScript and Web UI](JavaScriptAndWebTechnologies/javaScriptLibrariesForWeb.md)
+   * [FactorsVersionReleasedAcronyam](JavaScriptAndWebTechnologies/factorsversionreleasedacronyam.md)
    * [ECMAScript 6](JavaScriptAndWebTechnologies/ECMAScript/README.md)
        * [JavaScript API](JavaScriptAndWebTechnologies/ECMAScript/javascriptAPI.md)
        * [ES5 Basic](JavaScriptAndWebTechnologies/ECMAScript/es5_basic.md)
@@ -23,7 +24,6 @@
    * [JavaScript DB](JavaScriptAndWebTechnologies/javascriptdb/README.md)
        * [Mongo DB](JavaScriptAndWebTechnologies/javascriptdb/mongodb/mongodbStudy.md)
        * [Couch DB](JavaScriptAndWebTechnologies/javascriptdb/couchdb/README.md)
-   * [FactorsVersionReleasedAcronyam](JavaScriptAndWebTechnologies/factorsversionreleasedacronyam.md)
    * [html5](JavaScriptAndWebTechnologies/html5.md)
        * [html 5 API](JavaScriptAndWebTechnologies/html_5_api.md)
        * [Html 5 Tags](JavaScriptAndWebTechnologies/html_tags.md)
