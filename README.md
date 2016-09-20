@@ -1,4 +1,4 @@
- **About me \(Paramasivam\)**
+ **Paramasivam Tell..**
 
 I have been in IT industry since Nov 2004 onwards. Completed B.E \(CSE\) in 2003.
 
