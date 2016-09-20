@@ -20,7 +20,7 @@
 
 2. LESS
 
-3. BootStrap, set of predefined class definitions
+3. Bootstrap, set of predefined class definitions, from twitter
 
 
 ### Domain Object
