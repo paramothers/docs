@@ -39,4 +39,8 @@
 
 ### Html 5 other elements
 1. Progress
+2. meter
+3. details
+4. summary
+5. 
 
