@@ -2,6 +2,15 @@
 1. Html5
 2. CSS3
 
+### CSS Related Frameworks
+
+1. SASS, for faster css development, ruby language based tool
+
+2. LESS
+
+3. Bootstrap, set of predefined class definitions, from twitter
+
+
 ### JavaScript UI Frameworks for faster web-client development
 
 1. Yahoo API / Dojo Toolkit
@@ -13,15 +22,6 @@
 
 8. Requrire.js, Browser based module system.
 9. CommonJS, Server based module system, it is conceived by Node.js
-
-### CSS Related Frameworks
-
-1. SASS, for faster css development, ruby language based tool
-
-2. LESS
-
-3. Bootstrap, set of predefined class definitions, from twitter
-
 
 ### Domain Object
 
