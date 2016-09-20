@@ -25,7 +25,10 @@
   2. offline work
   3. store data locally
   
-  
+ #### SVG ( Scallable Vector Graphics) specification
+ 
+ 
+ 
 
 
 
