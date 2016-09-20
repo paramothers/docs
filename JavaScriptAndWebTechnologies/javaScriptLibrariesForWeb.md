@@ -12,11 +12,11 @@
 ### JavaScript Module Frameworks
 
 8. Requrire.js, Browser based module system.
-9. CommonJS, Server based module system
+9. CommonJS, Server based module system, it is conceived by Node.js
 
 ### CSS Related Frameworks
 
-1. SASS, for faster css development
+1. SASS, for faster css development, ruby language based tool
 
 2. LESS
 
