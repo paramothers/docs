@@ -69,7 +69,7 @@
 35. 2011, **Windows8**, use extensively HTML5 apps
 
 36. 2012, **Grunt** released by Ben Alman
-37. 2014, HTML 5 officially released by W3c
+37. 2014, oct, HTML 5 officially released by W3c
 
 37. 2015, June, EMCAScript v6 \(also called ES6 Harmony\) released
 
