@@ -13,5 +13,6 @@
 HTML5 is most of time dealing with javascript
 
 MicroData
-ARIA ( Accessable Rich Internet Application) 
+
+**ARIA** ( Accessable Rich Internet Application) 
 JavaScript API specification for Browser
