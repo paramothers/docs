@@ -8,10 +8,6 @@
 6. geolocation
 7. websockets
 8. webworker
-9. 
-
-####Micro data and Micro data DOM API
-
 
 
 **ARIA** ( Accessible Rich Internet Application) 
@@ -20,10 +16,6 @@
 
 **Modernizer**, tool to detect the given browser has support for new element or supply javascript alternatively.
 
-#### Html5  provide, JavaScript API specification for Browser
-  1. Audio & Video
-  2. offline work
-  3. store data locally
   
 #### SVG ( Scallable Vector Graphics) specification
  
@@ -33,7 +25,18 @@
 
 #### Geo Location API
 
-#### DOM API specification in html5 specification itself.
+#### DOM API (below) specification in html5 specification itself.
+
+ 1. Canvas 2d
+ 2. Audio and Video
+ 3. Drag and Drop
+ 4. cross document messaging
+ 5. Server Side event
+ 6. WebSockets
+ 7. Documents Editing
+ 8. web storage
+ 9. offline web application
+ 8. Microdata DOM API
  
 
 
