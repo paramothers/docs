@@ -5,11 +5,8 @@
 ### CSS Related Frameworks
 
 1. SASS, for faster css development, ruby language based tool
-
 2. LESS
-
 3. Bootstrap, set of predefined class definitions, from twitter
-
 
 ### JavaScript UI Frameworks for faster web-client development
 
@@ -26,7 +23,6 @@
 ### Domain Object
 
 JSON
-
 CSON \( CoffeScript Object Notation\)
 
 ### Java Script Linting tools
@@ -44,18 +40,12 @@ CSON \( CoffeScript Object Notation\)
 1. UglifyJs
 2. YUICompressor
 3. Closure Compiler
-
-
 ### JavaScript-Backend Communication
-
 1. AJAX
 2. Commet
-
 ### JavaScript- Build-workflow
-
 1. Grunt
 2. Gulp
-
 ### JavaScript Scaffolding tool
 1. Yo (it is like set of archeType used in Mavan project creation)
 
@@ -64,7 +54,6 @@ CSON \( CoffeScript Object Notation\)
 1. Bower (for client UI library depencency)
 2. Browserify
 2. Npm
-
 ### JavaScript Runtime
 
 1. v8-NodeJS
