@@ -10,9 +10,9 @@
 8. webworker
 9. 
 
-HTML5 is most of time dealing with javascript
+HTML5 is most of time dealing with JavaScript
 
-MicroData
 
-**ARIA** ( Accessable Rich Internet Application) 
+**ARIA** ( Accessible Rich Internet Application) 
+
 JavaScript API specification for Browser
