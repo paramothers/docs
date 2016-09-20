@@ -1,6 +1,6 @@
 ### HTML 5 - New feature
 
-1. Audio and Video
+1. Audio and Video (Media Element Interface)
 2. canvas
 3. Inteligent forms
 4. offline application
@@ -10,3 +10,7 @@
 8. webworker
 9. 
 
+
+MicroData
+ARIA ( Accessable Rich Internet Application) 
+JavaScript API specification for Browser
