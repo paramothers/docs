@@ -28,8 +28,6 @@
        * [ES5 Basic](JavaScriptAndWebTechnologies/ECMAScript/es5_basic.md)
    * [Hybrid Mobile](JavaScriptAndWebTechnologies/hybridMobile/README.md)
    * [Hybrid Desktop](JavaScriptAndWebTechnologies/hybridDesktop/README.md)
-   * JavaScript Testing
-       * Testing Frameworks
    * [Node and Its Technologies](JavaScriptAndWebTechnologies/node_and_its_technologies.md)
        * [Node JS](JavaScriptAndWebTechnologies/nodejs/nodestudy.md)
            * [Node JS Global Objects](JavaScriptAndWebTechnologies/nodejs/nodeGlobalObject.md)
@@ -46,6 +44,8 @@
            * [JSHint](JavaScriptAndWebTechnologies/jshint.md)
            * [ESLint](JavaScriptAndWebTechnologies/eslint.md)
            * [JSCS](JavaScriptAndWebTechnologies/jscs.md)
+       * JavaScript Testing
+           * Testing Frameworks
        * [JavaScript DB](JavaScriptAndWebTechnologies/javascriptdb/README.md)
            * [Mongo DB](JavaScriptAndWebTechnologies/javascriptdb/mongodb/mongodbStudy.md)
            * [Couch DB](JavaScriptAndWebTechnologies/javascriptdb/couchdb/README.md)
