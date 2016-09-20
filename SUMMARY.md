@@ -31,11 +31,6 @@
    * [JavaScript DB](JavaScriptAndWebTechnologies/javascriptdb/README.md)
        * [Mongo DB](JavaScriptAndWebTechnologies/javascriptdb/mongodb/mongodbStudy.md)
        * [Couch DB](JavaScriptAndWebTechnologies/javascriptdb/couchdb/README.md)
-   * [Linting Tools](JavaScriptAndWebTechnologies/linting_tools.md)
-       * [JSLint](JavaScriptAndWebTechnologies/jslint.md)
-       * [JSHint](JavaScriptAndWebTechnologies/jshint.md)
-       * [ESLint](JavaScriptAndWebTechnologies/eslint.md)
-       * [JSCS](JavaScriptAndWebTechnologies/jscs.md)
    * JavaScript Testing
        * Testing Frameworks
    * [Node and Its Technologies](JavaScriptAndWebTechnologies/node_and_its_technologies.md)
@@ -49,6 +44,11 @@
        * [Grunt and Gulp](JavaScriptAndWebTechnologies/grunt/README.md)
            * [Grunt API](JavaScriptAndWebTechnologies/grunt/gruntAPI.md)
            * [Gulp API](JavaScriptAndWebTechnologies/grunt/gulp_api.md)
+       * [Linting Tools](JavaScriptAndWebTechnologies/linting_tools.md)
+           * [JSLint](JavaScriptAndWebTechnologies/jslint.md)
+           * [JSHint](JavaScriptAndWebTechnologies/jshint.md)
+           * [ESLint](JavaScriptAndWebTechnologies/eslint.md)
+           * [JSCS](JavaScriptAndWebTechnologies/jscs.md)
        * test
 * [Introduction](README.md)
 * [Java Technologies](JavaTechnologies/JavaStudy.md)
