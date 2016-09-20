@@ -14,5 +14,6 @@ HTML5 is most of time dealing with JavaScript
 
 
 **ARIA** ( Accessible Rich Internet Application) 
-
+ 1. Role
+ 2. aria-ANY Attributes
 JavaScript API specification for Browser
