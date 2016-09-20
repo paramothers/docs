@@ -45,7 +45,6 @@
        * [JavaScript DB](JavaScriptAndWebTechnologies/javascriptdb/README.md)
            * [Mongo DB](JavaScriptAndWebTechnologies/javascriptdb/mongodb/mongodbStudy.md)
            * [Couch DB](JavaScriptAndWebTechnologies/javascriptdb/couchdb/README.md)
-       * test
    * [Hybrid Mobile](JavaScriptAndWebTechnologies/hybridMobile/README.md)
    * [Hybrid Desktop](JavaScriptAndWebTechnologies/hybridDesktop/README.md)
 * [Introduction](README.md)
