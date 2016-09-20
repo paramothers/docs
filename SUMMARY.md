@@ -29,10 +29,6 @@
    * [JavaScript DB](JavaScriptAndWebTechnologies/javascriptdb/README.md)
        * [Mongo DB](JavaScriptAndWebTechnologies/javascriptdb/mongodb/mongodbStudy.md)
        * [Couch DB](JavaScriptAndWebTechnologies/javascriptdb/couchdb/README.md)
-   * [EXT JS](JavaScriptAndWebTechnologies/extjs/Ext JS General.md)
-       * [EXT JS core](JavaScriptAndWebTechnologies/extjs/Extjs core.md)
-       * [EXT JS UI API](JavaScriptAndWebTechnologies/extjs/Extjs UI Classes.md)
-       * [EXT JS layout API](JavaScriptAndWebTechnologies/extjs/Extjs layout.md)
    * [FactorsVersionReleasedAcronyam](JavaScriptAndWebTechnologies/factorsversionreleasedacronyam.md)
    * [html5](JavaScriptAndWebTechnologies/html5.md)
        * [html 5 API](JavaScriptAndWebTechnologies/html_5_api.md)
@@ -45,6 +41,10 @@
    * JavaScript Testing
        * Testing Frameworks
    * [JavaScript UI Frameworks](JavaScriptAndWebTechnologies/javascript_ui_frameworks.md)
+       * [EXT JS](JavaScriptAndWebTechnologies/extjs/Ext JS General.md)
+           * [EXT JS core](JavaScriptAndWebTechnologies/extjs/Extjs core.md)
+           * [EXT JS UI API](JavaScriptAndWebTechnologies/extjs/Extjs UI Classes.md)
+           * [EXT JS layout API](JavaScriptAndWebTechnologies/extjs/Extjs layout.md)
        * [test](JavaScriptAndWebTechnologies/test.md)
 * [Introduction](README.md)
 * [Java Technologies](JavaTechnologies/JavaStudy.md)
