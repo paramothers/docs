@@ -10,6 +10,9 @@
 8. webworker
 9. 
 
+####Micro data and Micro data DOM API
+
+
 HTML5 is most of time dealing with JavaScript
 
 
@@ -19,4 +22,6 @@ HTML5 is most of time dealing with JavaScript
 
 **Modernizer**, tool to detect the given browser has support for new element or supply javascript alternatively.
 
-JavaScript API specification for Browser
+Html5  provide, JavaScript API specification for Browser
+
+
