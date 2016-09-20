@@ -4,7 +4,7 @@
    * [ECMAScript 6](JavaScriptAndWebTechnologies/ECMAScript/README.md)
        * [JavaScript API](JavaScriptAndWebTechnologies/ECMAScript/javascriptAPI.md)
        * [ES5 Basic](JavaScriptAndWebTechnologies/ECMAScript/es5_basic.md)
-   * [CSS](JavaScriptAndWebTechnologies/css/README.md)
+   * [CSS 3](JavaScriptAndWebTechnologies/css/README.md)
        * [Bootstrap](JavaScriptAndWebTechnologies/bootstrap/Parambootstrap.md)
            * [Boot Strap class](JavaScriptAndWebTechnologies/bootstrap/bootstrapClasses.md)
        * [SASS](JavaScriptAndWebTechnologies/css/SassStudy.md)
