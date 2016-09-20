@@ -23,5 +23,11 @@ HTML5 is most of time dealing with JavaScript
 **Modernizer**, tool to detect the given browser has support for new element or supply javascript alternatively.
 
 Html5  provide, JavaScript API specification for Browser
+  1. Audio & Video
+  2. offline work
+  3. store data locally
+  
+  
+
 
 
