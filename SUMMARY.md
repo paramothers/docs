@@ -21,7 +21,6 @@
            * [EXT JS core](JavaScriptAndWebTechnologies/extjs/Extjs core.md)
            * [EXT JS UI API](JavaScriptAndWebTechnologies/extjs/Extjs UI Classes.md)
            * [EXT JS layout API](JavaScriptAndWebTechnologies/extjs/Extjs layout.md)
-       * [test](JavaScriptAndWebTechnologies/test.md)
    * [ECMAScript 6](JavaScriptAndWebTechnologies/ECMAScript/README.md)
        * [JavaScript API](JavaScriptAndWebTechnologies/ECMAScript/javascriptAPI.md)
        * [ES5 Basic](JavaScriptAndWebTechnologies/ECMAScript/es5_basic.md)
