@@ -1,4 +1,4 @@
-### Html 5 Tags
+### Html 5 document layout  Tags
 
 1. Header, fotter
 2. hgroup
@@ -24,5 +24,19 @@
 8. search
 9. tel
 10. url
-10. 
+
+### Html 5 input Attributes
+1. placeholder
+2. pattern
+3. min
+4. max
+5. required
+6. step
+7. autocomplete
+8. multiple
+9. autofocus
+10. list
+
+### Html 5 other elements
+1. Progress
 
