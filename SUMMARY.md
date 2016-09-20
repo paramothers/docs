@@ -1,5 +1,6 @@
 # Summary
 
+* [About Paramasivam](README.md)
 * [JavaScript and Web UI](JavaScriptAndWebTechnologies/javaScriptLibrariesForWeb.md)
    * [FactorsVersionReleasedAcronyam](JavaScriptAndWebTechnologies/factorsversionreleasedacronyam.md)
    * [web ui](JavaScriptAndWebTechnologies/web_ui.md)
@@ -47,7 +48,6 @@
            * [Couch DB](JavaScriptAndWebTechnologies/javascriptdb/couchdb/README.md)
    * [Hybrid Mobile](JavaScriptAndWebTechnologies/hybridMobile/README.md)
    * [Hybrid Desktop](JavaScriptAndWebTechnologies/hybridDesktop/README.md)
-* [About Paramasivam](README.md)
 * [Java Technologies](JavaTechnologies/JavaStudy.md)
    * [annotations](JavaTechnologies/annotions/annotations.md)
        * [EJB 3.1 Annotation](JavaTechnologies/annotions/Ejb31Annotation.md)
