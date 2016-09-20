@@ -26,9 +26,6 @@
    * [ECMAScript 6](JavaScriptAndWebTechnologies/ECMAScript/README.md)
        * [JavaScript API](JavaScriptAndWebTechnologies/ECMAScript/javascriptAPI.md)
        * [ES5 Basic](JavaScriptAndWebTechnologies/ECMAScript/es5_basic.md)
-   * [Grunt and Gulp](JavaScriptAndWebTechnologies/grunt/README.md)
-       * [Grunt API](JavaScriptAndWebTechnologies/grunt/gruntAPI.md)
-       * [Gulp API](JavaScriptAndWebTechnologies/grunt/gulp_api.md)
    * [Hybrid Mobile](JavaScriptAndWebTechnologies/hybridMobile/README.md)
    * [Hybrid Desktop](JavaScriptAndWebTechnologies/hybridDesktop/README.md)
    * [JavaScript DB](JavaScriptAndWebTechnologies/javascriptdb/README.md)
@@ -39,6 +36,9 @@
        * [JSHint](JavaScriptAndWebTechnologies/jshint.md)
        * [ESLint](JavaScriptAndWebTechnologies/eslint.md)
        * [JSCS](JavaScriptAndWebTechnologies/jscs.md)
+   * [Grunt and Gulp](JavaScriptAndWebTechnologies/grunt/README.md)
+       * [Grunt API](JavaScriptAndWebTechnologies/grunt/gruntAPI.md)
+       * [Gulp API](JavaScriptAndWebTechnologies/grunt/gulp_api.md)
    * JavaScript Testing
        * Testing Frameworks
    * [Node and Its Technologies](JavaScriptAndWebTechnologies/node_and_its_technologies.md)
