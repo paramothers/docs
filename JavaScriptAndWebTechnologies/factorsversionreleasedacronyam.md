@@ -13,7 +13,7 @@
 
 8. Netscape browser first adopted Java after that introduced a Scheme\(Lisp\) scripting language. But after many debates, started to develop a glue language..  it become single language rather than two langages for browsers. Java were used for applet, Scheme were used for dynamic content on browser-netscape navigator. That new Scripting lanaguage Want to have similar to java syntax. That why its named java-script. Eich created a secification in May 1995.
 
-9. 1995, May, Mocha scripting has released. Then renamed to LiveScript
+9. 1995, May, Mocha scripting has released. Then renamed as a LiveScript
 
 10. 1995, Decemper, Sun licensced tradmark of Java to Netscape.  Then LiveScript renamed as "JavaScript".
 
@@ -69,6 +69,7 @@
 35. 2011, **Windows8**, use extensively HTML5 apps
 
 36. 2012, **Grunt** released by Ben Alman
+37. 
 37. 2014, oct, HTML 5 officially released by W3c
 
 37. 2015, June, EMCAScript v6 \(also called ES6 Harmony\) released
