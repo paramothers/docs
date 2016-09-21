@@ -1,5 +1,10 @@
 # Linting Tools. Static code analysis tools
 
+
+### JSLint ---> JSHint ---> ESLint
+
+
+
 it helps by
 
 1. catch bugs
