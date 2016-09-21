@@ -36,6 +36,8 @@ Want to use obtained expertise JavaScript technologies for Desktop, Mobile and W
 | **CSS Frameworks**: BootStrap 3.0, Sass | **Dependency-Resolve**: NPM, Bower|
 | **JavaScriptUI frameworks**:  Angular JS 1.4, ExtJS 4 | **Test**: Jasmine 2.4, [Mocha(chai, sinon)], Protractor 3.2, Karma   0.1 |
 | **Object-Rep**: JSON  | **JavaScript-Linting**: ESLint |
+|   | **Workflow**: Gulp, [Grunt] |
+|   | **Hybrid-Mobile**: Cordova 4, Ionic |
 
 
 |   |  Java Technologies  |     
@@ -46,7 +48,7 @@ Want to use obtained expertise JavaScript technologies for Desktop, Mobile and W
 |  **JEE Technology**: Servlet 3.1, JSP 1.2, JMS 1.1, JavaConfig, Java Validation |
 | | **Web Service and XML**: XML Schema 1.1, JAXP 1.4, JAXB 2.0 & Jibx 1.2, SOAP 1.1 & SAAJ 1.2, JAX-RPC 1.1, JAX-WS 2.0, XStream   1.2|
 | | **Desktop Frameworks**: SWT 3.0, JFace,  Swing 1.5, AWT |
-| **Workflow**: Gulp, [Grunt] **Hybrid-Mobile**: Cordova 4, Ionic| **Web & App Servers**: Jetty 1.9, Tomcate 7.0, WebSphere 7.0, jBOSS 4,Weblogic 9.2   |
+|  | **Web & App Servers**: Jetty 1.9, Tomcate 7.0, WebSphere 7.0, jBOSS 4,Weblogic 9.2   |
 | 3| **Library**: Struts 2.1, POI, iText 2.6, jUnit 4.12, Mockito |
 | **VCS**: Git, GitHub, SVN, ClearCase | **Design**: OOAD, UML 2.0, Design Pattern, Design Thumb Rule |
 | **IDE**: Atom 1.5, Eclipse 4.3 Mars, Intellij IDEA 16, NetBeans 8, Sublime Text 3| **DB**: Oracle 12, Sybase ASE 15, H2 1.2, HSQLDB  2.0 |
