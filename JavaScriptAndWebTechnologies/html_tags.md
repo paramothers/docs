@@ -1,4 +1,4 @@
-### Html 5 document layout  Tags
+### Html 5 document layout/structure  Tags
 
 1. Header, footer
 2. hgroup
@@ -6,7 +6,6 @@
 4. section
 5. article 
 7. aside
-8. mark
 
 ### Html 5 data and time tags
 1. time
@@ -42,6 +41,7 @@
 2. meter
 3. details
 4. summary
+5. Mark
 
 
 ### Multimedia html5 elements
