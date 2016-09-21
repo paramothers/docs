@@ -3,7 +3,11 @@
 #### header
 1. Header 
 2. hgroup
+ 
+#### Footer
+1. footer 
 3. nav
+4. 
 4. section
 5. article 
 7. aside
