@@ -6,6 +6,7 @@
 
 1. SASS, for faster css development, ruby language based tool
 2. LESS
+3. sytlus
 3. Bootstrap, set of predefined class definitions, from twitter
 
 ### JavaScript UI Frameworks for faster web-client development
