@@ -1,23 +1,23 @@
 ### Html 5 document layout  Tags
 
-1. Header, fotter
+1. Header, footer
 2. hgroup
 3. nav
 4. section
-5. article
-6. time
+5. article 
 7. aside
 8. mark
 
+### Html 5 data and time tags
+1. time
+2. date
+3. datetime
+4. datetime-local
+5. week
+6. Month
 ### Html 5 Input tags
 
 1. color
-2. date
-3. time
-3. datetime
-4. datetime-local
-5. month
-6. week
 5. email
 6. number
 7. range
