@@ -1,4 +1,4 @@
-* Creater of ECMAScript is ** Brendan Eich**, he worked for Netscape
+Creater of ECMAScript is ** Brendan Eich**, he worked for Netscape
 EMCAScript is offical name of JavaScript. First it was called "mocha", then "LiveScript" . Finallly as "JavaScript"
 Two more EMCAScript impletation are JScript and ActionScript
 Current version is EMCAScript 7\(as on Sep,2016\).
