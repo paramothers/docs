@@ -7,12 +7,13 @@
 #### Footer
 1. footer 
 3. nav
-4. 
+
+#### Sidebar
 4. section
-5. 
+5. aside
+
 #### Content
-5. article 
-7. aside
+1. article 
 
 ### Html 5 data and time tags
 1. time
