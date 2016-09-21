@@ -20,6 +20,7 @@
 11. 1996, Microsoft implementd the same as counterpart but named as JScript. it was used in IE 3.0
 
 12. 1996, Nov, ECMA-262 standardization has **started, **by Ecma International
+13. 1996, Dec, CSS 1 released by W3c
 
 13. 1997, June, the first ECMA-261, ECMAScript v1 has adopted\/released
 
