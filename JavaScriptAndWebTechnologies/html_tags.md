@@ -52,6 +52,10 @@
 3. details
 4. summary
 5. Mark
+6. ruby
+6. rt
+7. rb
+8. wbr
 
 ### Multimedia html5 elements
 
@@ -59,6 +63,5 @@
 2. Video
 3. Track
 4. Source
-5. ruby
-6. rt
-7. rb
+5
+8
