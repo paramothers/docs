@@ -14,6 +14,8 @@
 
 #### Content
 1. article 
+2. figure
+3. figcaption
 
 ### Html 5 data and time tags
 1. time
