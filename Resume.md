@@ -32,23 +32,22 @@ Want to use obtained expertise JavaScript technologies for Desktop, Mobile and W
 
 |JavaScript Technologies | 1:0 |
 | -- | -- |
-| **Web UI**: Html 5, CSS 3 | 1:2 |
-| **CSS Frameworks**: BootStrap 3.0, Sass | 1:3 |
-| **JavaScriptUI frameworks**:  Angular JS 1.4, ExtJS 4 | 1:4 |
-| **Object-Rep**: JSON  | 1:5 |
+| **Web UI**: Html 5, CSS 3 | **Runtime**: Node JS 4.0 |
+| **CSS Frameworks**: BootStrap 3.0, Sass | **Dependency-Resolve**: NPM, Bower|
+| **JavaScriptUI frameworks**:  Angular JS 1.4, ExtJS 4 | **Test**: Jasmine 2.4, [Mocha(chai, sinon)], Protractor 3.2, Karma   0.1 |
+| **Object-Rep**: JSON  | **JavaScript-Linting**: ESLint |
 
 
 |   |  Java Technologies  |     
 | ------------------    | ------------------- |
-| **Runtime**: Node JS 4.0|  |
 |  | **Spring 4.2 Modules**: MVC, RestFul, Message, Security, AOP, Batch, Data, Remote, Cache, Portlet|
 |  | **Persistence**: JDBC 1.4, MyBatis 3.1, MBG 1.8, JPA 2.0, Hibernate 4.0, SQL-99, PL/SQL  |
 |  | **Build Tool**: Gradle 2.4, Maven 3.1, Ant 1.6 |
 |  **JEE Technology**: Servlet 3.1, JSP 1.2, JMS 1.1, JavaConfig, Java Validation |
-| **Dependency-Resolve**: NPM, Bower, [Broserify]| **Web Service and XML**: XML Schema 1.1, JAXP 1.4, JAXB 2.0 & Jibx 1.2, SOAP 1.1 & SAAJ 1.2, JAX-RPC 1.1, JAX-WS 2.0, XStream   1.2|
-| **JavaScript-Linting**: ESLint, [JSHint, JSCS]| **Desktop Frameworks**: SWT 3.0, JFace,  Swing 1.5, AWT |
+| | **Web Service and XML**: XML Schema 1.1, JAXP 1.4, JAXB 2.0 & Jibx 1.2, SOAP 1.1 & SAAJ 1.2, JAX-RPC 1.1, JAX-WS 2.0, XStream   1.2|
+| | **Desktop Frameworks**: SWT 3.0, JFace,  Swing 1.5, AWT |
 | **Workflow**: Gulp, [Grunt] **Hybrid-Mobile**: Cordova 4, Ionic| **Web & App Servers**: Jetty 1.9, Tomcate 7.0, WebSphere 7.0, jBOSS 4,Weblogic 9.2   |
-| **Test**: Jasmine 2.4, [Mocha(chai, sinon)], Protractor 3.2, Karma   0.13| **Library**: Struts 2.1, POI, iText 2.6, jUnit 4.12, Mockito |
+| 3| **Library**: Struts 2.1, POI, iText 2.6, jUnit 4.12, Mockito |
 | **VCS**: Git, GitHub, SVN, ClearCase | **Design**: OOAD, UML 2.0, Design Pattern, Design Thumb Rule |
 | **IDE**: Atom 1.5, Eclipse 4.3 Mars, Intellij IDEA 16, NetBeans 8, Sublime Text 3| **DB**: Oracle 12, Sybase ASE 15, H2 1.2, HSQLDB  2.0 |
 | **Cloud IDE**:  c9.io, coding.io, Codenvy3| **Others**: gitbook, kamihq, Markdown, Xodo |
