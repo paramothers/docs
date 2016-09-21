@@ -2,6 +2,7 @@
 
 * it is developed by adding few features to JSHint, developed by Nicholas Zakas
 * it is a npm based package
+* it use **Esprima** parser to parse given  JS file into **Abstract Syntax tree**
 
 ### Built in rules
 1. no-space-before-semi
