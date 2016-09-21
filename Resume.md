@@ -30,17 +30,17 @@ Want to use obtained expertise JavaScript technologies for Desktop, Mobile and W
 
 ### Technology Experience and Exposure
 
-|JavaScript Technologies | 1:0 |
+|JavaScript Technologies | |
 | -- | -- |
-| **Web UI**: Html 5, CSS 3 | **Runtime**: Node JS 4.0 |
-| **CSS Frameworks**: BootStrap 3.0, Sass | **Dependency-Resolve**: NPM, Bower|
+| **Web UI**: Html 5, CSS 3                    | **Runtime**: Node JS 4.0 |
+| **CSS Frameworks**: BootStrap 3.0, Sass      | **Dependency-Resolve**: NPM, Bower|
 | **JavaScriptUI frameworks**:  Angular JS 1.4, ExtJS 4 | **Test**: Jasmine 2.4, [Mocha(chai, sinon)], Protractor 3.2, Karma   0.1 |
-| **Object-Rep**: JSON  | **JavaScript-Linting**: ESLint |
-|   | **Workflow**: Gulp, [Grunt] |
-|   | **Hybrid-Mobile**: Cordova 4, Ionic |
+| **Object-Rep**: JSON                         | **JavaScript-Linting**: ESLint |
+|                                              | **Workflow**: Gulp, [Grunt] |
+|                                              | **Hybrid-Mobile**: Cordova 4, Ionic |
 
 
-|   |  Java Technologies  |     
+| Java Technologies  |    |     
 | ------------------    | ------------------- |
 |  | **Spring 4.2 Modules**: MVC, RestFul, Message, Security, AOP, Batch, Data, Remote, Cache, Portlet|
 |  | **Persistence**: JDBC 1.4, MyBatis 3.1, MBG 1.8, JPA 2.0, Hibernate 4.0, SQL-99, PL/SQL  |
