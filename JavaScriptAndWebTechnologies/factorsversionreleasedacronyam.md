@@ -25,6 +25,7 @@
 13. 1997, June, the first ECMA-261, ECMAScript v1 has adopted\/released
 
 14. 1997, Dynamic HTML, DOM Manipulation and Tree Structure of document IE 4, Netscape 4
+15. 1998, May CSS2 released by w3c
 
 15. 1998, Aug, ECMAScript v2 released
 
@@ -68,8 +69,10 @@
 34. 2011, June, EMCAScript v5.1 released
 
 35. 2011, **Windows8**, use extensively HTML5 apps
+36. 2011, June, CSS 2.1 was finalized by w3c after Many reviews
 
 36. 2012, **Grunt** released by Ben Alman
+37. 2012, June CSS 3 finized by W3c
 37. 
 37. 2014, oct, HTML 5 officially released by W3c
 
