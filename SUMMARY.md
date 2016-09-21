@@ -39,7 +39,7 @@
        * [Linting Tools](JavaScriptAndWebTechnologies/linting_tools.md)
            * [JSLint](JavaScriptAndWebTechnologies/jslint.md)
            * [JSHint](JavaScriptAndWebTechnologies/jshint.md)
-           * [ESLint](JavaScriptAndWebTechnologies/eslint.md)
+           * [ESLint v3.5](JavaScriptAndWebTechnologies/eslint.md)
            * [JSCS](JavaScriptAndWebTechnologies/jscs.md)
        * JavaScript Testing
            * Testing Frameworks
