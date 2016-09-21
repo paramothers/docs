@@ -3,7 +3,7 @@
 * [About Paramasivam](README.md)
 * [JavaScript and Web UI](JavaScriptAndWebTechnologies/javaScriptLibrariesForWeb.md)
    * [FactorsVersionReleasedAcronyam](JavaScriptAndWebTechnologies/factorsversionreleasedacronyam.md)
-   * [web ui](JavaScriptAndWebTechnologies/web_ui.md)
+   * [Web UI](JavaScriptAndWebTechnologies/web_ui.md)
        * [html5](JavaScriptAndWebTechnologies/html5.md)
            * [html 5 API](JavaScriptAndWebTechnologies/html_5_api.md)
            * [Html 5 Tags](JavaScriptAndWebTechnologies/html_tags.md)
