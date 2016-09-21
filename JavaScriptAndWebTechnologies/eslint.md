@@ -7,6 +7,14 @@
 * Easy to create own Linting rules
 * Easy to plug in-out rules
 
+####Every rule:
+
+* Is standalone
+* Can be able to be turned off or on (nothing can be deemed “too important to turn off”)
+* Can be set to be a warning or error individually
+
+
+
 ### Rules are categorized logically
 Categories are
 
