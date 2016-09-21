@@ -1,11 +1,13 @@
 ### Html 5 document layout/structure  Tags
 
-1. Header, footer
+#### header
+1. Header 
 2. hgroup
 3. nav
 4. section
 5. article 
 7. aside
+8. footer
 
 ### Html 5 data and time tags
 1. time
