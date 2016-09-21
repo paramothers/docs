@@ -1,4 +1,4 @@
-# ESLint
+# ESLint v3.5
 
 * it is developed by adding few features to JSHint, developed by Nicholas Zakas
 * it is a npm based package
