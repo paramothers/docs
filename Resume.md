@@ -30,7 +30,7 @@ Want to use obtained expertise JavaScript technologies for Desktop, Mobile and W
 
 ### Technology Experience and Exposure
 
-|JavaScript Technologies | |
+|JavaScript 6 Technologies | |
 | -- | -- |
 | **Web UI**: Html 5, CSS 3                    | **Runtime**: Node JS 4.0 |
 | **CSS Frameworks**: BootStrap 3.0, Sass      | **Dependency-Resolve**: NPM, Bower|
