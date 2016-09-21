@@ -1,9 +1,11 @@
 # ESLint v3.5.0
 
 * it is developed by adding few features to JSHint, developed by Nicholas Zakas, June 2013
-* it is a npm based package
+* it is a npm based package, since it is developed on Node.Js platform
 * it use **Esprima** parser to parse given  JS file into **Abstract Syntax tree**
 * Esprima was Developed by Ariya Hidayat
+* Easy to create own Linting rules
+* Easy to plug in-out rules
 
 ### Rules are categorized logically
 Categories are
