@@ -49,6 +49,7 @@
            * [Couch DB](JavaScriptAndWebTechnologies/javascriptdb/couchdb/README.md)
    * [Hybrid Mobile](JavaScriptAndWebTechnologies/hybridMobile/README.md)
        * Cordova
+       * Ionic
    * [Hybrid Desktop](JavaScriptAndWebTechnologies/hybridDesktop/README.md)
    * [JSON](JavaScriptAndWebTechnologies/json.md)
 * [Java Technologies](JavaTechnologies/JavaStudy.md)
