@@ -2,3 +2,6 @@
 
 ## Object
  it is top most built in object , like in java. any of others objects are child to this one.
+ 
+ instance's property or behavior can be accessed by either dot notation or bracket notation
+
