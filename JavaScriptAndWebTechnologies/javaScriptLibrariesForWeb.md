@@ -5,26 +5,29 @@
 ### CSS Related Frameworks
 
 1. SASS, for faster css development, ruby language based tool
-2. LESS
-3. sytlus
-3. Bootstrap, set of predefined class definitions, from twitter
+2. Bootstrap, set of predefined class definitions, from twitter
+2. [LESS]
+3. [sytlus]
+3. 
 
 ### JavaScript UI Frameworks for faster web-client development
 
-1. Yahoo API / Dojo Toolkit
+ 
 3.** JQuery / ExtJS / AngularJS**
 6. Backbone.JS
-7. GWT, DWR
+7. GWT, DWR,
+8. Yahoo API / Dojo Toolkit
+
+### Domain Object
+
+JSON
+[CSON] \( CoffeScript Object Notation\)
+
 
 ### JavaScript Module Frameworks
 
 8. Requrire.js, Browser based module system.
 9. CommonJS, Server based module system, it is conceived by Node.js
-
-### Domain Object
-
-JSON
-CSON \( CoffeScript Object Notation\)
 
 ### Java Script Linting tools
 
@@ -45,8 +48,9 @@ CSON \( CoffeScript Object Notation\)
 1. AJAX
 2. Commet
 ### JavaScript- Build-workflow
-1. Grunt
-2. Gulp
+1. Gulp
+2. [Grunt]
+3. 
 ### JavaScript Scaffolding tool
 1. Yo (it is like set of archeType used in Mavan project creation)
 
@@ -61,28 +65,19 @@ CSON \( CoffeScript Object Notation\)
 2. Browsers
 3. mozilla' SpiderMonkey
 
+### Node js for Desktop application development
+1. Electron
+2. Node-Webkit (NW)
+
 ### Javascript Documentation
 1. JSDoc
 ### JavaScript - Abstraction programming - translated into javascript
 
 1. CoffeScript, it is like GWT programming in Java-translate-to-html and Javascript
-
 2. TypeScript - from microsoft
-
-
-### Node js for Desktop application development
-
-1. Electron
-
-2. Node-Webkit (NW)
-
 
 ### Some of Java Script Library
 
 1. Underscore.js, provide functional programming
-
 2. Protype.js,
-
 3. io.js, Now it is merged with node.js on node.js v4
-
-
