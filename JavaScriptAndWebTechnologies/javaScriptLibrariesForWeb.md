@@ -11,9 +11,9 @@
 3. 
 
 ### JavaScript UI Frameworks for faster web-client development
-
- 
-3.** JQuery / ExtJS / AngularJS**
+1. AngularJS 
+3. ExtJS
+4. JQuery
 6. Backbone.JS
 7. GWT, DWR,
 8. Yahoo API / Dojo Toolkit
