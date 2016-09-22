@@ -8,3 +8,9 @@
 ## Array
 it is ordered collection.
 it is subclass to Object.
+
+## String
+
+## Date
+
+## Math
