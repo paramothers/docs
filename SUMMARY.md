@@ -48,6 +48,7 @@
            * [Mongo DB](JavaScriptAndWebTechnologies/javascriptdb/mongodb/mongodbStudy.md)
            * [Couch DB](JavaScriptAndWebTechnologies/javascriptdb/couchdb/README.md)
    * [Hybrid Mobile](JavaScriptAndWebTechnologies/hybridMobile/README.md)
+       * Cordova
    * [Hybrid Desktop](JavaScriptAndWebTechnologies/hybridDesktop/README.md)
    * [JSON](JavaScriptAndWebTechnologies/json.md)
 * [Java Technologies](JavaTechnologies/JavaStudy.md)
