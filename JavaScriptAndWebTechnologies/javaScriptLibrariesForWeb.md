@@ -1,13 +1,13 @@
 ### Web UI
-1. Html5
-2. CSS3
+1. Html 5
+2. CSS 3
 
 ### CSS Related Frameworks
 
 1. SASS, for faster css development, ruby language based tool
 2. Bootstrap, set of predefined class definitions, from twitter
 2. [LESS]
-3. [sytlus]
+3. [stylus]
 3. 
 
 ### JavaScript UI Frameworks for faster web-client development
@@ -22,12 +22,6 @@
 
 JSON
 [CSON] \( CoffeScript Object Notation\)
-
-
-### JavaScript Module Frameworks
-
-8. Requrire.js, Browser based module system.
-9. CommonJS, Server based module system, it is conceived by Node.js
 
 ### Java Script Linting tools
 
@@ -69,6 +63,10 @@ JSON
 1. Electron
 2. Node-Webkit (NW)
 
+### JavaScript Module Frameworks
+
+8. Requrire.js, Browser based module system.
+9. CommonJS, Server based module system, it is conceived by Node.js
 ### Javascript Documentation
 1. JSDoc
 ### JavaScript - Abstraction programming - translated into javascript
