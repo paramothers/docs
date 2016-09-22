@@ -5,3 +5,4 @@
  
  instance's property or behavior can be accessed by either dot notation or bracket notation
 
+## Array
