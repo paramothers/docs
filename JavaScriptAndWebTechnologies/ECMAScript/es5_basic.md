@@ -1,4 +1,4 @@
-# ES5 Basic
+# ES6 Basic
 
 it has 6 data type.
 Each value datatype has properties
