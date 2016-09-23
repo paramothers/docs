@@ -23,12 +23,10 @@
 13. 1996, Dec, CSS 1 released by W3c
 
 13. 1997, June, the first ECMA-261, ECMAScript v1 has adopted\/released
-
 14. 1997, Dynamic HTML, DOM Manipulation and Tree Structure of document IE 4, Netscape 4
+15. 
 15. 1998, May CSS2 released by w3c
-
 15. 1998, Aug, ECMAScript v2 released
-
 16. 1998, DOM convention create by w3 .. yes it happened at 98 only.
 
 17. 1999, Dec, ECMAScript v3 released
