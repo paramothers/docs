@@ -56,10 +56,10 @@
 
 34. 2011, June, EMCAScript v5.1 released
 35. 2011, **Windows8**, use extensively HTML5 apps
-36. 2011, June, CSS 2.1 was finalized by w3c after Many reviews
+36. 2011, June, **CSS 2.1** was finalized by w3c after Many reviews
 
 36. 2012, **Grunt** released by Ben Alman
-37. 2012, June CSS 3 finized by W3c
+37. 2012, June **CSS 3** finized by W3c
 38. 
 37. 2013, June ESLint created
 38. 
