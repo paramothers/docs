@@ -1,12 +1,11 @@
 1. **V8**, is the virtual _machine_ powed by google chrome.
 2. **REPL **- read evaluate print loop
 
-3. HTML managed by W3C, JavaScript managed by TC39.
+3. HTML & CSS managed by W3C, JavaScript managed by TC39.
 
 4. 1990, HTML and HTTP are introduced for sharing data.
 
 5. 1993, CGI programing was introduced, first in Perl and etc..
-
 6. 1993, National Center for SuperComputiong application (NCSA) 's Mosaic is first browser
 
 7. 1994, Netscape company founded.
