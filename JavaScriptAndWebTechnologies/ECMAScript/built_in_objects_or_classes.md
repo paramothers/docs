@@ -10,7 +10,7 @@ it is ordered collection.
 it is subclass to Object.
 
 ## String
-it should be sub type of Array. (i believe)
+it should be sub type of Array. (i believe). it is ordered collections
 ## Date
 
 ## Math
