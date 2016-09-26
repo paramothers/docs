@@ -29,7 +29,6 @@
        * [ES5 Basic](JavaScriptAndWebTechnologies/ECMAScript/es5_basic.md)
        * [JavaScript API](JavaScriptAndWebTechnologies/ECMAScript/javascriptAPI.md)
        * [Built In objects or classes](JavaScriptAndWebTechnologies/ECMAScript/built_in_objects_or_classes.md)
-   * [Hybrid Desktop](JavaScriptAndWebTechnologies/hybridDesktop/README.md)
    * [JSON](JavaScriptAndWebTechnologies/json.md)
 * [Node and Its Technologies](JavaScriptAndWebTechnologies/node_and_its_technologies.md)
    * [Node JS](JavaScriptAndWebTechnologies/nodejs/nodestudy.md)
@@ -50,6 +49,7 @@
    * [Hybrid Mobile](JavaScriptAndWebTechnologies/hybridMobile/README.md)
        * [Cordova 4](JavaScriptAndWebTechnologies/hybridMobile/cordova.md)
        * [Ionic](JavaScriptAndWebTechnologies/hybridMobile/ionic.md)
+   * [Hybrid Desktop](JavaScriptAndWebTechnologies/hybridDesktop/README.md)
    * JavaScript Testing
        * Testing Frameworks
    * [Coffee Script](JavaScriptAndWebTechnologies/coffee_script.md)
