@@ -103,5 +103,5 @@
    * [Linux Command Level6](linux/commandLevel6.md)
 * [IDE study](ide/CodenvyStudy.md)
    * [Intellij IDEA](ide/IDEA Study.md)
-* [Resume](Resume.md)
+* [Appendix A](Resume.md)
 
