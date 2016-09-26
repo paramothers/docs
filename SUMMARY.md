@@ -4,6 +4,7 @@
 * [Preface](preface.md)
 * [Acknowledgement](acknowledgement.md)
 * [To Whom this book](to_whom_this_book.md)
+* [FactorsVersionReleasedAcronyam](JavaScriptAndWebTechnologies/factorsversionreleasedacronyam.md)
 * [Web UI](web_ui.md)
    * [html5](JavaScriptAndWebTechnologies/html5.md)
        * [html 5 API](JavaScriptAndWebTechnologies/html_5_api.md)
