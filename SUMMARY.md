@@ -49,7 +49,7 @@
            * [Couch DB - document based](JavaScriptAndWebTechnologies/javascriptdb/couchdb/README.md)
            * [Redis - keyValue based](JavaScriptAndWebTechnologies/javascriptdb/redis_-_keyvalue_based.md)
            * [Cassendra - wide column value](JavaScriptAndWebTechnologies/javascriptdb/cassendra_-_wide_column_value.md)
-           * HBase - wide column value
+           * [HBase - wide column value](JavaScriptAndWebTechnologies/javascriptdb/hbase_-_wide_column_value.md)
        * [Coffee Script](JavaScriptAndWebTechnologies/coffee_script.md)
    * [Hybrid Mobile](JavaScriptAndWebTechnologies/hybridMobile/README.md)
        * [Cordova 4](JavaScriptAndWebTechnologies/hybridMobile/cordova.md)
