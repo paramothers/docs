@@ -15,7 +15,6 @@
    * test
 * [JavaScript and Web UI](JavaScriptAndWebTechnologies/javaScriptLibrariesForWeb.md)
    * [FactorsVersionReleasedAcronyam](JavaScriptAndWebTechnologies/factorsversionreleasedacronyam.md)
-   * [Web UI](JavaScriptAndWebTechnologies/web_ui.md)
    * [JavaScript UI Frameworks](JavaScriptAndWebTechnologies/javascript_ui_frameworks.md)
        * [Angular JS](JavaScriptAndWebTechnologies/angularjs/Angular General.md)
            * [Angular JS Existing Module](JavaScriptAndWebTechnologies/angularjs/Angular existing module.md)
