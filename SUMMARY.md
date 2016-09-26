@@ -12,7 +12,6 @@
        * [Bootstrap](JavaScriptAndWebTechnologies/bootstrap/Parambootstrap.md)
            * [Boot Strap class](JavaScriptAndWebTechnologies/bootstrap/bootstrapClasses.md)
        * [SASS](JavaScriptAndWebTechnologies/css/SassStudy.md)
-   * test
 * [JavaScript and Web UI](JavaScriptAndWebTechnologies/javaScriptLibrariesForWeb.md)
    * [FactorsVersionReleasedAcronyam](JavaScriptAndWebTechnologies/factorsversionreleasedacronyam.md)
    * [JavaScript UI Frameworks](JavaScriptAndWebTechnologies/javascript_ui_frameworks.md)
