@@ -37,7 +37,7 @@ Want to use obtained expertise JavaScript technologies for Desktop, Mobile and W
 | **Data Interchange Std**: JSON  | **Test**: Jasmine 2.4, [Mocha(chai, sinon)], Protractor 3.2, Karma   0.1 | CouchDB |
 |     | **Linter**: ESLint 3.5.0 | Cassandra |
 |  **JavaScriptUI frameworks**:  Angular JS 1.4, ExtJS 4  | **Workflow**: Gulp 3.9.1, [Grunt] | HBase |
-|                                              | **Hybrid-Mobile**: Cordova 4, Ionic | |
+|                                              | **Hybrid-Mobile**: Cordova 4, Ionic |  |
 
 
 | Java Technologies  |   
