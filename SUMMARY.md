@@ -57,7 +57,7 @@
    * [HBase - wide column value](JavaScriptAndWebTechnologies/javascriptdb/hbase_-_wide_column_value.md)
    * [Redis - keyValue-inMemory](JavaScriptAndWebTechnologies/javascriptdb/redis_-_keyvalue_based.md)
    * [Couch DB - document based](JavaScriptAndWebTechnologies/javascriptdb/couchdb/README.md)
-   * [Mongo DB -  document based](JavaScriptAndWebTechnologies/javascriptdb/mongodb/mongodbStudy.md)
+   * [Mongo DB 3.2 -  document based](JavaScriptAndWebTechnologies/javascriptdb/mongodb/mongodbStudy.md)
 * [Java Technologies](JavaTechnologies/JavaStudy.md)
    * [annotations](JavaTechnologies/annotions/annotations.md)
        * [EJB 3.1 Annotation](JavaTechnologies/annotions/Ejb31Annotation.md)
