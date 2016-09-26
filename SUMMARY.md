@@ -1,6 +1,6 @@
 # Summary
 
-* [About Paramasivam](README.md)
+* [About Author](README.md)
 * [Preface](preface.md)
 * [To Whom this book](to_whom_this_book.md)
 * [JavaScript and Web UI](JavaScriptAndWebTechnologies/javaScriptLibrariesForWeb.md)
