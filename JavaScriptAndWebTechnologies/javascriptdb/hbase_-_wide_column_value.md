@@ -1,0 +1,2 @@
+# HBase - wide column value
+
