@@ -56,6 +56,7 @@
        * [Ionic](JavaScriptAndWebTechnologies/hybridMobile/ionic.md)
    * [Hybrid Desktop](JavaScriptAndWebTechnologies/hybridDesktop/README.md)
    * [JSON](JavaScriptAndWebTechnologies/json.md)
+* No SQL
 * [Java Technologies](JavaTechnologies/JavaStudy.md)
    * [annotations](JavaTechnologies/annotions/annotations.md)
        * [EJB 3.1 Annotation](JavaTechnologies/annotions/Ejb31Annotation.md)
@@ -102,5 +103,4 @@
 * [IDE study](ide/CodenvyStudy.md)
    * [Intellij IDEA](ide/IDEA Study.md)
 * [Resume](Resume.md)
-* No SQL
 
