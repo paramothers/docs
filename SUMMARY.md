@@ -1,6 +1,7 @@
 # Summary
 
 * [About Paramasivam](README.md)
+* Preface
 * [JavaScript and Web UI](JavaScriptAndWebTechnologies/javaScriptLibrariesForWeb.md)
    * [FactorsVersionReleasedAcronyam](JavaScriptAndWebTechnologies/factorsversionreleasedacronyam.md)
    * [Web UI](JavaScriptAndWebTechnologies/web_ui.md)
@@ -102,6 +103,5 @@
 * [IDE study](ide/CodenvyStudy.md)
    * [Intellij IDEA](ide/IDEA Study.md)
 * [Resume](Resume.md)
-* Preface
 * To Whom this book
 
