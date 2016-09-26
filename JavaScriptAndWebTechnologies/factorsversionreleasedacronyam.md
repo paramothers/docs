@@ -39,6 +39,7 @@
 
 23. 2006, Google Chrome browser has released
 24. 2006, jQuery, for DOM manipulation easily.
+25. 2006, REDIS, key-value DB released
 
 25. 2007, WebKit, for mobile web stream. **It is engine for HTML**
 
