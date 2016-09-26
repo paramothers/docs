@@ -8,4 +8,4 @@ it is installed as a Npm package in node platform
 JavaScript borrowed idea from two language
 
 1. **Scheme**, for functional programming
-2. **Self**, for object oritented programming
+2. **Self**, for object oritented programming, it is followed ro Lisp
