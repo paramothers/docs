@@ -28,8 +28,6 @@
    * [JavaScript API](JavaScriptAndWebTechnologies/ECMAScript/javascriptAPI.md)
    * [Built In objects or classes](JavaScriptAndWebTechnologies/ECMAScript/built_in_objects_or_classes.md)
    * [FactorsVersionReleasedAcronyam](JavaScriptAndWebTechnologies/factorsversionreleasedacronyam.md)
-   * [JavaScript 6](JavaScriptAndWebTechnologies/ECMAScript/README.md)
-       * [Built In objects or classes](JavaScriptAndWebTechnologies/ECMAScript/built_in_objects_or_classes.md)
    * [JSON](JavaScriptAndWebTechnologies/json.md)
 * [Node and Its Technologies](JavaScriptAndWebTechnologies/node_and_its_technologies.md)
    * [Node JS](JavaScriptAndWebTechnologies/nodejs/nodestudy.md)
