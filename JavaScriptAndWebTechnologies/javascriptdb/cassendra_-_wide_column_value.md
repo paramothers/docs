@@ -1,0 +1,2 @@
+# Cassendra - wide column value
+
