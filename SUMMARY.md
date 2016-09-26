@@ -56,7 +56,7 @@
    * [Cassendra - wide column value](JavaScriptAndWebTechnologies/javascriptdb/cassendra_-_wide_column_value.md)
    * [HBase - wide column value](JavaScriptAndWebTechnologies/javascriptdb/hbase_-_wide_column_value.md)
 * [No SQL](no_sql.md)
-   * test
+   * [test](test.md)
 * [Mongo DB -  document based](JavaScriptAndWebTechnologies/javascriptdb/mongodb/mongodbStudy.md)
 * [Java Technologies](JavaTechnologies/JavaStudy.md)
    * [annotations](JavaTechnologies/annotions/annotations.md)
