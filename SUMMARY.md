@@ -50,7 +50,6 @@
        * [Ionic](JavaScriptAndWebTechnologies/hybridMobile/ionic.md)
    * [Hybrid Desktop](JavaScriptAndWebTechnologies/hybridDesktop/README.md)
    * [JSON](JavaScriptAndWebTechnologies/json.md)
-* [JavaScript DB](JavaScriptAndWebTechnologies/javascriptdb/README.md)
 * [No SQL](no_sql.md)
    * [Cassendra - wide column value](JavaScriptAndWebTechnologies/javascriptdb/cassendra_-_wide_column_value.md)
    * [HBase - wide column value](JavaScriptAndWebTechnologies/javascriptdb/hbase_-_wide_column_value.md)
