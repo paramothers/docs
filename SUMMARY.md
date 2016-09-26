@@ -105,5 +105,5 @@
 * [IDE study](ide/CodenvyStudy.md)
    * [Intellij IDEA](ide/IDEA Study.md)
 * [Resume](Resume.md)
-* Web UI
+* [Web UI](web_ui.md)
 
