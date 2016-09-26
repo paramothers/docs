@@ -33,11 +33,11 @@ Want to use obtained expertise JavaScript technologies for Desktop, Mobile and W
 | Web and JavaScript 6 Technologies  | | No SQL|
 | -- | -- | -- |
 | **Web UI**: Html 5, CSS 3                    | **Runtime**: Node JS 4.0 | Redis |
-| **CSS Frameworks**: BootStrap 3.0, Sass 3.5  | **Dependency-Resolve**: NPM, Bower| MongoDB|
+| **CSS Frameworks**: BootStrap 3.0, Sass 3.5  | **Dependency-Resolve**: NPM, Bower| MongoDB |
 | **JavaScriptUI frameworks**:  Angular JS 1.4, ExtJS 4 | **Test**: Jasmine 2.4, [Mocha(chai, sinon)], Protractor 3.2, Karma   0.1 | CouchDB |
-| **Data Interchange Std**: JSON                         | **Linter**: ESLint 3.5.0 | Cassandra |
-|                                              | **Workflow**: Gulp 3.9.1, [Grunt] |  |
-|                                              | **Hybrid-Mobile**: Cordova 4, Ionic | | HBase|
+| **Data Interchange Std**: JSON     | **Linter**: ESLint 3.5.0 | Cassandra |
+|                                              | **Workflow**: Gulp 3.9.1, [Grunt] | HBase |
+|                                              | **Hybrid-Mobile**: Cordova 4, Ionic | |
 
 
 | Java Technologies  |   
