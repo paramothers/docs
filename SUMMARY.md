@@ -4,6 +4,8 @@
 * [Preface](preface.md)
 * [To Whom this book](to_whom_this_book.md)
 * [Acknowledgement](acknowledgement.md)
+* [Web UI](web_ui.md)
+   * test
 * [JavaScript and Web UI](JavaScriptAndWebTechnologies/javaScriptLibrariesForWeb.md)
    * [FactorsVersionReleasedAcronyam](JavaScriptAndWebTechnologies/factorsversionreleasedacronyam.md)
    * [Web UI](JavaScriptAndWebTechnologies/web_ui.md)
@@ -105,6 +107,4 @@
 * [IDE study](ide/CodenvyStudy.md)
    * [Intellij IDEA](ide/IDEA Study.md)
 * [Resume](Resume.md)
-* [Web UI](web_ui.md)
-   * test
 
