@@ -11,3 +11,4 @@
 
 ###wide column value
 1. Cassandra
+2. HBase
