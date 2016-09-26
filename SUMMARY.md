@@ -55,7 +55,7 @@
 * [No SQL](no_sql.md)
    * [Cassendra - wide column value](JavaScriptAndWebTechnologies/javascriptdb/cassendra_-_wide_column_value.md)
    * [HBase - wide column value](JavaScriptAndWebTechnologies/javascriptdb/hbase_-_wide_column_value.md)
-   * [Redis - keyValue based](JavaScriptAndWebTechnologies/javascriptdb/redis_-_keyvalue_based.md)
+   * [Redis - keyValue-inMemory](JavaScriptAndWebTechnologies/javascriptdb/redis_-_keyvalue_based.md)
    * [Couch DB - document based](JavaScriptAndWebTechnologies/javascriptdb/couchdb/README.md)
    * [Mongo DB -  document based](JavaScriptAndWebTechnologies/javascriptdb/mongodb/mongodbStudy.md)
 * [Java Technologies](JavaTechnologies/JavaStudy.md)
