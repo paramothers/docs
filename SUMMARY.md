@@ -46,7 +46,7 @@
            * Testing Frameworks
        * [JavaScript DB](JavaScriptAndWebTechnologies/javascriptdb/README.md)
            * [Mongo DB -  document based](JavaScriptAndWebTechnologies/javascriptdb/mongodb/mongodbStudy.md)
-           * [Couch DB](JavaScriptAndWebTechnologies/javascriptdb/couchdb/README.md)
+           * [Couch DB - document based](JavaScriptAndWebTechnologies/javascriptdb/couchdb/README.md)
        * [Coffee Script](JavaScriptAndWebTechnologies/coffee_script.md)
    * [Hybrid Mobile](JavaScriptAndWebTechnologies/hybridMobile/README.md)
        * [Cordova 4](JavaScriptAndWebTechnologies/hybridMobile/cordova.md)
