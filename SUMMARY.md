@@ -103,5 +103,5 @@
 * [IDE study](ide/CodenvyStudy.md)
    * [Intellij IDEA](ide/IDEA Study.md)
 * [Appendix A](Resume.md)
-* [Appendex B](JavaScriptAndWebTechnologies/factorsversionreleasedacronyam.md)
+* [Appendix B](JavaScriptAndWebTechnologies/factorsversionreleasedacronyam.md)
 
