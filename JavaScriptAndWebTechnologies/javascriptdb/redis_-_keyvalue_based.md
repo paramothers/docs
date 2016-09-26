@@ -1,7 +1,10 @@
 # Redis - keyValue based
 
+####REDIS stands for "Remote Dictionary Server"
+
 it is in-memory database
 it support data types are
+it written in C language
 
 1. String
 2. HashData
