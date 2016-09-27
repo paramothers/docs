@@ -61,17 +61,21 @@
 34. 2011, June, EMCAScript v5.1 released
 35. 2011, **Windows8**, use extensively HTML5 apps
 36. 2011, June, **CSS 2.1** was finalized by w3c after Many reviews
+37. 2011, Aug, BootStrap 1 released
 
 36. 2012, **Grunt** released by Ben Alman
+37. 2012, Jan, BootStrap 2 released (12 column gird introduced)
 37. 2012, June **CSS 3** finized by W3c
 38. 
 37. 2013, June ESLint created
+38. 2013, Aug BootStrap 3 released (Mobile first design)
 38. 
 37. 2014, oct, HTML 5 officially released by W3c
 
 37. 2015, June, EMCAScript v6 \(also called ES6 Harmony\) released
 
 38. 2016, June, EMCAScript v7 released
+39. 2016, July, BootStrap 3.3.7 released
 
 39. 
 
