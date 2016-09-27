@@ -10,9 +10,6 @@ The following are a few popular databases:
 * Simple key-value store like **Redis & Couch DB**
 
 
-
-
-
 ###Key value pair
 
 1. Redis
