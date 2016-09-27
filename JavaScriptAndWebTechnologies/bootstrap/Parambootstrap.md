@@ -13,5 +13,5 @@ But BootStrap has added JavaScript with CSS and understand HTML tags
 #### Ready made component
 #### Plugin to extend
 #### Browser compatibility
-#### Easy to customizations
+#### Easy to customization
   
