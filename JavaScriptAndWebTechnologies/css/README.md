@@ -8,5 +8,4 @@
 
 1. Media Quires, for Media type handling
 
-sass 3.4.22
-bootstrap
+### User agent stylesheet
