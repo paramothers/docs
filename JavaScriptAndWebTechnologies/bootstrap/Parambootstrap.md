@@ -1,10 +1,10 @@
-# BootStrap 3.1.1
+# BootStrap 3.3.7
   
   
 it uses JQuery
 it introduce some of Meta attribute
 But BootStrap has added JavaScript with CSS and understand HTML tags
 
-# Responsive
+#### Responsive Grid system
    it means, the layout of the page can changed on the go. so the desing will work in any size of devices.
   
