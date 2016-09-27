@@ -9,7 +9,7 @@
        * [html 5 API](JavaScriptAndWebTechnologies/html_5_api.md)
        * [Html 5 Tags](JavaScriptAndWebTechnologies/html_tags.md)
    * [CSS 3](JavaScriptAndWebTechnologies/css/README.md)
-       * [Bootstrap](JavaScriptAndWebTechnologies/bootstrap/Parambootstrap.md)
+       * [Bootstrap 3.3.7](JavaScriptAndWebTechnologies/bootstrap/Parambootstrap.md)
            * [Boot Strap class](JavaScriptAndWebTechnologies/bootstrap/bootstrapClasses.md)
        * [SASS 3.4.2](JavaScriptAndWebTechnologies/css/SassStudy.md)
 * [JavaScript UI Frameworks](JavaScriptAndWebTechnologies/javascript_ui_frameworks.md)
