@@ -6,5 +6,6 @@ it introduce some of Meta attribute
 But BootStrap has added JavaScript with CSS and understand HTML tags
 
 #### Responsive Grid system
-   it means, the layout of the page can changed on the go. so the desing will work in any size of devices.
+   it means, the layout of the page can changed on the go.
+   so the design will work in any size of devices.
   
