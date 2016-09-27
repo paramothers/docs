@@ -1,15 +1,8 @@
 # BootStrap 3.1.1
   
   
- it uses JQuery
- it introduce some of Meta attribute
-
-other CSS framework are
-
- 1. YUI ( Yahoo User Interface library )
- 2. BluePrint
-
-Above are used just CSS. 
+it uses JQuery
+it introduce some of Meta attribute
 But BootStrap has added JavaScript with CSS and understand HTML tags
 
 # Responsive
