@@ -11,7 +11,7 @@
    * [CSS 3](JavaScriptAndWebTechnologies/css/README.md)
        * [Bootstrap](JavaScriptAndWebTechnologies/bootstrap/Parambootstrap.md)
            * [Boot Strap class](JavaScriptAndWebTechnologies/bootstrap/bootstrapClasses.md)
-       * [SASS](JavaScriptAndWebTechnologies/css/SassStudy.md)
+       * [SASS 3.4.2](JavaScriptAndWebTechnologies/css/SassStudy.md)
 * [JavaScript UI Frameworks](JavaScriptAndWebTechnologies/javascript_ui_frameworks.md)
    * [Angular JS](JavaScriptAndWebTechnologies/angularjs/Angular General.md)
        * [Angular JS Existing Module](JavaScriptAndWebTechnologies/angularjs/Angular existing module.md)
