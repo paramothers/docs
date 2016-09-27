@@ -14,4 +14,5 @@ But BootStrap has added JavaScript with CSS and understand HTML tags
 #### Plugin to extend
 #### Browser compatibility
 #### Easy to customization
+#### Bootlint tool for linting bootstrap usage
   
