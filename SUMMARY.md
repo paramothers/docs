@@ -44,7 +44,7 @@
        * [JSHint](JavaScriptAndWebTechnologies/jshint.md)
        * [ESLint v3.5](JavaScriptAndWebTechnologies/eslint.md)
        * [JSCS](JavaScriptAndWebTechnologies/jscs.md)
-       * Bootlint
+       * [Bootlint](JavaScriptAndWebTechnologies/bootlint.md)
    * [Hybrid Mobile](JavaScriptAndWebTechnologies/hybridMobile/README.md)
        * [Cordova 4](JavaScriptAndWebTechnologies/hybridMobile/cordova.md)
        * [Ionic](JavaScriptAndWebTechnologies/hybridMobile/ionic.md)
