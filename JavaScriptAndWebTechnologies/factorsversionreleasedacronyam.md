@@ -35,7 +35,7 @@
 20. 2004, Dojo Toolkit released
 
 21. 2005, **Ajax**, it released\/named by _Jesse James Garrett_, Desktop based web application
-22. 2005, CouchDB, the first javascript centric database released, is key-value store
+22. 2005, CouchDB, the first javascript centric database released
 
 23. 2006, Google Chrome browser has released
 24. 2006, jQuery, for DOM manipulation easily.
