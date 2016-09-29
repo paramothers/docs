@@ -19,7 +19,7 @@
        * [Angular JS eveloper Tips](JavaScriptAndWebTechnologies/angularjs/Angular Developer Tips.md)
        * [Angular JS Services](JavaScriptAndWebTechnologies/angularjs/AngularService.md)
        * [Angular JS Directives](JavaScriptAndWebTechnologies/angularjs/angularjsdirectives.md)
-       * Angular JS Karma
+       * [Angular JS Karma](JavaScriptAndWebTechnologies/angularjs/angular_js_karma.md)
    * [EXT JS](JavaScriptAndWebTechnologies/extjs/Ext JS General.md)
        * [EXT JS core](JavaScriptAndWebTechnologies/extjs/Extjs core.md)
        * [EXT JS UI API](JavaScriptAndWebTechnologies/extjs/Extjs UI Classes.md)
