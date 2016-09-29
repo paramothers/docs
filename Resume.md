@@ -45,7 +45,8 @@ Want to use obtained expertise JavaScript technologies for Desktop, Mobile and W
 | Express |
 | Mongoose |
 | Cordova 4 |
-| Ionioc |
+| Ioioc |
+| Cleaver |
 
 
 | Java Technologies  |   
