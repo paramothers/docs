@@ -47,6 +47,7 @@ Want to use obtained expertise JavaScript technologies for Desktop, Mobile and W
 | Cordova 4 |
 | Ioioc |
 | Cleaver |
+| json |
 
 
 | Java Technologies  |   
