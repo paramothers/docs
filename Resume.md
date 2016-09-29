@@ -30,7 +30,7 @@ Want to use obtained expertise JavaScript technologies for Desktop, Mobile and W
 
 ### Technology Experience and Exposure
 
-### UI
+### UI Technologies
 
 | Web and JavaScript UI Frameworks  | 
 | -- | -- |
