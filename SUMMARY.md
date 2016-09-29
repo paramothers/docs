@@ -49,7 +49,7 @@
        * [Cordova 4](JavaScriptAndWebTechnologies/hybridMobile/cordova.md)
        * [Ionic](JavaScriptAndWebTechnologies/hybridMobile/ionic.md)
    * [Hybrid Desktop](JavaScriptAndWebTechnologies/hybridDesktop/README.md)
-   * JavaScript Testing
+   * [JavaScript Testing](JavaScriptAndWebTechnologies/javascript_testing.md)
        * Testing Frameworks
    * [Coffee Script](JavaScriptAndWebTechnologies/coffee_script.md)
 * [No SQL](no_sql.md)
