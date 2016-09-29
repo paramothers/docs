@@ -39,15 +39,13 @@ Want to use obtained expertise JavaScript technologies for Desktop, Mobile and W
 |  **JavaScriptUI frameworks**:  Angular JS 1.4, ExtJS 4  | **Workflow**: Gulp 3.9.1, [Grunt] | HBase |
 
 
+###Node JS Modules 
 
-| Node JS Web Modules | Node JS Workflow Modules | Node JS Utility Modules |
-| -- | -- | -- |
-| Express | ESLint 3.5.0 | Cleaver|
-| Mongoose | Bootlint 0.14.2 |
-| Cordova 4 |
-| Ioioc |
-| Cleaver |
-| json |
+| Web |  Workflow  |  Utility  |  Mobile  |
+| -- | -- | -- | --|
+| Express | ESLint 3.5.0 | Cleaver| Cordova 4 |
+| Mongoose | Bootlint 0.14.2 | json | Ionic |
+
 
 
 | Java Technologies  |   
