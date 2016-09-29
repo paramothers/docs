@@ -66,7 +66,7 @@ being a dynamic and loosely-typed language, is especially prone to developer err
 1. AngularJS 
 3. ExtJS
 4. JQuery
-6. Backbone.JS
+6. Backbone.JS (MVC  framework)
 7. GWT, DWR,
 8. Yahoo API / Dojo Toolkit
 
