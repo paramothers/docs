@@ -39,7 +39,7 @@ Want to use obtained expertise JavaScript technologies for Desktop, Mobile and W
 |  **JavaScriptUI frameworks**:  Angular JS 1.4, ExtJS 4  |  | HBase |
 
 
-###Node JS Modules 
+###Node 4.0 JS Modules 
 
 | Web |  Workflow  |  Utility  |  Mobile  | Persistance |
 | -- | -- | -- | -- | -- |
