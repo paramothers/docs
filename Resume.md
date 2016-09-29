@@ -35,15 +35,15 @@ Want to use obtained expertise JavaScript technologies for Desktop, Mobile and W
 | **Web UI**: Html 5, CSS 3                    | **Runtime**: Node JS 4.0 | Redis |
 | **CSS Frameworks**: BootStrap 3.0, Sass 3.5  | **Dependency-Resolve**: NPM, Bower| MongoDB |
 | **Data Interchange Std**: JSON  | **Test**: Jasmine 2.4, [Mocha(chai, sinon)], Protractor 3.2, Karma   0.1 | CouchDB |
-|     | **Linter**: ESLint 3.5.0, Bootlint | Cassandra |
+|     |   | Cassandra |
 |  **JavaScriptUI frameworks**:  Angular JS 1.4, ExtJS 4  | **Workflow**: Gulp 3.9.1, [Grunt] | HBase |
 
 
 
-| Node JS Modules |
-| -- |
-| Express |
-| Mongoose |
+| Node JS Web Modules | Node JS Workflow Modules | Node JS Utility Modules |
+| -- | -- | -- |
+| Express | ESLint 3.5.0 | Cleaver|
+| Mongoose | Bootlint 0.14.2 |
 | Cordova 4 |
 | Ioioc |
 | Cleaver |
