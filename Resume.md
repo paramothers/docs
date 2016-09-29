@@ -48,7 +48,7 @@ Want to use obtained expertise JavaScript technologies for Desktop, Mobile and W
 |         | Bootlint 0.14.2 | json    | Ionic     |          |
 |         | Gulp 3.9.1      | npm     |           |          |
 |         | Jasmine 2.4 (jasmine-node)    | Bower   |           |          |
-|         | Mocha(chai, sinon)| Bower   |           |          |
+|         | Mocha(chai, sinon)|     |           |          |
 
 | No SQL|
 | -- |
