@@ -34,7 +34,7 @@ Want to use obtained expertise JavaScript technologies for Desktop, Mobile and W
 | -- | -- | -- |
 | **Web UI**: Html 5, CSS 3                    | | Redis |
 | **CSS Frameworks**: BootStrap 3.0, Sass 3.5  | | MongoDB |
-| **Data Interchange Std**: JSON  | **Test**:  [Mocha(chai, sinon)], Protractor 3.2, Karma   0.1 | CouchDB |
+| **Data Interchange Std**: JSON  | **Test**:  , Protractor 3.2,  | CouchDB |
 |     |   | Cassandra |
 |  **JavaScriptUI frameworks**:  Angular JS 1.4, ExtJS 4  |  | HBase |
 
@@ -47,6 +47,8 @@ Want to use obtained expertise JavaScript technologies for Desktop, Mobile and W
 |         | Bootlint 0.14.2 | json    | Ionic     |          |
 |         | Gulp 3.9.1      | npm     |           |          |
 |         | Jasmine 2.4     | Bower   |           |          |
+|         | Mocha(chai, sinon)| Bower   |           |          |
+
 
 
 
