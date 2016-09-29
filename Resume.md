@@ -41,11 +41,11 @@ Want to use obtained expertise JavaScript technologies for Desktop, Mobile and W
 
 ###Node JS Modules 
 
-| Web |  Workflow  |  Utility  |  Mobile  |
-| -- | -- | -- | --|
-| Express | ESLint 3.5.0 | Cleaver| Cordova 4 |
-| Mongoose | Bootlint 0.14.2 | json | Ionic |
-|  | Gulp 3.9.1 |  |  |
+| Web |  Workflow  |  Utility  |  Mobile  | Persistance |
+| -- | -- | -- | -- | -- |
+| Express | ESLint 3.5.0 | Cleaver| Cordova 4 | Mongoose |
+|  | Bootlint 0.14.2 | json | Ionic | |
+|  | Gulp 3.9.1 |  |  | |
 
 
 
