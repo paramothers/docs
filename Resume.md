@@ -30,13 +30,14 @@ Want to use obtained expertise JavaScript technologies for Desktop, Mobile and W
 
 ### Technology Experience and Exposure
 
-| Web and JavaScript 6 Technologies  | | No SQL|
-| -- | -- | -- |
-| **Web UI**: Html 5, CSS 3                    | | Redis |
-| **CSS Frameworks**: BootStrap 3.0, Sass 3.5  | | MongoDB |
-| **Data Interchange Std**: JSON  | **Test**:  , Protractor 3.2,  | CouchDB |
-|     |   | Cassandra |
-|  **JavaScriptUI frameworks**:  Angular JS 1.4, ExtJS 4  |  | HBase |
+### UI
+
+| Web and JavaScript UI Frameworks  | 
+| -- | -- |
+| **Web UI**: Html 5, CSS 3                    | 
+| **CSS Frameworks**: BootStrap 3.0, Sass 3.5  | 
+| **Data Interchange Std**: JSON  |   
+|  **JavaScriptUI frameworks**:  Angular JS 1.4, ExtJS 4  | 
 
 
 ###Node 4.0 JS Modules 
@@ -49,7 +50,13 @@ Want to use obtained expertise JavaScript technologies for Desktop, Mobile and W
 |         | Jasmine 2.4 (jasmine-node)    | Bower   |           |          |
 |         | Mocha(chai, sinon)| Bower   |           |          |
 
-
+| No SQL|
+| -- |
+| Redis |
+| MongoDB |
+| CouchDB |
+| Cassandra |
+| HBase |
 
 
 | Java Technologies  |   
