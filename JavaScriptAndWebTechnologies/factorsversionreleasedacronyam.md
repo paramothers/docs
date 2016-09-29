@@ -14,6 +14,7 @@
 
 9. 1995, May, Mocha scripting has released. Then renamed as a LiveScript
 10. 1995, December, Sun licensed tradmark of Java to Netscape.  Then LiveScript renamed as "JavaScript".
+11. 1995, Html 2.0 released, Form were added.
 
 11. 1996, Microsoft implemented the same as counterpart but named as JScript. it was used in IE 3.0
 12. 1996, Nov, ECMA-262 standardization has **started, **by Ecma International
@@ -56,7 +57,7 @@
 33. 2009, Chormium os released as Web platform operation system \( WebOs, Firefos OS \)
 34. 2009, Coffeescript has released by Jeremy Ashkenas
 34. 
-34. 2010, HTML 5  become a buzzword
+34. 2010, *HTML 5  become a buzzword*
 
 34. 2011, June, EMCAScript v5.1 released
 35. 2011, **Windows8**, use extensively HTML5 apps
