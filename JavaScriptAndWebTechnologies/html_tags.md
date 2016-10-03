@@ -24,7 +24,7 @@
 4. datetime-local
 5. week
 6. Month
-### Html 5 Input tags
+### Html 5 Input type attributets
 
 1. color
 5. email
