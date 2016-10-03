@@ -24,7 +24,7 @@
 4. datetime-local
 5. week
 6. Month
-### Html 5 Input type attributets
+### Html 5 Input type 
 
 1. color
 5. email
@@ -37,6 +37,7 @@
 ### Html 5 input Attributes
 1. placeholder
 2. pattern
+3. title
 3. min
 4. max
 5. required
