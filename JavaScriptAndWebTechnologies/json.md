@@ -7,3 +7,7 @@
 * JSON defines a small set of formatting rules for the portable representation of structured data
 
 it support 4 primitive and 2 structured data types
+
+###Best Practise
+
+1. It is advice to use double quote for String  value.
