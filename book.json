@@ -1,9 +1,5 @@
 {
 "root": "./mydocs",
- "structure":{
-   "readme":"README.md",
-   "summary":"SUMMARY.md"
-    },
  "title":"JavaScript and Java Technologies Understanding Documents",
  "description": "It helps who are all want to update their tech knowledge to next version"
 }
