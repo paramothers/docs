@@ -2,7 +2,7 @@
 
 
 it makes speed style creation. it is better than LESS
-SASS and  Compass are developed by Ruby Community.
+SASS and Compass are developed by Ruby Community.
 it was installed as a Gem for Ruby. But now Nodejs can be used.
 
 **@Mixin**, helps in sharing common styles
@@ -23,5 +23,5 @@ it was installed as a Gem for Ruby. But now Nodejs can be used.
 4. prepros
 5. scout
 6. LiveReload
-7. Compass.app
+7. Compass.app (this is what i use)
 
