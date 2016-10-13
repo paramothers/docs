@@ -1,1 +1,0 @@
-it was javascript JSON centric DB.
