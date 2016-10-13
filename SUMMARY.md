@@ -1,7 +1,6 @@
 # Summary
 
 * [About Book](README.md)
-* [Acknowledgement](acknowledgement.md)
 * [Web UI](web_ui.md)
    * [html 5](JavaScriptAndWebTechnologies/html5.md)
        * [html 5 API](JavaScriptAndWebTechnologies/html_5_api.md)
