@@ -1,4 +1,5 @@
 {
+"root": "./mydocs"
  "structure":{
    "readme":"README.md"
     },
