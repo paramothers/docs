@@ -23,7 +23,6 @@
        * [EXT JS layout API](mydocs/JavaScriptAndWebTechnologies/extjs/Extjs layout.md)
 * [JavaScript](mydocs/JavaScriptAndWebTechnologies/javaScriptLibrariesForWeb.md)
    * [ES5 Basic](mydocs/JavaScriptAndWebTechnologies/ECMAScript/es5_basic.md)
-   * [JavaScript API](mydocs/JavaScriptAndWebTechnologies/ECMAScript/javascriptAPI.md)
    * [Built In objects or classes](mydocs/JavaScriptAndWebTechnologies/ECMAScript/built_in_objects_or_classes.md)
    * [JSON](mydocs/JavaScriptAndWebTechnologies/json.md)
 * [Node and Its Technologies](mydocs/JavaScriptAndWebTechnologies/node_and_its_technologies.md)
