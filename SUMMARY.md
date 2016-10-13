@@ -1,7 +1,6 @@
 # Summary
 
 * [About Book](README.md)
-* [Preface](preface.md)
 * [Acknowledgement](acknowledgement.md)
 * [To Whom this book](to_whom_this_book.md)
 * [Web UI](web_ui.md)
