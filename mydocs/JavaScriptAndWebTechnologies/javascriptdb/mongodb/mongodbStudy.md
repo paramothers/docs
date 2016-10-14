@@ -5,6 +5,7 @@
  2. db - variable, is a handle for current DB.
  3. mongod - executable file for Core Server
  4. mongos - for routing request process
+ 5. mongo - javascript shell to work with mongodb
 
 32 bit version support only 2gb data. 
 * its written in C++
