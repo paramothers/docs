@@ -56,6 +56,7 @@
    * [Document Based](mydocs/document_based.md)
        * [Mongo DB 3.2 -  document based](mydocs/JavaScriptAndWebTechnologies/javascriptdb/mongodb/mongodbStudy.md)
        * Couch DB
+   * Key Value Pair
 * [Java Technologies](mydocs/JavaTechnologies/JavaStudy.md)
    * [annotations](mydocs/JavaTechnologies/annotions/annotations.md)
        * [EJB 3.1 Annotation](mydocs/JavaTechnologies/annotions/Ejb31Annotation.md)
