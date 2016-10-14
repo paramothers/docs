@@ -55,6 +55,7 @@
    * [Cassendra - wide column value - Hadoop - bigdata](mydocs/JavaScriptAndWebTechnologies/javascriptdb/cassendra_-_wide_column_value.md)
    * [HBase - best with Hadoop -bigdata](mydocs/JavaScriptAndWebTechnologies/javascriptdb/hbase_-_wide_column_value.md)
    * [Couch DB - document based](mydocs/JavaScriptAndWebTechnologies/javascriptdb/couchdb/README.md)
+   * Document Based
 * [Java Technologies](mydocs/JavaTechnologies/JavaStudy.md)
    * [annotations](mydocs/JavaTechnologies/annotions/annotations.md)
        * [EJB 3.1 Annotation](mydocs/JavaTechnologies/annotions/Ejb31Annotation.md)
