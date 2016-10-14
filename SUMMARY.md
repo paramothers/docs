@@ -57,7 +57,6 @@
    * Key Value Pair
        * [Redis 3.2 - keyValue-inMemory](mydocs/JavaScriptAndWebTechnologies/javascriptdb/redis_-_keyvalue_based.md)
        * [HBase - best with Hadoop -bigdata](mydocs/JavaScriptAndWebTechnologies/javascriptdb/hbase_-_wide_column_value.md)
-       * HBase
 * [Java Technologies](mydocs/JavaTechnologies/JavaStudy.md)
    * [annotations](mydocs/JavaTechnologies/annotions/annotations.md)
        * [EJB 3.1 Annotation](mydocs/JavaTechnologies/annotions/Ejb31Annotation.md)
