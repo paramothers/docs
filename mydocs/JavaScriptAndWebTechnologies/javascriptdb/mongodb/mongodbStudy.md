@@ -5,3 +5,5 @@
  2. db - variable, is a handle for current DB.
 
 32 bit version support only 2gb data. 
+* internally it store data in Binary JSON
+* 
