@@ -11,3 +11,4 @@
 * Secondary index is another feature. upto 64 possible per collection
 * Replication Set
 * Speed and Durability
+* Designed for Horizantal scaling rather than Vertical scale
