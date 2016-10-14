@@ -15,3 +15,7 @@ it has many methods (except length), just refer API then and there.
 ## Date
 
 ## Math
+
+* Error
+  * EvalError
+  * RangeError
