@@ -53,7 +53,7 @@
    * [Cassendra - wide column value - Hadoop - bigdata](mydocs/JavaScriptAndWebTechnologies/javascriptdb/cassendra_-_wide_column_value.md)
    * [Document Based](mydocs/document_based.md)
        * [Mongo DB 3.2 -  document based](mydocs/JavaScriptAndWebTechnologies/javascriptdb/mongodb/mongodbStudy.md)
-       * Couch DB
+       * [Couch DB](mydocs/couch_db.md)
    * Key Value Pair
        * [Redis 3.2 - keyValue-inMemory](mydocs/JavaScriptAndWebTechnologies/javascriptdb/redis_-_keyvalue_based.md)
        * [HBase - best with Hadoop -bigdata](mydocs/JavaScriptAndWebTechnologies/javascriptdb/hbase_-_wide_column_value.md)
