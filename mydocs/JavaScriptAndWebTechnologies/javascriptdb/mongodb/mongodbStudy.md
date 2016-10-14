@@ -7,3 +7,4 @@
 32 bit version support only 2gb data. 
 * internally it store data in Binary JSON
 * it has stored in a collection ( like Table in SQL DB )
+* index in MongodB implemented as B-Tree Structure
