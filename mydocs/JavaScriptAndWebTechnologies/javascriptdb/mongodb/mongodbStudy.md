@@ -9,3 +9,5 @@
 * it has stored in a collection ( like Table in SQL DB )
 * index in MongodB implemented as B-Tree Structure
 * Secondary index is another feature. upto 64 possible per collection
+* Replication Set
+* Speed and Durability
