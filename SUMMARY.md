@@ -50,13 +50,14 @@
    * [Hybrid Desktop](mydocs/JavaScriptAndWebTechnologies/hybridDesktop/README.md)
    * [Coffee Script](mydocs/JavaScriptAndWebTechnologies/coffee_script.md)
 * [No SQL](mydocs/no_sql.md)
-   * [Redis 3.2 - keyValue-inMemory](mydocs/JavaScriptAndWebTechnologies/javascriptdb/redis_-_keyvalue_based.md)
    * [Cassendra - wide column value - Hadoop - bigdata](mydocs/JavaScriptAndWebTechnologies/javascriptdb/cassendra_-_wide_column_value.md)
-   * [HBase - best with Hadoop -bigdata](mydocs/JavaScriptAndWebTechnologies/javascriptdb/hbase_-_wide_column_value.md)
    * [Document Based](mydocs/document_based.md)
        * [Mongo DB 3.2 -  document based](mydocs/JavaScriptAndWebTechnologies/javascriptdb/mongodb/mongodbStudy.md)
        * Couch DB
-   * [Key Value Pair](mydocs/key_value_pair.md)
+   * Key Value Pair
+       * [Redis 3.2 - keyValue-inMemory](mydocs/JavaScriptAndWebTechnologies/javascriptdb/redis_-_keyvalue_based.md)
+       * [HBase - best with Hadoop -bigdata](mydocs/JavaScriptAndWebTechnologies/javascriptdb/hbase_-_wide_column_value.md)
+       * HBase
 * [Java Technologies](mydocs/JavaTechnologies/JavaStudy.md)
    * [annotations](mydocs/JavaTechnologies/annotions/annotations.md)
        * [EJB 3.1 Annotation](mydocs/JavaTechnologies/annotions/Ejb31Annotation.md)
