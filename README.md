@@ -2,7 +2,14 @@
 
 ###To Whom this book
 
+
+Who want to update their knowledge to next version of any frameworks or any of technologies are covered.
+Who want to know what are the different area of learning cure for both Java and Javascript technologies
+
 ### Acknowledgement
+
+
+Thanks to my mother, brothers and Wife. 
 
 ### About Author
 
