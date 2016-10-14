@@ -19,3 +19,4 @@ it has many methods (except length), just refer API then and there.
 * Error
   * EvalError
   * RangeError
+  * ReferenceError
