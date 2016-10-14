@@ -20,3 +20,6 @@ it has many methods (except length), just refer API then and there.
   * EvalError
   * RangeError
   * ReferenceError
+  * SyntaxError
+  * TypeError
+  * URIError
