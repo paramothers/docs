@@ -3,9 +3,13 @@
 
  1. dbpath - variable point to location, where all the data are stored
  2. db - variable, is a handle for current DB.
+
+### command line tool
  3. mongod - executable file for Core Server
  4. mongos - for routing request process
  5. mongo - javascript shell to work with mongodb
+
+### Factors
 
 32 bit version support only 2gb data. 
 * its written in C++
