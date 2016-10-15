@@ -8,6 +8,8 @@
  3. mongod - executable file for Core Server
  4. mongos - for routing request process
  5. mongo - javascript shell to work with mongodb
+ 6. mongodump - tool to create backup
+ 7. mongorestore - tool to restore database from backup
 
 ### Factors
 
