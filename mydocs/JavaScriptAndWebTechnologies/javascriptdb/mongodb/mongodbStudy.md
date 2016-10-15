@@ -10,6 +10,8 @@
  5. mongo - javascript shell to work with mongodb
  6. mongodump - tool to create backup
  7. mongorestore - tool to restore database from backup
+ 8. mongoexport - tool to export data to any format of file
+ 9. mongoimport - tool to import data from a file into document
 
 ### Factors
 
