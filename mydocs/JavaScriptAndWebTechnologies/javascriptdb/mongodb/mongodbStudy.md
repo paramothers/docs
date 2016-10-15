@@ -12,6 +12,7 @@
  7. mongorestore - tool to restore database from backup
  8. mongoexport - tool to export data to any format of file
  9. mongoimport - tool to import data from a file into document
+ 10. mongosniff - tool to get know the status of command send to DB server
 
 ### Factors
 
