@@ -16,3 +16,4 @@
 * Replication Set
 * Speed and Durability
 * Designed for Horizantal scaling rather than Vertical scale (sharding)
+* it provide offcial drivers for java, node.js, javascript, c# and etc.
