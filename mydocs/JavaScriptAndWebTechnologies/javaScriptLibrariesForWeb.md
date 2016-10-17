@@ -7,7 +7,7 @@ JavaScript library usually delivered as \*.js file.
 being a dynamic and loosely-typed language, is especially prone to developer error
 
 
-### Subset of java script
+### Subset of javascript
 1. Objective-J
 2. CoffeScript
 3. TypeScript
