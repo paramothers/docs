@@ -7,6 +7,12 @@ Each value datatype has properties
 2. Boolean, Numbers , String
 3. Objects [array, object litral, Regular expression] 
 
+### Function
+
+Functions are 3 types
+1. normal function ( usually start with lower case )
+2. Constructor function (usually uppercase)
+
 ### Literal into javascript instance
 
 Object Literal,  will create instance of Object
