@@ -12,6 +12,7 @@ Each value datatype has properties
 Functions are 3 types
 1. normal function ( usually start with lower case )
 2. Constructor function (usually uppercase, we want the to be called along with "new" keyword)
+3. method (a function assigned to a property of object)
 
 ### Literal into javascript instance
 
