@@ -10,3 +10,8 @@
 
 ### User agent stylesheet
 ### CSS Reset
+
+### Selector
+
+1. Universal Selector  is STAR *
+2. 
