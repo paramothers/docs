@@ -17,7 +17,7 @@
 2. figure
 3. figcaption
 
-### Html 5 data and time tags
+### Html 5 date and time tags
 1. time
 2. date
 3. datetime
@@ -33,6 +33,7 @@
 8. search
 9. tel
 10. url
+11. datalist
 
 ### Html 5 input Attributes
 1. placeholder
