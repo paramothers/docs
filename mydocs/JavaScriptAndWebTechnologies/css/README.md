@@ -11,11 +11,17 @@
 ### User agent stylesheet
 ### CSS Reset
 
-### Selector
+## Selector
 
-1. Universal Selector  is STAR *
 
+ it used to indentify a element and apply css rules.
+
+### Universal Selector
+
+STAR is unversal selector. it means it apply all the html elements its rules definition.
 
 ### Type selector
 
  it is html element
+
+### Id and Class selector
