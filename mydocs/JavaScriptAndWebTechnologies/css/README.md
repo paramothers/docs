@@ -33,6 +33,6 @@ it can be used more than one places and share across different element
 
 ### Decendant combinator
 ### Child Combinator
-### Sibling Combinator
+### Sibling Combinator (introduced in CSS Level 3)
 
-  1. Adjustant Sibling combinator
+  1. Adjacent Sibling combinator
