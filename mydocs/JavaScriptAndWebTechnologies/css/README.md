@@ -26,7 +26,7 @@ STAR is unversal selector. it means it apply all the html elements its rules def
 
 ### id selector
 
-it is used to apply rules more specific element unlike type selector. But it should be used only one time in a page
+it is used to apply rules more specific element unlike type selector. But it should be used only one time in a page. it start with HASH symbol
 
 ### Class selector
 
