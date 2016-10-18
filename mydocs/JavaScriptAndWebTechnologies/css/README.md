@@ -36,3 +36,4 @@ it can be used more than one places and share across different element
 ### Sibling Combinator (introduced in CSS Level 3)
 
   1. Adjacent Sibling combinator
+  2. General Sibling combinator
