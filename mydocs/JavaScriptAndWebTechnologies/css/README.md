@@ -14,4 +14,8 @@
 ### Selector
 
 1. Universal Selector  is STAR *
-2. 
+
+
+### Type selector
+
+ it is html element
