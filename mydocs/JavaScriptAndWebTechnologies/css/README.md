@@ -24,6 +24,10 @@ STAR is unversal selector. it means it apply all the html elements its rules def
 
  it is html element. it apply all occurrence of element in a document
 
-### Id and Class selector
+### id selector
 
-it is used to apply rules more specific element  unlike type selector
+it is used to apply rules more specific element unlike type selector. But it should be used only one time in a page
+
+### Class selector
+
+it can be used more than one places and share across different element
