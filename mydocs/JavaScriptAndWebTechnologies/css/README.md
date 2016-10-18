@@ -13,7 +13,6 @@
 
 ## Selector
 
-
  it used to indentify a element and apply css rules.
 
 ### Universal Selector
@@ -31,3 +30,5 @@ it is used to apply rules more specific element unlike type selector. But it sho
 ### Class selector
 
 it can be used more than one places and share across different element
+
+### Decentant combinator
