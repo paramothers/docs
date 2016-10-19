@@ -7,6 +7,8 @@ Each value datatype has properties
 2. Boolean, Numbers , String
 3. Objects [array, object **litral**, Regular expression] 
 
+It support, to create a object directly  as literal
+
 ### Function
 
 Functions are 3 types
