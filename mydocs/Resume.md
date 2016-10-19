@@ -35,9 +35,9 @@ Want to use obtained expertise JavaScript technologies for Desktop, Mobile and W
 | Web and JavaScript UI Frameworks  | 
 | -- | -- |
 | **Web UI**: Html 5, CSS 3                    | 
-| **CSS Frameworks**: BootStrap 3.0, Sass 3.5  | 
+| **CSS Frameworks**: BootStrap 3.0, Sass 3.5 with Compass | 
 | **Data Interchange Std**: JSON  |   
-|  **JavaScriptUI frameworks**:  Angular JS 1.4, ExtJS 4  | 
+| **JavaScriptUI frameworks**:  Angular JS 1.4, ExtJS 4  | 
 
 
 ###Node 4.0 JS Modules 
