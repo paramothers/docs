@@ -1,6 +1,6 @@
 ###Preface
 
-பரமசிவம்,k
+பரமசிவம், is not comming
 
 
 ###To Whom this book
