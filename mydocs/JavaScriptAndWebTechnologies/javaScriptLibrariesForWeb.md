@@ -3,7 +3,7 @@ EMCAScript is offical name of JavaScript. First it was called "mocha", then "Liv
 Two more EMCAScript **impletation are JScript and ActionScript**
 Current version is EMCAScript 7\(as on Sep,2016\).
 Object are passed by reference.
-JavaScript library usually delivered as \*.js file.
+JavaScript library usually delivered as single and minified \*.js file.
 being a dynamic and loosely-typed language, is especially prone to developer error
 
 
