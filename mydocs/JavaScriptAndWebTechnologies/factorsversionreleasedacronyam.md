@@ -80,6 +80,7 @@
 
 38. 2016, June, EMCAScript v7 released
 39. 2016, July, BootStrap 3.3.7 released
+40. 2016, September AngualrJS 2.0 released
 
 39. 
 
