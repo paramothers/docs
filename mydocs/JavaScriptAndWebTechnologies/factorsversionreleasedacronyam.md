@@ -60,6 +60,7 @@
 34. 2009, Coffeescript has released by Jeremy Ashkenas
 34. 
 34. 2010, *HTML 5  become a buzzword*
+35. 2010, October, AngualrJS 1.0 released.
 
 34. 2011, June, EMCAScript v5.1 released
 35. 2011, **Windows8**, use extensively HTML5 apps
