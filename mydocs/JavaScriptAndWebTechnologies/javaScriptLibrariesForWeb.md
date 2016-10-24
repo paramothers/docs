@@ -17,9 +17,7 @@ being a dynamic and loosely-typed language, is especially prone to developer err
 
 1. dynamic
 2. dynamic typed
-
 3. It is mixture of Both "Functional Programming" and "Object oriented Programming". that is both Function and Objects are play major role in this language.
-
 4. it is deployable as **Source**
 5. First class function, Closure, prototypes, object literal, array literal
 
