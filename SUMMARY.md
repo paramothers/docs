@@ -46,7 +46,7 @@
        * [Jasmine 2.3](mydocs/JavaScriptAndWebTechnologies/testing_frameworks.md)
    * [Hybrid Mobile](mydocs/JavaScriptAndWebTechnologies/hybridMobile/README.md)
        * [Cordova 4](mydocs/JavaScriptAndWebTechnologies/hybridMobile/cordova.md)
-       * [Ionic](mydocs/JavaScriptAndWebTechnologies/hybridMobile/ionic.md)
+       * [Ionic 1.0](mydocs/JavaScriptAndWebTechnologies/hybridMobile/ionic.md)
    * [Hybrid Desktop](mydocs/JavaScriptAndWebTechnologies/hybridDesktop/README.md)
    * [Coffee Script](mydocs/JavaScriptAndWebTechnologies/coffee_script.md)
 * [No SQL](mydocs/no_sql.md)
