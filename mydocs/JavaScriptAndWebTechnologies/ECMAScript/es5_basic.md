@@ -15,6 +15,7 @@ Functions are 3 types
 1. normal function ( usually start with lower case ).  it also called as "nonmethod" or "anonymous"
 2. Constructor function (usually uppercase, we want the to be called along with "new" keyword)
 3. method (a function assigned to a property of object, we call them via object instance)
+4. function can be either sloppy mode or strict mode
 
 ### NonFunction ( normal function )
 it can defined as 
