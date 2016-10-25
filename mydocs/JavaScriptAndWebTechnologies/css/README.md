@@ -37,3 +37,10 @@ it can be used more than one places and share across different element
 
   1. Adjacent Sibling combinator
   2. General Sibling combinator
+
+
+### function used in CSS rule definitions
+1. rgb()
+2. rgba()
+3. url()
+4. 
