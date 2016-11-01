@@ -16,16 +16,19 @@
 9. 1995, May, Mocha scripting has released. Then renamed as a LiveScript
 
 10. 1995, December, Sun licensed tradmark of Java to Netscape.  Then LiveScript renamed as "JavaScript".
+
 11. 1995, Html 2.0 released, Form were added.
 
 12. 1996, Microsoft implemented the same as counterpart but named as JScript. it was used in IE 3.0
 
 13. 1996, Nov, ECMA-262 standardization has **started, **by Ecma International
+
 14. 1996, Dec, **CSS 1** released by W3C
 
 15. 1997, June, the first ECMA-261, ECMAScript v1 has adopted\/released
 
 16. 1997, Dynamic HTML, DOM Manipulation and Tree Structure of document IE 4, Netscape 4
+
 17. 
 18. 1998, May **CSS 2** released by w3c
 19. 1998, Aug, ECMAScript v2 released
@@ -48,6 +51,7 @@
 28. 2006, Google Chrome browser has released
 
 29. 2006, jQuery, for DOM manipulation easily.
+
 30. 2006, REDIS, key-value DB released
 31. 2006, JSON internet media type has introduced
 
@@ -58,6 +62,7 @@
 34. 2008, V8, a fast javascript engine
 
 35. 2008, July, ECMAScript v4 **abandoned**
+
 36. 2008, PhoneGap has created by Nitobi.  Later it bought by Adobe
 37. 
 38. 2009, Angular JS life started by Misko Hevery and Adam abrons  
@@ -75,12 +80,14 @@
 49. 2011, June, EMCAScript v5.1 released
 
 50. 2011, **Windows8**, use extensively HTML5 apps
-51. 2011, June, **CSS 2.1** was finalized by w3c after Many reviews
+
+51. 2011, June, **CSS 2.1** was finalized by w3c after Many reviews \(almost 9 years later\)
 52. 2011, Aug, BootStrap 1 released
 
 53. 2012, **Grunt** released by Ben Alman
 
 54. 2012, Jan, BootStrap 2 released \(12 column gird introduced\)
+
 55. 2012, June **CSS 3** finized by W3c
 56. 
 57. 2013, June ESLint created
@@ -95,6 +102,7 @@
 63. 2016, June, EMCAScript v7 released
 
 64. 2016, July, BootStrap 3.3.7 released
+
 65. 2016, September AngualrJS 2.0 released
 
 66. 
