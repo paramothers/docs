@@ -37,7 +37,7 @@ STAR is unversal selector. it means it apply all the html elements its rules def
 
 ##### Type selector\/ Tag selector
 
-it is html element. it apply all occurrence of element in a document
+it is html element. it apply all occurrence of element in a document and redefine the default style of a element
 
 ##### id selector
 
