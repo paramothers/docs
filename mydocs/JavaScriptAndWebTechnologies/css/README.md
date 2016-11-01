@@ -27,7 +27,7 @@
 
 ## Selector
 
-it used to indentify a element and apply css rules.
+it used to indentify a element and apply css rules. In CSS3 more than 40 selectors
 
 ##### Universal Selector
 
