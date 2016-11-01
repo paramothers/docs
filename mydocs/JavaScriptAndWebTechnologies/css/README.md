@@ -7,9 +7,11 @@
 
 ### Built in modules
 
+In CSS 3, W3C has introduced more than 50 modules
+
 1. Media Quires, for Media type handling
 2. CSS3 Selectors
-3. CSS3 color
+3. CSS3 Color
 4. CSS3 value and Unit
 5. CSS3 Background and Border
 6. CSS3 Text
