@@ -2,7 +2,7 @@
 
 ### Rules
 
-1. @import - it is alternative to use of &lt;link&gt; tag to include external css file. 
+1. @import - it is alternative to use of &lt;link&gt; tag to include external css file. it support transisitve import of css file
 2. @media
 
 ### Built in modules
