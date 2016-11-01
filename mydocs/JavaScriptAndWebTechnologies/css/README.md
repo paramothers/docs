@@ -35,7 +35,7 @@ it used to indentify a element and apply css rules. In CSS3 more than 40 selecto
 
 STAR is unversal selector. it means it apply all the html elements its rules definition.
 
-##### Type selector
+##### Type selector\/ Tag selector
 
 it is html element. it apply all occurrence of element in a document
 
