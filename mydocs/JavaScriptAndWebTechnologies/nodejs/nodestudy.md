@@ -18,7 +18,7 @@ This Non-Blocking IO enables
 **Buffers**, - Add supports to deal Binary data in Node JS.
 **Streams**, used as event interface to pass data around
 
-Module loaded and cached in Node js
+Module once loaded and cached in Node js
 
 ### The Below JavaScript's Constructs  are good candidate for Node js
 
@@ -81,15 +81,6 @@ Module loaded and cached in Node js
 2. CommonJS, realeased on 2009, provide file based module system on server. node js use this module system
 
 
-### Module types
-
-1. file module
-
-2. core module
-
-3. external node\_modules
-
-
 # Important Topic
 
 1. require - for module construct
@@ -110,7 +101,5 @@ Module loaded and cached in Node js
 4. node\/0.12.7
 
 5. node\/4.2.1
-
-
 
 
