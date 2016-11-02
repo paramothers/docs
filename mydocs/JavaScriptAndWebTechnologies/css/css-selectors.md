@@ -34,14 +34,16 @@ it is applied by browser itself based on posistion of elements
 
 it is applied based on content of a element. examples are :first-letter, :first-line
 
-* ##### Decendant combinator
+* ##### Decendant  selector \(combinator\)
 
 * ##### Child Combinator
 
 * ##### Sibling Combinator \(introduced in CSS Level 3\)
 
-* Adjacent Sibling combinator
+* ##### Adjacent Sibling combinator
 
-* General Sibling combinator
+* ##### General Sibling combinator
+
+* ##### Attribute Selector
 
 
