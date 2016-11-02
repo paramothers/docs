@@ -6,7 +6,7 @@ In CSS 2.1, has 22 selector
 
 ##### Universal Selector
 
-STAR is unversal selector. it means it apply all the html elements its rules definition.
+STAR is unversal selector. it means it apply all the html elements its rules definition. it rarely used
 
 ##### Type selector\/ Tag selector
 
