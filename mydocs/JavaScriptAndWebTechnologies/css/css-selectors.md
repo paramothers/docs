@@ -2,6 +2,8 @@
 
 it used to indentify a element and apply css rules. In CSS3 more than 40 selectors
 
+In CSS 2.1, has 22 selector
+
 ##### Universal Selector
 
 STAR is unversal selector. it means it apply all the html elements its rules definition.
