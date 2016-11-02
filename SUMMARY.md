@@ -11,6 +11,7 @@
         * [SASS 3.4.2](mydocs/JavaScriptAndWebTechnologies/css/SassStudy.md)
         * [CSS Modules](mydocs/JavaScriptAndWebTechnologies/css/css-modules.md)
         * [CSS Selectors](mydocs/JavaScriptAndWebTechnologies/css/css-selectors.md)
+        * [Predefined Functions](mydocs/JavaScriptAndWebTechnologies/css/predefined-functions.md)
 * [JavaScript UI Frameworks](mydocs/JavaScriptAndWebTechnologies/javascript_ui_frameworks.md)
     * [Angular JS](mydocs/JavaScriptAndWebTechnologies/angularjs/Angular General.md)
         * [Angular JS Existing Module](mydocs/JavaScriptAndWebTechnologies/angularjs/Angular existing module.md)
