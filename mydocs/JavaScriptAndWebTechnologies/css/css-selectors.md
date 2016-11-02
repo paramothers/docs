@@ -4,9 +4,10 @@ it used to indentify a element and apply css rules. In CSS3 more than 40 selecto
 
 In CSS 2.1, has 22 selector
 
-##### Universal Selector
+1. ##### Universal Selector
 
-STAR is unversal selector. it means it apply all the html elements its rules definition. it rarely used
+
+STAR symbol used as a unversal selector. it means it apply all the html elements its rules definition. it rarely used
 
 ##### Type selector\/ Tag selector
 
