@@ -21,7 +21,7 @@ it is used to apply rules more specific element unlike type selector. But it sho
 * ##### Class selector
 
 
-it can be used more than one places and share across different element
+it can be used more than one places and share across different element, applied by using _class _attribute
 
 ###### Decendant combinator
 
