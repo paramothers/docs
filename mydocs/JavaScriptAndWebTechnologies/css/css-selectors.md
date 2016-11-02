@@ -26,7 +26,7 @@ it can be used more than one places and share across different element, applied 
 
 * Psudeo classes
 
-
+it is applied by browser itself based on posistion of elements
 ###### Decendant combinator
 
 ###### Child Combinator
