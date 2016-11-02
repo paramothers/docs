@@ -35,6 +35,7 @@
 7. color
 
 8. email
+
 9. number
 10. range
 11. search
@@ -77,7 +78,6 @@
 2. Video
 3. Track
 4. Source
-5. dfn
+5. dfn \( oldest element since HTML 2, 1995\)
 6. abbr
-
 
