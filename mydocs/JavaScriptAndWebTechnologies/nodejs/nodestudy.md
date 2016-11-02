@@ -32,7 +32,7 @@ Module loaded and cached in Node js
 
 5. **Object Literal** -  easy to define arbitary properties
 
-6. **Module Reveal Pattern** -  return a object from a method. for each call. So it every returned instance will own copy of methods and properties. _**it  occupy memory like anything**_
+6. **Module Reveal Pattern** -  return a object from a method. for each call. So it every returned instance will own copy of methods and properties. **_it  occupy memory like anything_**
 
 7. **Prototype**, using prototype, all instance can share a method definition. \(similar in java -static methods\)
 
@@ -98,4 +98,19 @@ Module loaded and cached in Node js
 4. Routing Http Request
 5. ​V8 + libuv
 6. Profiling, is act of performance analysis.
+
+### Node version
+
+1. node\/0.10.38
+
+2. node\/0.11.16
+
+3. node\/0.12.0
+
+4. node\/0.12.7
+
+5. node\/4.2.1
+
+
+
 
