@@ -27,6 +27,10 @@ In CSS 3, W3C has introduced more than 50 modules
 
 ### CSS Reset
 
+### Scoped  &lt;style&gt; block 
+
+In HTML 5, &lt;style&gt; element can be placed in &lt;body&gt; element as well
+
 ## Selector
 
 it used to indentify a element and apply css rules. In CSS3 more than 40 selectors
