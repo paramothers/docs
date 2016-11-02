@@ -32,9 +32,9 @@ it is applied by browser itself based on posistion of elements
 * ##### Psudeo elements
 
 
-it is applied based on content of a element
-* 
+it is applied based on content of a element. examples are :first-letter, :first-line
 
+* 
 * ###### Decendant combinator
 
 * ###### Child Combinator
@@ -44,4 +44,5 @@ it is applied based on content of a element
 * Adjacent Sibling combinator
 
 * General Sibling combinator
+
 
