@@ -26,7 +26,14 @@ it can be used more than one places and share across different element, applied 
 
 * ##### Psudeo classes
 
+
 it is applied by browser itself based on posistion of elements
+
+* ##### Psudeo elements
+
+
+it is applied based on content of a element
+* 
 
 * ###### Decendant combinator
 
@@ -34,6 +41,7 @@ it is applied by browser itself based on posistion of elements
 
 * ###### Sibling Combinator \(introduced in CSS Level 3\)
 
-1. Adjacent Sibling combinator
-2. General Sibling combinator
+* Adjacent Sibling combinator
+
+* General Sibling combinator
 
