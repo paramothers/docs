@@ -28,11 +28,11 @@ it can be used more than one places and share across different element, applied 
 
 it is applied by browser itself based on posistion of elements
 
-###### Decendant combinator
+* ###### Decendant combinator
 
-###### Child Combinator
+* ###### Child Combinator
 
-###### Sibling Combinator \(introduced in CSS Level 3\)
+* ###### Sibling Combinator \(introduced in CSS Level 3\)
 
 1. Adjacent Sibling combinator
 2. General Sibling combinator
