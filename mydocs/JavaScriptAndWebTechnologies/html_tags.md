@@ -1,66 +1,75 @@
-### Html 5 document layout/structure  Tags
+### Html 5 document layout\/structure  Tags
 
 #### header
+
 1. Header 
 2. hgroup
- 
+
 #### Footer
+
 1. footer 
-3. nav
+2. nav
 
 #### Sidebar
-4. section
-5. aside
+
+1. section
+2. aside
 
 #### Content
+
 1. article 
 2. figure
 3. figcaption
 
 ### Html 5 date and time tags
+
 1. time
 2. date
 3. datetime
 4. datetime-local
 5. week
 6. Month
-### Html 5 Input type 
 
-1. color
-5. email
-6. number
-7. range
-8. search
-9. tel
-10. url
-11. datalist
+  ### Html 5 Input type
+
+7. color
+
+8. email
+9. number
+10. range
+11. search
+12. tel
+13. url
+14. datalist
 
 ### Html 5 input Attributes
+
 1. placeholder
 2. pattern
 3. title
-3. min
-4. max
-5. required
-6. step
-7. autocomplete
-8. multiple
-9. autofocus
-10. list
+4. min
+5. max
+6. required
+7. step
+8. autocomplete
+9. multiple
+10. autofocus
+11. list
 
 ### Html 5 other elements
+
 1. Progress
 2. meter
 3. datalist
 4. output
 5. keygen
-3. details
-4. summary
-5. Mark
-6. ruby
-6. rt
-7. rb
-8. wbr
+6. details
+7. summary
+8. Mark
+9. ruby
+10. rt
+11. rb
+12. wbr
 
 ### Multimedia html5 elements
 
@@ -68,5 +77,7 @@
 2. Video
 3. Track
 4. Source
-5
-8
+5. dfn
+6. abbr
+
+
