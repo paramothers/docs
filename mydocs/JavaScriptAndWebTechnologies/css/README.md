@@ -21,9 +21,11 @@ CSS relies on the DOM to apply styles to specific elements.
 3. Inline style using attribute
   sit is applying a style to a single element. \( for e-mail composing, this style must be used to compromise outlook\)
 
-## 
 
-### 
+### CSS Measurement
 
-1. 
+1. em , usually used to font size
+
+
+
 
