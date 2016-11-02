@@ -27,14 +27,13 @@ In CSS 3, W3C has introduced more than 50 modules
 
 ### CSS Reset
 
-Style can be applied in 3 way
+# Style can be applied in 3 way
 
 1. using external css files
 2. Scoped  &lt;style&gt; block
-    In HTML 5, &lt;style&gt; element can be placed in &lt;body&gt; element as well
+   In HTML 5, &lt;style&gt; element can be placed in &lt;body&gt; element as well
 3. Inline style using attribute
-
-it is applying a style to a single element.
+  sit is applying a style to a single element. \( for e-mail composing, this style must be used to compromise outlook\)
 
 ## Selector
 
