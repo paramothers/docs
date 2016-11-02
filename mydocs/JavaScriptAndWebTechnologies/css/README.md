@@ -1,6 +1,6 @@
 ## Cascading Style Sheet
 
-Style rules are applied on DOM Tree.
+CSS relies on the DOM to apply styles to specific elements.
 
 ### Rules
 
