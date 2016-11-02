@@ -9,7 +9,8 @@ In CSS 2.1, has 22 selector
 
 STAR symbol used as a unversal selector. it means it apply all the html elements its rules definition. it rarely used
 
-##### Type selector\/ Tag selector
+* ##### Type selector\/ Tag selector
+
 
 it is html element. it apply all occurrence of element in a document and redefine the default look of a element
 
@@ -17,7 +18,8 @@ it is html element. it apply all occurrence of element in a document and redefin
 
 it is used to apply rules more specific element unlike type selector. But it should be used only one time in a page. it start with HASH symbol
 
-##### Class selector
+* ##### Class selector
+
 
 it can be used more than one places and share across different element
 
