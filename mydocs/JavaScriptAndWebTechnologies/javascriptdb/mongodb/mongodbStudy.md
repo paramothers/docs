@@ -1,28 +1,40 @@
-
 ## MogonDB 3.2
 
- 1. dbpath - variable point to location, where all the data are stored
- 2. db - variable, is a handle for current DB.
+1. dbpath - variable point to location, where all the data are stored
+2. db - variable, is a handle for current DB.
 
 ### command line tool
- 3. mongod - executable file for Core Server
- 4. mongos - for routing request process
- 5. mongo - javascript shell to work with mongodb
- 6. mongodump - tool to create backup
- 7. mongorestore - tool to restore database from backup
- 8. mongoexport - tool to export data to any format of file
- 9. mongoimport - tool to import data from a file into document
- 10. mongosniff - tool to get know the status of command send to DB server
 
-### Factors
+1. mongod - executable file for Core Server
+2. mongos - for routing request process
+3. mongo - javascript shell to work with mongodb
+4. mongodump - tool to create backup
+5. mongorestore - tool to restore database from backup
+6. mongoexport - tool to export data to any format of file
+7. mongoimport - tool to import data from a file into document
+8. mongosniff - tool to get know the status of command send to DB server
 
-32 bit version support only 2gb data. 
+### Factors - 1
+
+32 bit version support only 2gb data.
+
 * its written in C++
 * internally it store data in Binary JSON
-* it has stored in a collection ( like Table in SQL DB )
+* it has stored in a collection \( like Table in SQL DB \)
 * index in MongodB implemented as B-Tree Structure
 * Secondary index is another feature. upto 64 possible per collection
 * Replication Set
 * Speed and Durability
-* Designed for Horizantal scaling rather than Vertical scale (sharding)
-* it provide offcial drivers for java, node.js, javascript, c# and etc.
+* Designed for Horizantal scaling rather than Vertical scale \(sharding\)
+* it provide offcial drivers for java, node.js, javascript, c\# and etc.
+
+
+### Factors - 2
+
+* No Transaction, 
+
+* No Schema\/ Table \/ Row
+* No Join \/ foreign key
+* it is good for Web application like blog or any complex data structure
+
+
