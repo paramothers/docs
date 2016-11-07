@@ -28,13 +28,12 @@
 * Designed for Horizantal scaling rather than Vertical scale \(sharding\)
 * it provide offcial drivers for java, node.js, javascript, c\# and etc.
 
-
 ### Factors - 2
 
-* No Transaction, 
+* No Transaction,
 
 * No Schema\/ Table \/ Row
+
 * No Join \/ foreign key
 * it is good for Web application like blog or any complex data structure
-
 
