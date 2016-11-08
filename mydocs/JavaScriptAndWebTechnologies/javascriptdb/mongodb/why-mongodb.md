@@ -7,5 +7,6 @@
 4. Easy to install\/deploy in a simple hardware
 
 5. Auto generated unique key
-6. Collection
+
+6. Collection, can create dynamically
 
