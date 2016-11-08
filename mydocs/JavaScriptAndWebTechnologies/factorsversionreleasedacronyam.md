@@ -38,7 +38,7 @@
 
 22. 1999, XMLHttpRequest API has added, IE 5
 
-23. 2001, JSON grammer introduced, for structured object notation using javascript literal by by **Douglas Crockford**
+23. 2001, JSON grammer introduced, for structured object notation using javascript literal by by **Douglas Crockford **\(RFC 7159\)
 
 24. 2002, JSLint tool created by **Douglas Crockford**
 
@@ -53,6 +53,7 @@
 29. 2006, jQuery, for DOM manipulation easily.
 
 30. 2006, REDIS, key-value DB released
+
 31. 2006, JSON internet media type has introduced
 
 32. 2007, WebKit, for mobile web stream. **It is engine for HTML**
@@ -64,6 +65,7 @@
 35. 2008, July, ECMAScript v4 **abandoned**
 
 36. 2008, PhoneGap has created by Nitobi.  Later it bought by Adobe
+
 37. 
 38. 2009, Angular JS life started by Misko Hevery and Adam abrons  
 39. 2009, Node.js implemention javascript on server
@@ -82,6 +84,7 @@
 50. 2011, **Windows8**, use extensively HTML5 apps
 
 51. 2011, June, **CSS 2.1** was finalized by w3c after Many reviews \(almost 9 years later\)
+
 52. 2011, Aug, BootStrap 1 released
 
 53. 2012, **Grunt** released by Ben Alman
@@ -89,6 +92,7 @@
 54. 2012, Jan, BootStrap 2 released \(12 column gird introduced\)
 
 55. 2012, June **CSS 3** finized by W3c
+
 56. 
 57. 2013, June ESLint created
 58. 2013, Aug BootStrap 3 released \(Mobile first design\)
