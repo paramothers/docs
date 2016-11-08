@@ -5,5 +5,7 @@
 3. Sharded database
 
 4. Easy to install\/deploy in a simple hardware
+
 5. Auto generated unique key
+6. Collection
 
