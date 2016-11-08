@@ -3,7 +3,8 @@
 
 3. HTML & CSS managed by W3C, JavaScript managed by TC39.
 
-4. 1978, C - Language released
+4. 1978, C - Language released \(Still this language rule IT\)
+
 5. 1990, HTML and HTTP are introduced for sharing data.
 
 6. 1993, CGI programing was introduced, first in Perl and etc..
