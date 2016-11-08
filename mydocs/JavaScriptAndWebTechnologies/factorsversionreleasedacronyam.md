@@ -99,7 +99,7 @@
 59. 
 60. 2014, oct, HTML 5 officially released by W3c
 
-61. 2015, June, EMCAScript v6 \(also called ES6 Harmony\) released
+61. 2015, June, **EMCAScript v6** \(also called ES6 Harmony\) released
 
 62. 2015, May, Ionic 1.0 has released
 
