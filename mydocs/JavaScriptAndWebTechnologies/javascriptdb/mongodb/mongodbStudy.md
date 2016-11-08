@@ -35,5 +35,7 @@
 * No Schema\/ Table \/ Row
 
 * No Join \/ foreign key
+
 * it is good for Web application like blog or any complex data structure
+* it use its own standard \(BSON\) to store data, it is Binary JSON
 
