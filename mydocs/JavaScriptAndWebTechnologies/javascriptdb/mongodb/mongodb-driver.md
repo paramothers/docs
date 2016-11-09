@@ -6,7 +6,7 @@ All the drivers can be found at https:\/\/docs.mongodb.com\/ecosystem\/drivers\/
 
 2. NodeJS \(http:\/\/voidcanvas.com\/mongoose-vs-mongodb-native\/\)
 
-  1. mongodb-native \(it is a npm package\)
+  1. mongodb-native \(it is a npm package\) \(npm install mongodb --mongodb:native\)
   2. mongoose \(for simple application\/ faster productivity while development\)
 
 
