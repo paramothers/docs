@@ -42,3 +42,5 @@
 
 * WiredTiger as a storge engine
 
+* GridFS used for binary data manipulation
+
