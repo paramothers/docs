@@ -10,6 +10,7 @@
 
 6. Collection, can create dynamically
 
-7. Support Indexing of document, also composite index
+7. Support Indexing of document, also composite index, geoSpatial indexing
 
+8. profiling quries
 
