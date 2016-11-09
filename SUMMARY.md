@@ -108,6 +108,6 @@
     * [Linux Command Level6](mydocs/linux/commandLevel6.md)
 * [IDE study](mydocs/ide/CodenvyStudy.md)
     * [Intellij IDEA](mydocs/ide/IDEA Study.md)
-* [Appendix A](mydocs/Resume.md)
+* [Appendix A \( My Profile \)](mydocs/Resume.md)
 * [Appendix B](mydocs/JavaScriptAndWebTechnologies/factorsversionreleasedacronyam.md)
 
