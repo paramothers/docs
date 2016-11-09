@@ -22,6 +22,5 @@ Elements can be also classified as
 2. Sematics Elements
 
 
-
-Comment  for block type syntax is differ from javascript
+Comment  for block type syntax is differ from javascript & Css
 
