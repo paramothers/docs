@@ -2,7 +2,7 @@
 
 2. All related data stored together in single document
 
-3. Auto Sharded database for large data base
+3. Auto Sharded database for large scale 
 
 4. Easy to install\/deploy in a simple hardware
 
