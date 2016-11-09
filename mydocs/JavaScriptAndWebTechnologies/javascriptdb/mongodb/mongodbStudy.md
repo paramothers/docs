@@ -5,7 +5,7 @@
 
 ### command line tool
 
-1. mongod - executable file for Core Server
+1. mongod - command used to start Core Server
 2. mongos - for routing request process
 3. mongo - javascript shell to work with mongodb
 4. mongodump - tool to create backup
@@ -17,7 +17,6 @@
 ### command line options
 
 * --dbpath,  variable point to location, where all the data are stored
-
 
 ### Basic Factors
 
