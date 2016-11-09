@@ -1,6 +1,6 @@
 ## MogonDB 3.2
 
-1. dbpath - variable point to location, where all the data are stored
+1. 
 2. db - variable, is a handle for current DB.
 
 ### command line tool
@@ -14,9 +14,12 @@
 7. mongoimport - tool to import data from a file into document
 8. mongosniff - tool to get know the status of command send to DB server
 
+### command line options
+
+* --dbpath,  variable point to location, where all the data are stored
+
+
 ### Basic Factors
-
-
 
 * its written in C++
 * internally it store data in Binary JSON
@@ -32,4 +35,5 @@
 * it is good for Web application like blog or any complex data structure
 
 * 32 bit version support only 2gb data
+
 
