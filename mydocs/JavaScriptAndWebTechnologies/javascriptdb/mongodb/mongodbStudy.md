@@ -14,7 +14,7 @@
 7. mongoimport - tool to import data from a file into document
 8. mongosniff - tool to get know the status of command send to DB server
 
-### Factors - 1
+### Basic Factors
 
 32 bit version support only 2gb data.
 
@@ -22,7 +22,7 @@
 * internally it store data in Binary JSON
 * it has stored in a collection \( like Table in SQL DB \)
 * index in MongodB implemented as B-Tree Structure
-* Secondary index is another feature. upto 64 possible per collection
+* 
 * 
 * 
 * it provide offcial drivers for java, node.js, javascript, c\# and etc.
