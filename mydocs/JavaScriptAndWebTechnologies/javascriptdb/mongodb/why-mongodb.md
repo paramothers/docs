@@ -4,24 +4,26 @@
 
 3. Auto Sharded database for large scale
 
-4. Easy to install\/deploy in a simple hardware
+4. Designed for Horizantal scaling rather than Vertical scale \(sharding\)
 
-5. Auto generated unique key
+5. Easy to install\/deploy in a simple hardware
 
-6. Collection, can create dynamically
+6. Auto generated unique key
 
-7. Support Indexing of document, also composite index, geoSpatial indexing
+7. Collection, can create dynamically
 
-8. profiling quries
+8. Support Indexing of document, also composite index, geoSpatial indexing
 
-9. WiredTiger as a storge engine
+9. profiling quries
 
-10. GridFS used for binary data manipulation
+10. WiredTiger as a storge engine
 
-11. Replica Set rather than master-slave
+11. GridFS used for binary data manipulation
 
-12. Aggrigation frameworks **written in C++**
+12. Replica Set rather than master-slave
 
-13. Map and Reduce function **written in JavaScrip**t
+13. Aggrigation frameworks **written in C++**
+
+14. Map and Reduce function **written in JavaScrip**t
 
 
