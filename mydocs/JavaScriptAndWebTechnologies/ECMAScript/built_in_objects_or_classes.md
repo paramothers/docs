@@ -29,10 +29,9 @@ it has many methods \(except length\), just refer API then and there.
   * URIError
 
 
+# Global objects in Browsers
 
-# Global objects in Browsers 
-
-
+##### window
 
 # Global objects in  Node
 
