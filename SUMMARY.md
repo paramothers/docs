@@ -15,7 +15,7 @@
         * [Predefined Functions](mydocs/JavaScriptAndWebTechnologies/css/predefined-functions.md)
 * [JavaScript](mydocs/JavaScriptAndWebTechnologies/javaScriptLibrariesForWeb.md)
     * [ES5 Basic](mydocs/JavaScriptAndWebTechnologies/ECMAScript/es5_basic.md)
-    * [Built In objects or classes](mydocs/JavaScriptAndWebTechnologies/ECMAScript/built_in_objects_or_classes.md)
+    * [Global Objects](mydocs/JavaScriptAndWebTechnologies/ECMAScript/built_in_objects_or_classes.md)
     * [JSON](mydocs/JavaScriptAndWebTechnologies/json.md)
 * [Frameworks](frameworks.md)
 * [JavaScript UI Frameworks](mydocs/JavaScriptAndWebTechnologies/javascript_ui_frameworks.md)
