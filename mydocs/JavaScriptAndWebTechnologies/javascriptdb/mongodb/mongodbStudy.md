@@ -31,7 +31,4 @@
 
 * it is good for Web application like blog or any complex data structure
 
-* 
-
-* 
 
