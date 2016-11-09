@@ -4,7 +4,7 @@ Paramsivam K                                            <img src="misc/SCJP.png"
 
 ---
 
-##### 91 740 231 8350- paramjobseek@gmail.com #####
+###### 91 740 231 8350- paramjobseek@gmail.com
 
 * He has 12 years of experience in IT, worked in Java and its various
   frameworks/library
