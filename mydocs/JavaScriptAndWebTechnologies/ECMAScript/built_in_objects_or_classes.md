@@ -33,5 +33,7 @@ it has many methods \(except length\), just refer API then and there.
 
 ##### window
 
+##### Event
+
 # Global objects in  Node
 
