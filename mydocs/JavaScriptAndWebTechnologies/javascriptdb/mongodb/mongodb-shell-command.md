@@ -1,4 +1,3 @@
-show dbs
-
+1. show dbs
 
 
