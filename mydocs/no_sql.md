@@ -7,7 +7,7 @@ The following are a few popular databases:
 * Columnar databases, such as **Cassandra & HBase** \(Hadoop platform, BigData, Need java\)
 * Document based storage like **MongoDB & CouchDB**
 * Graph based access like **Neo4J & Titan Graph DB**
-* Simple key-value store like **Redis & Couch DB**
+* Simple key-value store like **Redis **
 
 ### Key value pair
 
