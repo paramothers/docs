@@ -1,8 +1,5 @@
 ## MogonDB 3.2
 
-1. 
-2. db - variable, is a handle for current DB.
-
 ### command line tool
 
 1. mongod - command used to start Core Server

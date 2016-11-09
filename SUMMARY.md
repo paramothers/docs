@@ -62,6 +62,7 @@
             * [Why MongoDB](mydocs/JavaScriptAndWebTechnologies/javascriptdb/mongodb/why-mongodb.md)
             * [MongoDB Shell Command](mydocs/JavaScriptAndWebTechnologies/javascriptdb/mongodb/mongodb-shell-command.md)
             * [MongoDB Driver](mydocs/JavaScriptAndWebTechnologies/javascriptdb/mongodb/mongodb-driver.md)
+            * [Collections](mydocs/JavaScriptAndWebTechnologies/javascriptdb/mongodb/collections.md)
         * [Couch DB](mydocs/couch_db.md)
     * Key Value Pair
         * [Redis 3.2 - keyValue-inMemory](mydocs/JavaScriptAndWebTechnologies/javascriptdb/redis_-_keyvalue_based.md)
