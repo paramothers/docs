@@ -38,6 +38,7 @@
 
 * it is good for Web application like blog or any complex data structure
 
-* it use its own standard \(BSON\) to store data, it is Binary JSON
+* it use its own standard \(BSON\) to store data, it is Binary JSON. it is fast to traverse and indexing
 
+* WiredTiger as a storge engine
 
