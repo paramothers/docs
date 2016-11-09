@@ -15,6 +15,7 @@
         * [Predefined Functions](mydocs/JavaScriptAndWebTechnologies/css/predefined-functions.md)
 * [JavaScript](mydocs/JavaScriptAndWebTechnologies/javaScriptLibrariesForWeb.md)
     * [ES5 Basic](mydocs/JavaScriptAndWebTechnologies/ECMAScript/es5_basic.md)
+    * [ES6 Features](mydocs/JavaScriptAndWebTechnologies/es6-features.md)
     * [Global Objects](mydocs/JavaScriptAndWebTechnologies/ECMAScript/built_in_objects_or_classes.md)
     * [JSON](mydocs/JavaScriptAndWebTechnologies/json.md)
 * [Frameworks](frameworks.md)
