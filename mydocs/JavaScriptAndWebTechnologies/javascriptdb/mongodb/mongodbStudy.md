@@ -13,6 +13,13 @@
 6. mongoexport - tool to export data to any format of file
 7. mongoimport - tool to import data from a file into document
 8. mongosniff - tool to get know the status of command send to DB server
+9. bsondump
+10. mongofiles
+11. mongooplog
+12. mongoperf
+13. mongostat
+14. mongotop
+15. 
 
 ### command line options
 
