@@ -2,7 +2,7 @@
 
 2. All related data stored together in single document
 
-3. Sharded database
+3. Auto Sharded database
 
 4. Easy to install\/deploy in a simple hardware
 
@@ -19,4 +19,5 @@
 10. GridFS used for binary data manipulation
 
 11. Replica Set rather than master-slave
+
 
