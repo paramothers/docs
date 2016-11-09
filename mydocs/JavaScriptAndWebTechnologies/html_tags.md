@@ -37,6 +37,7 @@
 8. email
 
 9. number
+
 10. range
 11. search
 12. tel
@@ -71,6 +72,8 @@
 10. rt
 11. rb
 12. wbr
+13. dfn \( oldest element since HTML 2, 1995\)
+14. abbr
 
 ### Multimedia html5 elements
 
@@ -78,6 +81,5 @@
 2. Video
 3. Track
 4. Source
-5. dfn \( oldest element since HTML 2, 1995\)
-6. abbr
+5. Canvas
 
