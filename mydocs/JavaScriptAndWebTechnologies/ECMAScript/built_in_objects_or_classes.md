@@ -1,4 +1,4 @@
-# Global objects for both Browsers and Node
+# Global objects in both Browsers and Node
 
 ##### Object
 
@@ -28,4 +28,11 @@ it has many methods \(except length\), just refer API then and there.
   * TypeError
   * URIError
 
+
+
+# Global objects in Browsers 
+
+
+
+# Global objects in  Node
 
