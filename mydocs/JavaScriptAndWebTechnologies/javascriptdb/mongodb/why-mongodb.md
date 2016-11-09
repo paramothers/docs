@@ -2,7 +2,7 @@
 
 2. All related data stored together in single document
 
-3. Auto Sharded database for large scale 
+3. Auto Sharded database for large scale
 
 4. Easy to install\/deploy in a simple hardware
 
@@ -20,4 +20,5 @@
 
 11. Replica Set rather than master-slave
 
+12. Aggrigation frameworks written in C++
 
