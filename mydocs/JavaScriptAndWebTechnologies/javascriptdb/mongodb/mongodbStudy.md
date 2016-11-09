@@ -40,7 +40,6 @@
 
 * it use its own standard \(BSON\) to store data, it is Binary JSON. it is fast to traverse and indexing
 
-* WiredTiger as a storge engine
+* 
 
-* GridFS used for binary data manipulation
 

@@ -14,3 +14,9 @@
 
 8. profiling quries
 
+9. WiredTiger as a storge engine
+
+10. GridFS used for binary data manipulation
+
+11. Replica Set rather than master-slave
+
