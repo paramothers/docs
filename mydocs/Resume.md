@@ -136,9 +136,6 @@ The current system is a VB / Sybase system which has five different modules to h
 
 A multi-year agreement with the customer that obligates them to license the rights to particular categories of titles. As user login title selection, adding notes, update the status of deals of titles, maintain own deals and advanced search. Admin user can add team, maintaining team’s user and deals, auto-notification
 
-####1. 
-
-
 
 
 ### Declaration
