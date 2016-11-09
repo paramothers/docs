@@ -1,4 +1,4 @@
-### HTML 5 - New feature
+### HTML 5 - New feature\/ module
 
 1. Audio and Video \(Media Element Interface\)
 2. canvas
