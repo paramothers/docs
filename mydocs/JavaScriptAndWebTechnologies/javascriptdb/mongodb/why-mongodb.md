@@ -14,6 +14,7 @@
 8. Support Indexing of document, also composite index, geoSpatial indexing
 
 9. Secondary index is another feature. upto 64 possible per collection
+
 10. profiling quries
 
 11. WiredTiger as a storge engine
@@ -26,4 +27,5 @@
 
 15. Map and Reduce function **written in JavaScrip**t
 
+16. it use its own standard \(BSON\) to store data, it is Binary JSON. it is fast to traverse and indexing
 

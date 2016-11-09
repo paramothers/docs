@@ -22,13 +22,7 @@
 * internally it store data in Binary JSON
 * it has stored in a collection \( like Table in SQL DB \)
 * index in MongodB implemented as B-Tree Structure
-* 
-* 
-* 
 * it provide offcial drivers for java, node.js, javascript, c\# and etc.
-
-### Factors - 2
-
 * No Transaction,
 
 * No Schema\/ Table \/ Row
@@ -37,7 +31,7 @@
 
 * it is good for Web application like blog or any complex data structure
 
-* it use its own standard \(BSON\) to store data, it is Binary JSON. it is fast to traverse and indexing
+* 
 
 * 
 
