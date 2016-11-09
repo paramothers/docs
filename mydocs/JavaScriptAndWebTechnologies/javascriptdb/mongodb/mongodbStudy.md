@@ -24,6 +24,9 @@
 ### command line options
 
 * --dbpath,  variable point to location, where all the data are stored
+* --version
+* --sysinfo
+* --help
 
 ### Basic Factors
 

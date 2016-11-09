@@ -60,6 +60,7 @@
     * [Document Based](mydocs/document_based.md)
         * [Mongo DB 3.2 -  document based](mydocs/JavaScriptAndWebTechnologies/javascriptdb/mongodb/mongodbStudy.md)
             * [Why MongoDB](mydocs/JavaScriptAndWebTechnologies/javascriptdb/mongodb/why-mongodb.md)
+            * [MongoDB Shell Command](mydocs/JavaScriptAndWebTechnologies/javascriptdb/mongodb/mongodb-shell-command.md)
         * [Couch DB](mydocs/couch_db.md)
     * Key Value Pair
         * [Redis 3.2 - keyValue-inMemory](mydocs/JavaScriptAndWebTechnologies/javascriptdb/redis_-_keyvalue_based.md)
