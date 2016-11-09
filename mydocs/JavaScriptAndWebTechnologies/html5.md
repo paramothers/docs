@@ -15,11 +15,13 @@
 
 **Modernizer**, tool to detect the given browser has support for new element or supply javascript alternatively.
 
-
-
 Elements can be also classified as
 
 1. Structure Elements
 
 2. Sematics Elements
+
+
+
+Comment  for block type syntax is differ from javascript
 
