@@ -1,4 +1,4 @@
-# Global object For both Browsers and Node
+# Global objects for both Browsers and Node
 
 ##### Object
 
