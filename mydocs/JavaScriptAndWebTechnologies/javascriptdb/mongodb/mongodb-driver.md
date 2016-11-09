@@ -7,10 +7,10 @@ All the drivers can be found at https:\/\/docs.mongodb.com\/ecosystem\/drivers\/
 2. NodeJS \(http:\/\/voidcanvas.com\/mongoose-vs-mongodb-native\/\)
 
   1. mongodb-native
-  2. mongoose
+  2. mongoose \(for simple application\/ faster productivity while development\)
 
 
-3. etc..
+1. etc..
 
-4. 
+2. 
 
