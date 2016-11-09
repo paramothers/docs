@@ -20,5 +20,7 @@
 
 11. Replica Set rather than master-slave
 
-12. Aggrigation frameworks written in C++
+12. Aggrigation frameworks written in C++s
+
+13. Map and Reduce function written in JavaScript
 
