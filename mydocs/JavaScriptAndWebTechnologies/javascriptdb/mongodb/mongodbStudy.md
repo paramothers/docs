@@ -16,7 +16,7 @@
 
 ### Basic Factors
 
-32 bit version support only 2gb data.
+
 
 * its written in C++
 * internally it store data in Binary JSON
@@ -31,4 +31,5 @@
 
 * it is good for Web application like blog or any complex data structure
 
+* 32 bit version support only 2gb data
 
