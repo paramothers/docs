@@ -10,3 +10,5 @@
 
 6. Collection, can create dynamically
 
+7. Support Indexing of document
+
