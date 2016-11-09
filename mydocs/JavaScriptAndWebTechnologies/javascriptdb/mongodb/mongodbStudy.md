@@ -23,6 +23,7 @@
 * --dbpath,  variable point to location, where all the data are stored
 * --version
 * --sysinfo
+* --nsSize
 * --help
 
 ### Basic Factors
