@@ -3,8 +3,19 @@
 1. Gulp
 
 2. Eslint
+
 3. Node & Npm
-4. 
+
+
+### Minimum step can be followed for creating javascript project
+
+1. Create a project root folder
+
+2. Create a  npm project inside of root
+
+3. install or configure gulp
+4. install or configure eslint
+5. create folder for web client files, if need
 
 ### Factor - 1
 
@@ -107,6 +118,7 @@ JSON
 6. Gulp
 
 7. \[Grunt\]
+
 8. ### JavaScript Scaffolding tool
 
 9. Yo \(it is like set of archeType used in Mavan project creation\)
@@ -125,6 +137,7 @@ JSON
 5. Browsers
 
 6. mozilla' SpiderMonkey
+
 
 ### Node js for Desktop application development
 
