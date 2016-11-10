@@ -31,3 +31,5 @@
 
 17. New Data type like "javascript", "regular expression", "min\/max" and others
 
+18. Special ObjectID for every document
+
