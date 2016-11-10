@@ -11,15 +11,6 @@ it is top most built in object , like in java. any of others objects are child t
 it is ordered collection.
 it is subclass to Object.
 
-##### Number
-
-##### Boolean
-
-##### String
-
-it should be sub type of Array. \(i believe\). it is ordered collections.
-it has many methods \(except length\), just refer API then and there.
-
 ##### Date
 
 ##### Math
@@ -49,4 +40,16 @@ it has many methods \(except length\), just refer API then and there.
 ##### Event
 
 # Global objects in  Node
+
+
+
+### Wrapper data types
+
+##### Number
+
+##### Boolean
+
+##### String
+
+it should be sub type of Array. \(i believe\). it is ordered collections. it has many methods \(except length\), just refer API then and there.
 
