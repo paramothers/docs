@@ -6,7 +6,7 @@ Dependency classified by two ways
 
 1. Regular dependency
 
-2. Dev dependency
+2. Dev dependency \(no need while running\)
 
 
 ##### Few Command
@@ -16,5 +16,6 @@ Dependency classified by two ways
 * npm install &lt;packageName&gt;@&lt;specific version&gt;
 
 * npm init
+
 * 
 
