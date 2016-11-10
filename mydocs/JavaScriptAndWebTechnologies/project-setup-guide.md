@@ -1,10 +1,10 @@
 ### Minimum tool to be used for best practice
 
-1. Gulp
+1. Gulp -  as build tool
 
-2. Eslint
+2. Eslint - reduce syntax error
 
-3. Node & Npm
+3. Node & Npm - runtime and dependency management
 
 
 ### Minimum step can be followed while creating javascript project
@@ -20,4 +20,5 @@
 5. create sub-folder for web client files, if need
 
 6. create sub-folder for node js source files, if need
+
 
