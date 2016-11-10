@@ -29,7 +29,7 @@
 
 16. it use its own standard \(BSON\) to store data, it is Binary JSON. it is fast to traverse and indexing
 
-17. New Data type like "javascript", "regular expression", "min\/max", GeoJson and others
+17. New Data type like "javascript", "regular expression", "min\/max", GeoJSON and others
 
 18. Special ObjectID for every document
 
