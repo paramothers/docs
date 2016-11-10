@@ -1,10 +1,11 @@
-# Gulp API
+# Gulp v3.9.1 API
 
 ### npm package for Gulp.
 
 1. gulp
-  2. task().
-  3. src().
-  4. dest()
-  5. pipe()
+  1. task\(\).
+  2. src\(\).
+  3. dest\(\)
+  4. pipe\(\)
+
 
