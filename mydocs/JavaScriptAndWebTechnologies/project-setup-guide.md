@@ -1,12 +1,13 @@
 ### Minimum tools to be used for best practice
 
-1. Gulp -  as build tool
+1. **Gulp **-  as build tool
 
-2. Eslint - reduce syntax error
+2. **Eslint **- reduce syntax error
 
-3. Jasmine - a unit testing
+3. **Jasmine **- a unit testing
 
-4. Node & Npm - runtime and dependency management
+4. **Node & Npm** - runtime and dependency management
+
 
 ### Minimum step can be followed while creating javascript project
 
