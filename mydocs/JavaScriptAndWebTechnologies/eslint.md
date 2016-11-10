@@ -1,7 +1,7 @@
 # ESLint v3.5.0
 
 * it is developed by adding few features to JSHint, developed by **Nicholas Zakas**, June 2013
-* it is a _npm based pack_age, since it is developed on Node.Js platform
+* it is a \_npm based pack\_age, since it is developed on Node.Js platform
 * it use **Esprima** parser to parse given  JS file into **Abstract Syntax tree**
 * Esprima was Developed by Ariya Hidayat
 * Easy to create own Linting rules
@@ -42,5 +42,6 @@ Categories are
 2. --rulesdir, directory contains custom defined rules
 3. --eslintrc , 
 4. --reset
-5. 
+5.  --init
+6. 
 
