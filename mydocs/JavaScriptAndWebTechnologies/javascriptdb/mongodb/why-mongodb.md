@@ -29,3 +29,5 @@
 
 16. it use its own standard \(BSON\) to store data, it is Binary JSON. it is fast to traverse and indexing
 
+17. New Data type like "javascript", "regular expression", "min\/max" and others
+
