@@ -4,7 +4,8 @@
 
 2. Eslint - reduce syntax error
 
-3. Node & Npm - runtime and dependency management
+3. Jasmine - a unit testing 
+4. Node & Npm - runtime and dependency management
 
 
 ### Minimum step can be followed while creating javascript project
