@@ -1,4 +1,4 @@
-### Minimum tools to be used for best practice
+### Minimum sublimentary tools to be used for best practice
 
 1. **Gulp **-  as build tool
 
