@@ -16,3 +16,5 @@ $polygon
 
 $center
 
+$centerSphere
+
