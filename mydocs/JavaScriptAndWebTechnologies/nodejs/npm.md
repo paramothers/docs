@@ -17,5 +17,10 @@ Dependency classified by two ways
 
 * npm init
 
-* 
+
+##### Command line options
+
+* --save
+
+* --saveDev
 
