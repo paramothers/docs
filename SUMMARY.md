@@ -45,7 +45,7 @@
         * [Gulp 3.9.1](mydocs/JavaScriptAndWebTechnologies/grunt/gulp_api.md)
     * [Linting Tools](mydocs/JavaScriptAndWebTechnologies/linting_tools.md)
         * [ESLint v3.5 \(use this one\)](mydocs/JavaScriptAndWebTechnologies/eslint.md)
-        * [JSHint](mydocs/JavaScriptAndWebTechnologies/jshint.md)
+        * [JSLint JSHint JSCS](mydocs/JavaScriptAndWebTechnologies/jshint.md)
         * [Bootlint](mydocs/JavaScriptAndWebTechnologies/bootlint.md)
     * [JavaScript Testing](mydocs/JavaScriptAndWebTechnologies/javascript_testing.md)
         * [Jasmine 2.3](mydocs/JavaScriptAndWebTechnologies/testing_frameworks.md)
