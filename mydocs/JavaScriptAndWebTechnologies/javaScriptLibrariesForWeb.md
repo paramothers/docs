@@ -1,5 +1,3 @@
-### 
-
 ### Factors - 1
 
 Creater of ECMAScript is ** Brendan Eich**, he worked for Netscape
