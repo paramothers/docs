@@ -17,5 +17,7 @@
 
 4. install or configure eslint
 
-5. create folder for web client files, if need
+5. create sub-folder for web client files, if need
+
+6. create sub-folder for node js source files, if need
 
