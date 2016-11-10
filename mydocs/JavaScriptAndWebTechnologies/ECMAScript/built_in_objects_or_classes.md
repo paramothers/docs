@@ -20,6 +20,12 @@ it has many methods \(except length\), just refer API then and there.
 
 ##### Math
 
+##### RegExp
+
+##### Map and WeakMap
+
+##### Set and WeakSet
+
 ##### Error
 
 * * EvalError
@@ -31,8 +37,6 @@ it has many methods \(except length\), just refer API then and there.
 
 
 ##### console
-
-
 
 # Global objects in Browsers
 
