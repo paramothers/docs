@@ -18,6 +18,7 @@
     * [ES6 Features](mydocs/JavaScriptAndWebTechnologies/es6-features.md)
     * [Global Objects](mydocs/JavaScriptAndWebTechnologies/ECMAScript/built_in_objects_or_classes.md)
     * [JSON](mydocs/JavaScriptAndWebTechnologies/json.md)
+    * [Project Setup Guide](mydocs/JavaScriptAndWebTechnologies/project-setup-guide.md)
 * [Frameworks](frameworks.md)
 * [JavaScript UI Frameworks](mydocs/JavaScriptAndWebTechnologies/javascript_ui_frameworks.md)
     * [Angular JS](mydocs/JavaScriptAndWebTechnologies/angularjs/Angular General.md)

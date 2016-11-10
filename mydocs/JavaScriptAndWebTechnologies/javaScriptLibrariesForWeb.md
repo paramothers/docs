@@ -1,24 +1,6 @@
-### Minimum tool to be used for best practice
+### 
 
-1. Gulp
-
-2. Eslint
-
-3. Node & Npm
-
-
-### Minimum step can be followed while creating javascript project
-
-1. Create a project root folder
-
-2. Create a  npm project inside of root
-
-3. install or configure gulp
-
-4. install or configure eslint
-5. create folder for web client files, if need
-
-### Factor - 1
+### Factors - 1
 
 Creater of ECMAScript is ** Brendan Eich**, he worked for Netscape
 EMCAScript is offical name of JavaScript. First it was called "mocha", then "LiveScript" . Finallly as "JavaScript"
