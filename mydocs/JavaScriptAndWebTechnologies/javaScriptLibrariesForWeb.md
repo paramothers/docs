@@ -13,8 +13,8 @@ being a dynamic and loosely-typed language, is especially prone to developer err
 ### Subset of javascript
 
 1. Objective-J
-2. CoffeScript
-3. TypeScript
+2. CoffeScript \(i use this one\)
+3. TypeScript \(from microsoft\)
 
 ### JavaScript Nature
 
