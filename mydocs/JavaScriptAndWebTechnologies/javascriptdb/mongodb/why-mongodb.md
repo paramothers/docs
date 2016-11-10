@@ -11,7 +11,7 @@
 
 7. Collection, can create dynamically
 
-8. Support Indexing of document, also composite index, geoSpatial indexing
+8. Support Indexing of document, also **composite ind**ex, **geoSpatial **indexing
 
 9. Secondary index is another feature. upto 64 possible per collection
 
@@ -32,4 +32,5 @@
 17. New Data type like "javascript", "regular expression", "min\/max" and others
 
 18. Special ObjectID for every document
+
 
