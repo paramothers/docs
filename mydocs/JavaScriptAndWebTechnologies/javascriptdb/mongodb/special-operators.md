@@ -8,3 +8,5 @@ $minDistance
 
 $geometry
 
+$geoWithin
+
