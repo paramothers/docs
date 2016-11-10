@@ -39,6 +39,7 @@
         * [Node JS Workflow and delivery Modules](mydocs/JavaScriptAndWebTechnologies/nodejs/nodejsworkflowandtesting.md)
         * [Node JS core and common](mydocs/JavaScriptAndWebTechnologies/nodejs/nodeModules.md)
         * [Node JS Aysyc](mydocs/JavaScriptAndWebTechnologies/nodejs/nodeAsync.md)
+        * [NPM](mydocs/JavaScriptAndWebTechnologies/nodejs/npm.md)
     * [Grunt and Gulp](mydocs/JavaScriptAndWebTechnologies/grunt/README.md)
         * [Grunt API](mydocs/JavaScriptAndWebTechnologies/grunt/gruntAPI.md)
         * [Gulp API](mydocs/JavaScriptAndWebTechnologies/grunt/gulp_api.md)
