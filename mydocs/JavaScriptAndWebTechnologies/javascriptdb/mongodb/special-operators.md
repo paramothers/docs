@@ -14,3 +14,5 @@ $box
 
 $polygon
 
+$center
+
