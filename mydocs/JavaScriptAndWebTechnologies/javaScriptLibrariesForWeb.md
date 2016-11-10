@@ -1,3 +1,13 @@
+### Minimum tool to be used for best practice
+
+1. Gulp
+
+2. Eslint
+3. Node & Npm
+4. 
+
+### Factor - 1
+
 Creater of ECMAScript is ** Brendan Eich**, he worked for Netscape
 EMCAScript is offical name of JavaScript. First it was called "mocha", then "LiveScript" . Finallly as "JavaScript"
 Two more EMCAScript **impletation are JScript and ActionScript**
@@ -5,8 +15,6 @@ Current version is EMCAScript 7\(as on Sep,2016\).
 Object are passed by reference.
 JavaScript library usually delivered as single and minified \*.js file.
 being a dynamic and loosely-typed language, is especially prone to developer error
-
-
 
 **Either we do JavaScript progamming for Browser or Node.js**
 
@@ -87,17 +95,22 @@ JSON
 1. UglifyJs
 2. YUICompressor
 3. Closure Compiler
+
   ### JavaScript-Backend Communication
 
 4. AJAX
+
 5. Commet
+
   ### JavaScript- Build-workflow
 
 6. Gulp
+
 7. \[Grunt\]
 8. ### JavaScript Scaffolding tool
 
 9. Yo \(it is like set of archeType used in Mavan project creation\)
+
 
 ### JavaScript package\/dependency manager
 
@@ -110,6 +123,7 @@ JSON
 4. v8-NodeJS
 
 5. Browsers
+
 6. mozilla' SpiderMonkey
 
 ### Node js for Desktop application development
@@ -121,6 +135,7 @@ JSON
 
 1. Requrire.js, Browser based module system.
 2. CommonJS, Server based module system, it is conceived by Node.js
+
   ### Javascript Documentation
 
 3. JSDoc
@@ -130,6 +145,7 @@ JSON
 4. CoffeScript, it is like GWT programming in Java-translate-to-html and Javascript
 
 5. TypeScript - from microsoft
+
 
 ### Some of Java Script Library
 
