@@ -8,7 +8,7 @@ $minDistance
 
 $geometry
 
-$geoWithin
+$geoWithin \($within deprected in 2.4\)
 
 $box
 
