@@ -20,13 +20,18 @@ it has many methods \(except length\), just refer API then and there.
 
 ##### Math
 
-* Error
-  * EvalError
+##### Error
+
+* * EvalError
   * RangeError
   * ReferenceError
   * SyntaxError
   * TypeError
   * URIError
+
+
+##### console
+
 
 
 # Global objects in Browsers
