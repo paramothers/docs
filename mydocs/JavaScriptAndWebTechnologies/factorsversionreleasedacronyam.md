@@ -107,12 +107,13 @@
 
 64. 2015, May, Ionic 1.0 has released
 
-65. 2016, June, EMCAScript v7 released
+65. 2016, June, **EMCAScript v7** released
 
 66. 2016, July, BootStrap 3.3.7 released
 
 67. 2016, September,  AngualrJS 2.0 released
 
 68. 2016, September, TypeScript 2.0 released
+
 69. 
 
