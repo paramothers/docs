@@ -3,9 +3,9 @@
 1. show dbs
 2. show collections
 3. show users
-4. use &lt;dbname&gt;
-5. help
-6. use &lt;dbname&gt; to create \/ open the exiting one
-7. **show dbs,** to list all databases
-8. **show collections**, to list all the collections in current database
+4. help
+5. **use **&lt;dbname&gt; to create \/ open the exiting one
+6. **show dbs,** to list all databases
+7. **show collections**, to list all the collections in current database
+8. **db**, to list all databases
 
