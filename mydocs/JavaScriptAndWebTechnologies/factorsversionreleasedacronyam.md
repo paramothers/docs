@@ -95,21 +95,22 @@
 
 56. 2012, June **CSS 3** finized by W3c
 
-57. 
-58. 2013, June ESLint created
-59. 2013, Aug BootStrap 3 released \(Mobile first design\)
-60. 
-61. 2014, oct, HTML 5 officially released by W3c
+57. 2012, Oct TypeScript first released
+58. 
+59. 2013, June ESLint created
+60. 2013, Aug BootStrap 3 released \(Mobile first design\)
+61. 
+62. 2014, oct, HTML 5 officially released by W3c
 
-62. 2015, June, **EMCAScript v6** \(also called ES6 _Harmony_\) released
+63. 2015, June, **EMCAScript v6** \(also called ES6 _Harmony_\) released
 
-63. 2015, May, Ionic 1.0 has released
+64. 2015, May, Ionic 1.0 has released
 
-64. 2016, June, EMCAScript v7 released
+65. 2016, June, EMCAScript v7 released
 
-65. 2016, July, BootStrap 3.3.7 released
+66. 2016, July, BootStrap 3.3.7 released
 
-66. 2016, September AngualrJS 2.0 released
+67. 2016, September AngualrJS 2.0 released
 
-67. 
+68. 
 
