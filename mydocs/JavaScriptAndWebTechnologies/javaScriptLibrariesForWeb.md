@@ -10,11 +10,12 @@ being a dynamic and loosely-typed language, is especially prone to developer err
 
 **Either we do JavaScript progamming for Browser or Node.js**
 
-### Subset of javascript
+### SuperSet of javascript
 
 1. Objective-J
-2. CoffeScript \(i use this one\)
-3. TypeScript \(from microsoft\)
+2. CoffeScript \(who are having exp. in Ruby and python\)
+3. TypeScript \(who are having exp. in .Net\)
+4. Dart \(who are having exp. in Java \/ Go \)
 
 ### JavaScript Nature
 
