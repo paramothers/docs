@@ -32,7 +32,7 @@
         * [EXT JS core](mydocs/JavaScriptAndWebTechnologies/extjs/Extjs core.md)
         * [EXT JS UI API](mydocs/JavaScriptAndWebTechnologies/extjs/Extjs UI Classes.md)
         * [EXT JS layout API](mydocs/JavaScriptAndWebTechnologies/extjs/Extjs layout.md)
-* [TypeScript](typescript.md)
+* [TypeScript 2.0](typescript.md)
 * [Node and Its modules](mydocs/JavaScriptAndWebTechnologies/node_and_its_technologies.md)
     * [Node 4.3](mydocs/JavaScriptAndWebTechnologies/nodejs/nodestudy.md)
         * [Node JS Global Objects](mydocs/JavaScriptAndWebTechnologies/nodejs/nodeGlobalObject.md)
