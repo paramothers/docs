@@ -96,6 +96,7 @@
 56. 2012, June **CSS 3** finized by W3c
 
 57. 2012, Oct TypeScript first released
+
 58. 
 59. 2013, June ESLint created
 60. 2013, Aug BootStrap 3 released \(Mobile first design\)
@@ -110,7 +111,8 @@
 
 66. 2016, July, BootStrap 3.3.7 released
 
-67. 2016, September AngualrJS 2.0 released
+67. 2016, September,  AngualrJS 2.0 released
 
-68. 
+68. 2016, September, TypeScript 2.0 released
+69. 
 
