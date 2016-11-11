@@ -5,5 +5,7 @@
 2. one of the superset for javascript
 
 3. support class based programming
-4. 
+
+4. support feature of ES6
+5. 
 
