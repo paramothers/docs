@@ -95,7 +95,7 @@
 
 56. 2012, June **CSS 3** finized by W3c
 
-57. 2012, Oct TypeScript v0.8 released
+57. 2012, Oct **TypeScript v0.8** released
 
 58. 
 59. 2013, June ESLint created
@@ -113,7 +113,7 @@
 
 67. 2016, September,  AngualrJS 2.0 released
 
-68. 2016, September, TypeScript 2.0 released
+68. 2016, September, **TypeScript 2.0** released
 
 69. 
 
