@@ -18,6 +18,9 @@ being a dynamic and loosely-typed language, is especially prone to developer err
 4. Dart \(who are having exp. in Java \/ Go \)
 
 Among them, Typescript would be good options. AngularJS 2 was written in TypeScript.
+
+TypeScript is close to ES6.
+
 ### JavaScript Nature
 
 1. dynamic
