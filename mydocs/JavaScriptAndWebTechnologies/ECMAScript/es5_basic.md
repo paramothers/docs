@@ -5,7 +5,7 @@ Each value datatype has properties
 
 1. Undefined, Null
 2. Boolean, Numbers , String
-3. Symbol
+3. Symbol, it is created using Constructor function !!
 4. Objects \[array, object **litral**, Regular expression\] 
 
 It support, to create a object directly  as literal
