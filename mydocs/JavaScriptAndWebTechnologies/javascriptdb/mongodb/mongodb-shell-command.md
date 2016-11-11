@@ -7,4 +7,5 @@
 5. help
 6. use &lt;dbname&gt; to create \/ open the exiting one
 7. show dbs, to list all databases
+8. show collections, to list all the collections in current database
 
