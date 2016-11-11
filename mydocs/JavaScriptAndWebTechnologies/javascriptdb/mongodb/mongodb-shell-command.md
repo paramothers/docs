@@ -9,3 +9,6 @@
 7. **show collections**, to list all the collections in current database
 8. **db**, to list all databases
 
+
+### DML methods\/commands
+
