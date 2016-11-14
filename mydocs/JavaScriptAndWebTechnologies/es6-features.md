@@ -4,5 +4,5 @@
 4. String interpolation \(i.e\) ${anyVariable}
 5. multi-line String
 6. new Symbol datatype
-7. allowing trainling comma in object or array
+7. allowing trainling comma in object or array. But not JSON.
 
