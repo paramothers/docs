@@ -13,11 +13,13 @@ it is subclass to Object.
 
 ##### Date
 
-Object is Represents and manipulate Data and Time in javascript
+Object is Represents and manipulate Data and Time in javascript. it is got from  Java Language.
 
 ##### Math
 
 ##### RegExp
+
+we can say, it is sublanguage or DSL in JavaScript.
 
 ##### Map and WeakMap
 
