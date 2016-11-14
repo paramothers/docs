@@ -5,4 +5,5 @@
 5. multi-line String
 6. new Symbol datatype
 7. allowing trainling comma in object or array. But not JSON.
+8. new data object types are  Set and Map
 
