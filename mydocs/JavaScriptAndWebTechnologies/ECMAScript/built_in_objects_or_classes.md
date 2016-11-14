@@ -23,7 +23,11 @@ we can say, it is sublanguage or DSL in JavaScript.
 
 ##### Map and WeakMap
 
+introduced in ES6
+
 ##### Set and WeakSet
+
+introduced in ES6
 
 ##### Error
 
