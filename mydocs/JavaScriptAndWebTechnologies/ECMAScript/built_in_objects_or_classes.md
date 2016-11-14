@@ -13,6 +13,8 @@ it is subclass to Object.
 
 ##### Date
 
+Object is Represents and manipulate Data and Time in javascript
+
 ##### Math
 
 ##### RegExp
