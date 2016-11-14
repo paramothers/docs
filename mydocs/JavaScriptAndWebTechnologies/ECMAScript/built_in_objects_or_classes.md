@@ -41,9 +41,9 @@ it is subclass to Object.
 
 # Global objects in  Node
 
-
-
 ### Wrapper data types
+
+Wrappers are facilitiate, some predefined values and few function to manipulate primitives
 
 ##### Number
 
