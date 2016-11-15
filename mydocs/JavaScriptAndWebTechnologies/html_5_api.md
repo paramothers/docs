@@ -1,6 +1,6 @@
-# HTML 5 API
+# HTML 5 \(javascript\) API 
 
-it is API,  browser vendor has to implement to get done natively 
+it is APIs,  each browser vendor has to implement to get done natively
 
 #### SVG \( Scallable Vector Graphics\) specification
 
