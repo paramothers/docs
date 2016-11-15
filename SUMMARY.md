@@ -9,6 +9,7 @@
             * [Multimedia HTML 5 Tags](mydocs/JavaScriptAndWebTechnologies/multimedia-html-5-tags.md)
             * [Form HTML 5 Tags](mydocs/JavaScriptAndWebTechnologies/form-html-5-tags.md)
             * [Layout or Semantic Tags](mydocs/JavaScriptAndWebTechnologies/layout-or-semantic-tags.md)
+            * [Date and Time Tags](mydocs/JavaScriptAndWebTechnologies/date-and-time-tags.md)
     * [CSS 3](mydocs/JavaScriptAndWebTechnologies/css/README.md)
         * [Bootstrap 3.3.7](mydocs/JavaScriptAndWebTechnologies/bootstrap/Parambootstrap.md)
             * [Boot Strap class](mydocs/JavaScriptAndWebTechnologies/bootstrap/bootstrapClasses.md)
