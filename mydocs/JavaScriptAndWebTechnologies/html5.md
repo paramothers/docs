@@ -1,8 +1,8 @@
 ### HTML 5 - New feature\/ module
 
 1. Audio and Video \(Media Element Interface\)
-2. canvas
-3. Inteligent forms
+2. canvas for visual on the fly
+3. Inteligent forms and validation
 4. offline application
 5. micro data
 6. geolocation
