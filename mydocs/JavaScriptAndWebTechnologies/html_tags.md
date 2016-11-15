@@ -41,6 +41,7 @@
 10. range
 
 11. search
+
 12. tel
 13. url
 14. datalist
@@ -76,11 +77,5 @@
 13. dfn \( oldest element since HTML 2, 1995\)
 14. abbr
 
-### Multimedia html5 elements
-
-1. Audio
-2. _Video,_ to play video files without any need of special plugin.
-3. Track
-4. Source
-5. Canvas
+### 
 
