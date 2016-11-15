@@ -5,7 +5,7 @@
 * [Web UI](mydocs/web_ui.md)
     * [html 5](mydocs/JavaScriptAndWebTechnologies/html5.md)
         * [html 5 API](mydocs/JavaScriptAndWebTechnologies/html_5_api.md)
-        * [Html 5 Tags](mydocs/JavaScriptAndWebTechnologies/html_tags.md)
+        * [Html 5 New Tags](mydocs/JavaScriptAndWebTechnologies/html_tags.md)
     * [CSS 3](mydocs/JavaScriptAndWebTechnologies/css/README.md)
         * [Bootstrap 3.3.7](mydocs/JavaScriptAndWebTechnologies/bootstrap/Parambootstrap.md)
             * [Boot Strap class](mydocs/JavaScriptAndWebTechnologies/bootstrap/bootstrapClasses.md)
