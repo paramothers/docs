@@ -5,6 +5,12 @@
 1. Progress
 2. meter
 
+##### Display as Collapse or expand
+
+1. details
+
+2. summary
+
 
 1. datalist
 2. output
