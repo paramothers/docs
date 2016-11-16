@@ -1,5 +1,3 @@
-
-
 The aim to introduce, well designed element to get input rather than only use of text box as earlier.
 
 ### Html 5 Input type
@@ -20,7 +18,8 @@ The aim to introduce, well designed element to get input rather than only use of
 
 8. datalist
 
-### Html 5 input Attributes
+
+### Html 5 input Common Attributes for most elements
 
 1. placeholder
 2. pattern
