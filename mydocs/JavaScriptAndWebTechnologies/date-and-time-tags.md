@@ -1,6 +1,6 @@
 ### Html 5 date and time tags
 
-1. _time, _made easy time parsing and display
+1. **time**, made easy time parsing and display
 2. date
 3. datetime
 4. datetime-local
