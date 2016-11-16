@@ -1,3 +1,5 @@
+HTML 5, is not only about adding or improving new tags. it add other Stuff as well
+
 ### HTML 5 - New features\/ module
 
 1. Audio and Video \(Media Element Interface\)
