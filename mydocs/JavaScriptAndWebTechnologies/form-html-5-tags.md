@@ -31,9 +31,12 @@ The aim to introduce, well designed element to get input rather than only use of
 
 ### HTML 5 Input validation attribute
 
+Usually the client side validation used for improve the user experience and should avoid for security related validation
+
 1. required
 
 2. pattern
+
 3. min
 4. max
 
