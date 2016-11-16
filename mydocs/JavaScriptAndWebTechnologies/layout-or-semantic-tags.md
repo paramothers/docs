@@ -13,7 +13,7 @@
 #### Sidebar
 
 1. section
-2. **aside,** 
+2. **aside,** used to display sidebar along with main content. Usually for Advertisement
 
 #### Content
 
