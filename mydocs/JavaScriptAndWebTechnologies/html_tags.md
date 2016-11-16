@@ -1,10 +1,5 @@
 ### 
 
-### 
-
-1. ### 
-
-
 ### Html 5 other elements
 
 1. Progress
