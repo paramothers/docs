@@ -1,4 +1,4 @@
-HTML 5, is not only about adding or improving new tags. it add other Stuff as well
+HTML 5, is not only about adding or improving new tags. it add other Stuff as well as below
 
 ### HTML 5 - New features\/ module
 
@@ -6,7 +6,7 @@ HTML 5, is not only about adding or improving new tags. it add other Stuff as we
 2. canvas for visual on the fly
 3. Inteligent forms and validation
 4. offline application
-5. micro data
+5. micro data API
 6. geolocation
 7. websockets
 8. webworker
