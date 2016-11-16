@@ -22,14 +22,18 @@ The aim to introduce, well designed element to get input rather than only use of
 ### Html 5 input Common Attributes for most elements
 
 1. placeholder
+2. title
+3. step
+4. autocomplete
+5. multiple
+6. autofocus
+7. list
+
+### HTML 5 Input validation attribute
+
+1. required
+
 2. pattern
-3. title
-4. min
-5. max
-6. required
-7. step
-8. autocomplete
-9. multiple
-10. autofocus
-11. list
+3. min
+4. max
 
