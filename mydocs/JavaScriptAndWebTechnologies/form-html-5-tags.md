@@ -1,19 +1,24 @@
-1. ### Html 5 Input type
 
-2. color
 
-3. email
+The aim to introduce, well designed element to get input rather than only use of text box as earlier.
 
-4. number
+### Html 5 Input type
 
-5. range
+1. color
 
-6. search
+2. email
 
-7. tel
+3. number
 
-8. url
-9. datalist
+4. range
+
+5. search
+
+6. tel
+
+7. url
+
+8. datalist
 
 ### Html 5 input Attributes
 
