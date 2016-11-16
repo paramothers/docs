@@ -12,12 +12,11 @@ HTML 5, is not only about adding or improving new tags. it add other Stuff as we
 8. webworker
 9. ** Web Accibiblity Initiative \(WAI-ARIA\)** \( Accessible Rich Internet Application\)
 
+          Improve the accessibility by adding two attribute to most of html 5 elements
 
-Improve the accessibility by adding two attribute to most of html 5 elements
-
-These attributes are
- 1. Role
- 2. aria-\[ANY\]
+         These attributes are
+        1. Role
+        2. aria-\[ANY\]
 
 **Modernizer**, tool to detect the given browser has support for new element or supply javascript alternatively.
 
