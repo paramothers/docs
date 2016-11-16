@@ -9,7 +9,7 @@
 7. websockets
 8. webworker
 
-**ARIA** \( Accessible Rich Internet Application\) 
+**ARIA** \( Accessible Rich Internet Application\)  Improve the accessiability
  1. Role
  2. aria-ANY Attributes
 
