@@ -21,10 +21,6 @@ it is APIs,  each browser vendor has to implement to get done natively
 
 #### File system handling specification
 
-#### 
-
-#### 
-
 1. 
 2. 
 3. Microdata DOM API
