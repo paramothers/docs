@@ -19,7 +19,7 @@ it is APIs,  each browser vendor has to implement to get done natively
 
 #### 
 
-1. , Server SENT event, WebSockets
+1. , , WebSockets
 2. Documents Editing
 3. web storage
 4. offline web application
@@ -27,5 +27,5 @@ it is APIs,  each browser vendor has to implement to get done natively
 
 # HTML 5, Communication API
 
-**Geo Location API, ** To communicate users location
+ **Server SENT** **API, ** Initiage message from server to client as one-way.
 
