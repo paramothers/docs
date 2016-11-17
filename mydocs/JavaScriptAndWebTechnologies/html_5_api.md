@@ -9,7 +9,8 @@ it is APIs,  each browser vendor has to implement to get done natively
 
 **Drag and Drop**, for elements to be dragged and dropped
 
-**cross document messaging, **messaging between documents
+**cross document messaging, **messaging between documents seperated elements.
+
 #### SVG \( Scallable Vector Graphics\) specification
 
 #### File system handling specification
