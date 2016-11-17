@@ -31,3 +31,5 @@ it is APIs,  each browser vendor has to implement to get done natively
 
 Geo Location API,
 
+**WebSocket**, add native support for two-way communication
+
