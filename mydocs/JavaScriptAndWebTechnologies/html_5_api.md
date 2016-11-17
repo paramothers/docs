@@ -13,7 +13,7 @@ it is APIs,  each browser vendor has to implement to get done natively
 
 **HTML Editor** \(Editing DOM API\), built-in html editor
 
-**Web storage DOM API**, as alternative to cookie.  Also Indexed DB has advanced features than web storage API
+**Web storage DOM API**, as alternative to cookie.  Also IndexedDB database has advanced features than web storage API.
 
 **Offline web application API**, allowing the caching application from server using caching manifest file
 
