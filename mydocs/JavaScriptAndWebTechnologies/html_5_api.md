@@ -11,7 +11,7 @@ it is APIs,  each browser vendor has to implement to get done natively
 
 **cross document messaging, **messaging between documents seperated elements.
 
-**HTML Editor** , built-in html editor
+**HTML Editor** \(Editing DOM API\), built-in html editor
 
 #### SVG \( Scallable Vector Graphics\) specification
 
