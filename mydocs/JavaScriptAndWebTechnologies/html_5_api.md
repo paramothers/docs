@@ -15,7 +15,7 @@ it is APIs,  each browser vendor has to implement to get done natively
 
 #### Indexed DB API
 
-#### Geo Location API
+#### 
 
 #### DOM API \(below\) specification in html5 specification itself.
 
@@ -26,4 +26,6 @@ it is APIs,  each browser vendor has to implement to get done natively
 5. Microdata DOM API
 
 # HTML 5, Communication API
+
+**Geo Location API, ** To communicate users location
 
