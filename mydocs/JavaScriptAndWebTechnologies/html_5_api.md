@@ -2,7 +2,7 @@
 
 it is APIs,  each browser vendor has to implement to get done natively
 
-**Canvas 2d API,** used to drawing or whiteboard or gaming
+**Canvas API,** used to drawing or whiteboard or gaming
 **Constraint Validation API**, for advanced form element validations
 
 #### SVG \( Scallable Vector Graphics\) specification
