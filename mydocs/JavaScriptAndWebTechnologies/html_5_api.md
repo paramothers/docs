@@ -31,7 +31,7 @@ it is APIs,  each browser vendor has to implement to get done natively
 
 # HTML 5, Communication API
 
-**Server SENT** **API, ** Initiage message from server to client as one-way.
+**Server SENT** **API, ** Initiate message from server to client as one-way.
 
 **Geo Location API**, to find user's location
 
