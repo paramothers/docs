@@ -25,7 +25,7 @@ it is APIs,  each browser vendor has to implement to get done natively
 
 **WebGL**
 
-**IndexedDB API,** helps to store complex data structures in client side fully.
+**IndexedDB API,** helps to store complex data structures in client side fully, rather than simply store key\/value pair in web storage API.
 
 #### Microdata DOM API
 
