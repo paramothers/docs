@@ -1,4 +1,4 @@
-# HTML 5 \(javascript\) API
+# HTML 5  New DOM API
 
 it is APIs,  each browser vendor has to implement to get done natively
 
