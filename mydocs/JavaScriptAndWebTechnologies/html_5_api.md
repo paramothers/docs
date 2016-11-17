@@ -2,6 +2,7 @@
 
 it is APIs,  each browser vendor has to implement to get done natively
 
+**Canvas 2d API,** used to drawing or whiteboard
 **Constraint Validation API**, for advanced form element validations
 
 #### SVG \( Scallable Vector Graphics\) specification
@@ -14,7 +15,7 @@ it is APIs,  each browser vendor has to implement to get done natively
 
 #### DOM API \(below\) specification in html5 specification itself.
 
-1. Canvas 2d
+1. 
 2. Audio and Video
 3. Drag and Drop
 4. cross document messaging, Server SENT event, WebSockets
