@@ -9,11 +9,12 @@ it is APIs,  each browser vendor has to implement to get done natively
 
 **Drag and Drop**, for elements to be dragged and dropped
 
-**cross document messaging, **messaging between documents seperated elements.
+**Cross document messaging, **messaging between documents seperated elements.
 
 **HTML Editor** \(Editing DOM API\), built-in html editor
 
 **Web storage DOM API**, as alternative to cookie
+
 #### SVG \( Scallable Vector Graphics\) specification
 
 #### File system handling specification
