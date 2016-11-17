@@ -19,8 +19,8 @@ it is APIs,  each browser vendor has to implement to get done natively
 
 #### 
 
-1.  WebSockets
-2. Documents Editing
+1. WebSockets
+2. 
 3. web storage
 4. offline web application
 5. Microdata DOM API
