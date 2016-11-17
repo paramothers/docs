@@ -15,7 +15,8 @@ it is APIs,  each browser vendor has to implement to get done natively
 
 **Web storage DOM API**, as alternative to cookie.  Also Indexed DB has advanced features than web storage API
 
-**offline web application API**, allowing the caching application from server
+**Offline web application API**, allowing the caching application from server
+
 #### SVG \( Scallable Vector Graphics\) specification
 
 #### File system handling specification
