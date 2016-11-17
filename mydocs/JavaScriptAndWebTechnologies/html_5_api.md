@@ -8,6 +8,7 @@ it is APIs,  each browser vendor has to implement to get done natively
 **Audio and Video API, ** for playing or controlling media file.** **
 
 **Drag and Drop**, for elements to be dragged and dropped
+
 #### SVG \( Scallable Vector Graphics\) specification
 
 #### File system handling specification
@@ -18,12 +19,9 @@ it is APIs,  each browser vendor has to implement to get done natively
 
 #### DOM API \(below\) specification in html5 specification itself.
 
-1. 
-2. 
-3. 
-4. cross document messaging, Server SENT event, WebSockets
-5. Documents Editing
-6. web storage
-7. offline web application
-8. Microdata DOM API
+1. cross document messaging, Server SENT event, WebSockets
+2. Documents Editing
+3. web storage
+4. offline web application
+5. Microdata DOM API
 
