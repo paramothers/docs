@@ -17,13 +17,13 @@ it is APIs,  each browser vendor has to implement to get done natively
 
 **Offline web application API**, allowing the caching application from server using caching manifest file
 
-#### SVG \( Scallable Vector Graphics\) specification
+**File System API**,
 
-#### File system handling specification
+**File Read and Write API**
 
-1. 
-2. 
-3. Microdata DOM API
+**SVG specification API**
+
+#### Microdata DOM API
 
 # HTML 5, Communication API
 
