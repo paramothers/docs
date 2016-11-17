@@ -13,6 +13,7 @@ it is APIs,  each browser vendor has to implement to get done natively
 
 **HTML Editor** \(Editing DOM API\), built-in html editor
 
+**Web storage DOM API**, as alternative to cookie
 #### SVG \( Scallable Vector Graphics\) specification
 
 #### File system handling specification
@@ -21,7 +22,7 @@ it is APIs,  each browser vendor has to implement to get done natively
 
 #### 
 
-1. web storage
+1. 
 2. offline web application
 3. Microdata DOM API
 
