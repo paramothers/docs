@@ -27,6 +27,8 @@ it is APIs,  each browser vendor has to implement to get done natively
 
 **IndexedDB API,** helps to store complex data structures in client side fully, rather than simply store key\/value pair in web storage API.
 
+**SQL DB**, new attempt support sql quries in client side
+
 #### Microdata DOM API
 
 # HTML 5, Communication API
