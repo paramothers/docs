@@ -27,7 +27,7 @@ it is APIs,  each browser vendor has to implement to get done natively
 
 **Server SENT** **API, ** Initiage message from server to client as one-way.
 
-Geo Location API,
+**Geo Location API**,
 
 **WebSocket**, add native support for two-way communication
 
