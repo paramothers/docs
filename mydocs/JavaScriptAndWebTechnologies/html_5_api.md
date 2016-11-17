@@ -25,3 +25,5 @@ it is APIs,  each browser vendor has to implement to get done natively
 4. offline web application
 5. Microdata DOM API
 
+# HTML 5, Communication API
+
