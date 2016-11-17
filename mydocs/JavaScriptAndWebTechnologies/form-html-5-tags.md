@@ -19,7 +19,7 @@ The aim to introduce, well designed element to get input rather than only use of
 8. datalist
 
 
-### Html 5 input Common Attributes for most elements
+### Html 5 input type Common Attributes for most elements
 
 1. placeholder
 2. title
@@ -38,5 +38,6 @@ Usually the client side validation used for improve the user experience and shou
 2. pattern
 
 3. min
+
 4. max
 
