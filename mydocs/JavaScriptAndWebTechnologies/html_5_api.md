@@ -11,6 +11,8 @@ it is APIs,  each browser vendor has to implement to get done natively
 
 **cross document messaging, **messaging between documents seperated elements.
 
+**HTML Editor** , built-in html editor
+
 #### SVG \( Scallable Vector Graphics\) specification
 
 #### File system handling specification
@@ -27,7 +29,7 @@ it is APIs,  each browser vendor has to implement to get done natively
 
 **Server SENT** **API, ** Initiage message from server to client as one-way.
 
-**Geo Location API**, 
+**Geo Location API**,
 
 **WebSocket**, add native support for two-way communication
 
