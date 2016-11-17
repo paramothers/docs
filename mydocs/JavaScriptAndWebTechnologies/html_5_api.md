@@ -13,13 +13,13 @@ it is APIs,  each browser vendor has to implement to get done natively
 
 **HTML Editor** \(Editing DOM API\), built-in html editor
 
-**Web storage DOM API**, as alternative to cookie
+**Web storage DOM API**, as alternative to cookie.  Also Indexed DB API has advanced for web storage API
 
 #### SVG \( Scallable Vector Graphics\) specification
 
 #### File system handling specification
 
-#### Indexed DB API
+#### 
 
 #### 
 
