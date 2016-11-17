@@ -19,8 +19,6 @@ it is APIs,  each browser vendor has to implement to get done natively
 
 **File System API**,
 
-**File Read and Write API**
-
 **SVG specification API, ** for manipulating Scallable Vector Graphics
 
 **WebGL**
