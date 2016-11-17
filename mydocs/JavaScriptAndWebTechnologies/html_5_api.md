@@ -23,6 +23,8 @@ it is APIs,  each browser vendor has to implement to get done natively
 
 **SVG specification API**
 
+**WebGL**
+
 #### Microdata DOM API
 
 # HTML 5, Communication API
