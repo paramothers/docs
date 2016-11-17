@@ -19,11 +19,9 @@ it is APIs,  each browser vendor has to implement to get done natively
 
 #### 
 
-1. WebSockets
-2. 
-3. web storage
-4. offline web application
-5. Microdata DOM API
+1. web storage
+2. offline web application
+3. Microdata DOM API
 
 # HTML 5, Communication API
 
