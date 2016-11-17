@@ -25,6 +25,8 @@ it is APIs,  each browser vendor has to implement to get done natively
 
 **WebGL**
 
+**IndexedDB API**
+
 #### Microdata DOM API
 
 # HTML 5, Communication API
