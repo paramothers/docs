@@ -17,8 +17,6 @@ it is APIs,  each browser vendor has to implement to get done natively
 
 #### 
 
-#### DOM API \(below\) specification in html5 specification itself.
-
 1. cross document messaging, Server SENT event, WebSockets
 2. Documents Editing
 3. web storage
