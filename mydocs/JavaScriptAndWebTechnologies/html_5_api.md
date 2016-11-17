@@ -9,6 +9,7 @@ it is APIs,  each browser vendor has to implement to get done natively
 
 **Drag and Drop**, for elements to be dragged and dropped
 
+**cross document messaging, **messaging between documents
 #### SVG \( Scallable Vector Graphics\) specification
 
 #### File system handling specification
@@ -17,7 +18,7 @@ it is APIs,  each browser vendor has to implement to get done natively
 
 #### 
 
-1. cross document messaging, Server SENT event, WebSockets
+1. , Server SENT event, WebSockets
 2. Documents Editing
 3. web storage
 4. offline web application
