@@ -78,7 +78,7 @@
 45. 2009, Chormium os released as Web platform operation system \( WebOs, Firefos OS \)
 46. 2009, Coffeescript has released by Jeremy Ashkenas
 47. 
-48. 2010, _**HTML 5**__  become a buzzword_
+48. 2010, **_HTML 5_**_\_\_  become a buzzword_
 49. 2010, October, AngualrJS 1.0 released.
 
 50. 2011, June, EMCAScript v5.1 released
@@ -101,7 +101,7 @@
 59. 2013, June ESLint created
 60. 2013, Aug BootStrap 3 released \(Mobile first design\)
 61. 
-62. 2014, oct, HTML 5 officially released by W3c
+62. 2014, oct, **HTML 5 officially released** by W3c
 
 63. 2015, June, **EMCAScript v6** \(also called ES6 _Harmony_\) released
 
