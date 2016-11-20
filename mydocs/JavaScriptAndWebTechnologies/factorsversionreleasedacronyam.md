@@ -19,7 +19,7 @@
 
 11. 1995, December, Sun licensed tradmark of Java to Netscape.  Then LiveScript renamed as "JavaScript".
 
-12. 1995, Html 2.0 released, Form were added.
+12. 1995, **Html 2.0** released, Form were added.
 
 13. 1996, Microsoft implemented the same as counterpart but named as JScript. it was used in IE 3.0
 
@@ -78,7 +78,7 @@
 45. 2009, Chormium os released as Web platform operation system \( WebOs, Firefos OS \)
 46. 2009, Coffeescript has released by Jeremy Ashkenas
 47. 
-48. 2010, _HTML 5  become a buzzword_
+48. 2010, _**HTML 5**__  become a buzzword_
 49. 2010, October, AngualrJS 1.0 released.
 
 50. 2011, June, EMCAScript v5.1 released
