@@ -5,5 +5,5 @@
 3. datetime
 4. datetime-local
 5. week
-6. Month
+6. Month, used to select month an year
 
