@@ -13,15 +13,14 @@
 
 
 1. datalist
-2. output
-3. keygen
-4. **Mark, **just to highlight the text.
-5. ruby
-6. rt
-7. rb
-8. wbr
-9. dfn \( oldest element since HTML 2, 1995\)
-10. abbr
+2. keygen
+3. **Mark, **just to highlight the text.
+4. ruby
+5. rt
+6. rb
+7. wbr
+8. dfn \( oldest element since HTML 2, 1995\)
+9. abbr
 
 ### 
 
