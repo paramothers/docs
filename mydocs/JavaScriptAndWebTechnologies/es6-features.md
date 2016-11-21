@@ -8,4 +8,5 @@
 8. new data object types are  Set and Map
 9. for ..of loop, for collection and array
 10. destructuring assignment
+11. introduced module system inspired by commonJs
 
