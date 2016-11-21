@@ -46,3 +46,8 @@ Usually the client side validation used for improve the user experience and shou
 4. max
 
 
+### HTML 5 Form attributes
+
+1. novalidate
+
+
