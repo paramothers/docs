@@ -7,6 +7,6 @@
 7. allowing trainling comma in object or array. But not JSON.
 8. new data object types are  Set and Map
 9. for ..of loop, for collection and array
-10. destructuring assignment
+10. destructuring _assignment_
 11. introduced module system inspired by commonJs
 
