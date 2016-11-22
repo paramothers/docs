@@ -10,4 +10,5 @@
 10. destructuring _assignment_
 11. introduced module system inspired by commonJs
 12. introduced spread operator \(...\) as alternative to 'arguments' used in functions.
+13. default value for parameter declaration in function
 
