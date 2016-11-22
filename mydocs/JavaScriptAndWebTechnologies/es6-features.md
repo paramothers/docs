@@ -8,7 +8,8 @@
 8. new data object types are  Set and Map
 9. for ..of loop, for collection and array
 10. destructuring _assignment_
-11. introduced module system inspired by commonJs
-12. introduced spread operator \(...\) as alternative to 'arguments' used in functions.
-13. default value for parameter declaration in function
+11. destructuring _arguments_
+12. introduced module system inspired by commonJs
+13. introduced spread operator \(...\) as alternative to 'arguments' used in functions.
+14. default value for argument declaration in function
 
