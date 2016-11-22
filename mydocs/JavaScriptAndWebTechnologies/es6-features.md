@@ -9,4 +9,5 @@
 9. for ..of loop, for collection and array
 10. destructuring _assignment_
 11. introduced module system inspired by commonJs
+12. introduced spread operator \(...\) as alternative to 'arguments' used in functions.
 
