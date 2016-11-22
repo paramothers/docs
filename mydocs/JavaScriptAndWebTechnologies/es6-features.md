@@ -7,9 +7,10 @@
 7. allowing trainling comma in object or array. But not JSON.
 8. new data object types are  Set and Map
 9. for ..of loop, for collection and array
-10. destructuring _**assignment**_
-11. destructuring _**arguments**_
+10. destructuring **_assignment_**
+11. destructuring **_arguments_**
 12. introduced module system inspired by commonJs
 13. introduced spread operator \(...\) as alternative to 'arguments' used in functions.
 14. default value for argument declaration in function
+15. shortcut idea for object-method definition.
 
