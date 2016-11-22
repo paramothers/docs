@@ -27,7 +27,7 @@ it is APIs,  each browser vendor has to implement to get done natively
 
 **Web SQL**, new attempt support sql quries in client side
 
-#### Microdata DOM API
+##### Microdata DOM API
 
 # HTML 5, Communication API
 
