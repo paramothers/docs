@@ -9,7 +9,7 @@
 
 1. **details,** tag used to collapisible content
 
-2. **summary**
+2. **summary,** it mostly used with **details ** tag, to display some info.
 
 
 1. datalist
