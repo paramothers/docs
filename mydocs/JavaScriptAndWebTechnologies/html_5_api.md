@@ -5,7 +5,8 @@ it is APIs,  each browser vendor has to implement to get done natively
 1. **Constraint Validation API**, to add custom validation form element.
 2. **HTML Editing API**, to edit html elements using some rich-text controls
 3. **Geo Location API**, to find user's location
-4. 
+4. **File System API,** to work with local file system
+5. 
 
 **Canvas API,** used to drawing or whiteboard or gaming
 
@@ -19,7 +20,7 @@ it is APIs,  each browser vendor has to implement to get done natively
 
 **Offline web application API**, allowing the caching application from server using caching manifest file
 
-**File System API**,
+
 
 **SVG specification API, ** for manipulating Scallable Vector Graphics
 
@@ -34,8 +35,6 @@ it is APIs,  each browser vendor has to implement to get done natively
 # HTML 5, Communication API
 
 **Server SENT** **API, ** Initiate message from server to client as one-way.
-
-
 
 **WebSocket**, add native support for two-way communication
 
