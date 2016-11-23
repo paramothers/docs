@@ -2,10 +2,10 @@
 
 it is APIs,  each browser vendor has to implement to get done natively
 
-**Constraint Validation API**, to add custom validation form element.
+1. **Constraint Validation API**, to add custom validation form element.
+
 
 **Canvas API,** used to drawing or whiteboard or gaming
-
 
 **Audio and Video API, ** for playing or controlling media file.** **
 
