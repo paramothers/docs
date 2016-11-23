@@ -3,7 +3,7 @@
 it is APIs,  each browser vendor has to implement to get done natively
 
 1. **Constraint Validation API**, to add custom validation form element.
-2. **HTML Editing API** \(Editing DOM API\), built-in html editor
+2. **HTML Editing API**, to edit html elements using some rich-text controls
 3. 
 
 **Canvas API,** used to drawing or whiteboard or gaming
@@ -13,8 +13,6 @@ it is APIs,  each browser vendor has to implement to get done natively
 **Drag and Drop**, for elements to be dragged and dropped
 
 **Cross document messaging, **messaging between documents seperated elements.
-
-
 
 **Web storage DOM API**, as alternative to cookie.  Also IndexedDB database has advanced features than web storage API.
 
