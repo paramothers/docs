@@ -4,7 +4,8 @@ it is APIs,  each browser vendor has to implement to get done natively
 
 1. **Constraint Validation API**, to add custom validation form element.
 2. **HTML Editing API**, to edit html elements using some rich-text controls
-3. 
+3. **Geo Location API**, to find user's location
+4. 
 
 **Canvas API,** used to drawing or whiteboard or gaming
 
@@ -34,7 +35,7 @@ it is APIs,  each browser vendor has to implement to get done natively
 
 **Server SENT** **API, ** Initiate message from server to client as one-way.
 
-**Geo Location API**, to find user's location
+
 
 **WebSocket**, add native support for two-way communication
 
