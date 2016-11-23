@@ -7,9 +7,9 @@
 
 ##### Display as Collapse or expand a block
 
-1. details
+1. **details**
 
-2. summary
+2. **summary**
 
 
 1. datalist
