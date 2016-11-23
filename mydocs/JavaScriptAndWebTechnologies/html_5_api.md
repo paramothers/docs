@@ -5,15 +5,13 @@ it is APIs,  each browser vendor has to implement to get done natively
 1. **Constraint Validation API**, to add custom validation form element.
 2. **HTML Editing API**, to edit html elements using some rich-text controls
 3. **Geo Location API**, to find user's location
-4. **File System API,** to work with local file system
+4. **File System API,** to work with sand-boxed of users file system
 5. **Drag and Drop API**, for elements to be dragged and dropped
 6. 
 
 **Canvas API,** used to drawing or whiteboard or gaming
 
 **Audio and Video API, ** for playing or controlling media file.** **
-
-
 
 **Cross document messaging, **messaging between documents seperated elements.
 
