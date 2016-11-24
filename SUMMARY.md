@@ -56,7 +56,7 @@
     * [JavaScript Testing](mydocs/JavaScriptAndWebTechnologies/javascript_testing.md)
         * [Jasmine 2.3](mydocs/JavaScriptAndWebTechnologies/testing_frameworks.md)
     * [Hybrid Mobile](mydocs/JavaScriptAndWebTechnologies/hybridMobile/README.md)
-        * [Cordova 4](mydocs/JavaScriptAndWebTechnologies/hybridMobile/cordova.md)
+        * [cordova](mydocs/JavaScriptAndWebTechnologies/hybridMobile/cordova.md)
         * [Ionic 1.0](mydocs/JavaScriptAndWebTechnologies/hybridMobile/ionic.md)
     * [Hybrid Desktop](mydocs/JavaScriptAndWebTechnologies/hybridDesktop/README.md)
     * [Coffee Script](mydocs/JavaScriptAndWebTechnologies/coffee_script.md)
@@ -71,7 +71,7 @@
             * [Collections](mydocs/JavaScriptAndWebTechnologies/javascriptdb/mongodb/collections.md)
             * [Special Operators](mydocs/JavaScriptAndWebTechnologies/javascriptdb/mongodb/special-operators.md)
         * [Couch DB](mydocs/couch_db.md)
-    * Key Value Pair
+    * [Key Value Pair](mydocs/key-value-pair.md)
         * [Redis 3.2 - keyValue-inMemory](mydocs/JavaScriptAndWebTechnologies/javascriptdb/redis_-_keyvalue_based.md)
         * [HBase - best with Hadoop -bigdata](mydocs/JavaScriptAndWebTechnologies/javascriptdb/hbase_-_wide_column_value.md)
 * [Java Technologies](mydocs/JavaTechnologies/JavaStudy.md)
