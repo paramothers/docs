@@ -29,9 +29,9 @@ Paramsivam K                                            <img src="misc/SCJP.png"
 
 ### UI Technologies
 
-| Web and JavaScript UI Frameworks  | 
+| Web and JavaScript UI Frameworks| 
 | -- |
-| **Core**: Html 5, CSS 3, JavaScript 6 - ES6\(Harmony\)                   | 
+| **Core**: Html 5, CSS 3, JavaScript 6 - ES6\(Harmony\) | 
 | **CSS Frameworks**: BootStrap 3.0, Sass 3.5 with Compass | 
 | **Data Interchange Std**: JSON  |   
 | **JavaScriptUI frameworks**:  Angular JS 1.4 | 
