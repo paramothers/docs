@@ -24,9 +24,6 @@ Paramsivam K                                            <img src="misc/SCJP.png"
   find at [My Tech Book](https://paramothers.gitbooks.io/mybook/content/)
 
 ****
-### Objective
-
-Want to use obtained expertise JavaScript technologies for Desktop, Mobile and Web applications.
 
 ### Technology Experience and Exposure
 
@@ -34,7 +31,7 @@ Want to use obtained expertise JavaScript technologies for Desktop, Mobile and W
 
 | Web and JavaScript UI Frameworks  | 
 | -- |
-| **Core**: Html 5, CSS 3, JavaScript 6 - ES6(Harmony)                   | 
+| **Core**: Html 5, CSS 3, JavaScript 6 - ES6\(Harmony\)                   | 
 | **CSS Frameworks**: BootStrap 3.0, Sass 3.5 with Compass | 
 | **Data Interchange Std**: JSON  |   
 | **JavaScriptUI frameworks**:  Angular JS 1.4 | 
