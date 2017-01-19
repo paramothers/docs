@@ -1,5 +1,6 @@
 * Neo4j - NoSQL for java platform
 * good in dynamic relation ship 
+* more focus in entity relationship
 
 **The following are some more use cases:**
 
