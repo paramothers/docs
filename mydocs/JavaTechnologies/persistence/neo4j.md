@@ -3,6 +3,7 @@
 * more focus in entity relationship
 * it is implemented in Java ans Scala. to run Neo4j Database need JVM..
 * minimum JVM 7 need.
+* it can be run as embedded database
 
 **The following are some more use cases:**
 
