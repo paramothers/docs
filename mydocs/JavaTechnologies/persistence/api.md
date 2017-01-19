@@ -19,6 +19,7 @@ Several REST API
 3. GraphDatabaseService
 4. Transaction
 5. Node
+6. GlobalGraphOperation
 
 
 
