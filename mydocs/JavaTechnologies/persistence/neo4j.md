@@ -1,7 +1,7 @@
 * Neo4j - NoSQL - Graphical database for java platform
 * good in dynamic relation ship 
 * more focus in entity relationship
-* it is implemented in Java
+* it is implemented in Java ans Scala. to run Neo4j Database need JVM..
 
 **The following are some more use cases:**
 
