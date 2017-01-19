@@ -1,6 +1,7 @@
-* Neo4j - NoSQL for java platform
+* Neo4j - NoSQL - Graphical database for java platform
 * good in dynamic relation ship 
 * more focus in entity relationship
+* it is implemented in Java
 
 **The following are some more use cases:**
 
