@@ -16,7 +16,7 @@
 
 1. shell
 2. REST
-3. browser
+3. browser & webadmin
 4. Java-Jdbc
 
 
