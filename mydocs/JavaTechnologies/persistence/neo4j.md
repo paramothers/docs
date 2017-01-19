@@ -2,6 +2,7 @@
 * good in dynamic relation ship 
 * more focus in entity relationship
 * it is implemented in Java ans Scala. to run Neo4j Database need JVM..
+* minimum JVM 7 need.
 
 **The following are some more use cases:**
 
