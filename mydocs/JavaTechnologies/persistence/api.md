@@ -17,6 +17,8 @@ Several REST API
 1. GraphDatabaseFactory
 2. GraphDatabaseBuilder
 3. GraphDatabaseService
+4. Transaction
+5. Node
 
 
 
