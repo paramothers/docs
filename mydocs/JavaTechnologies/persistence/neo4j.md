@@ -14,8 +14,6 @@
 
 • Public transport links and road maps
 
-
-
 **Neo4j client**
 
 1. shell
