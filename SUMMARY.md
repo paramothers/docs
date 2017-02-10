@@ -24,7 +24,7 @@
     * [Maven Study](mydocs/JavaTechnologies/java build/mavenstudy.md)
     * [Gradle ](mydocs/JavaTechnologies/java build/gradle.md)
       * tst
-    * [Gradle Command Line option](mydocs/JavaTechnologies/java build/gradleCommandlineOptions.md)
+      * [Gradle Command Line option](mydocs/JavaTechnologies/java build/gradleCommandlineOptions.md)
     * [Gradle Study](mydocs/JavaTechnologies/java build/antstudy.md)
   * [Persistence](mydocs/JavaTechnologies/persistence/jdbcapi.md)
     * [JPA](mydocs/JavaTechnologies/persistence/jpa.md)
@@ -51,4 +51,6 @@
 * [IDE study](mydocs/ide/CodenvyStudy.md)
   * [Intellij IDEA](mydocs/ide/IDEA Study.md)
 * [Appendix A \( My Profile \)](mydocs/Resume.md)
+
+
 
