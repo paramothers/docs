@@ -1,6 +1,4 @@
-```
 
-```
 
 | Simple API | Concurrent Java API |
 | :--- | :--- |
