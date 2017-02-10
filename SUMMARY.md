@@ -23,7 +23,6 @@
       * [Gradle API](mydocs/JavaTechnologies/java build/gradleAPI.md)
       * [Gradle Command Line option](mydocs/JavaTechnologies/java build/gradleCommandlineOptions.md)
     * [Maven Study](mydocs/JavaTechnologies/java build/mavenstudy.md)
-    * [Gradle Study](mydocs/JavaTechnologies/java build/antstudy.md)
   * [Persistence](mydocs/JavaTechnologies/persistence/jdbcapi.md)
     * [JPA](mydocs/JavaTechnologies/persistence/jpa.md)
     * [MyBatis](mydocs/JavaTechnologies/persistence/mybatis.md)
