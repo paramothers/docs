@@ -19,12 +19,13 @@
     * [Spring 4.2](mydocs/JavaTechnologies/annotions/SpringAnnotation.md)
   * Java Build
     * [Gradle Study](mydocs/JavaTechnologies/java build/gradlesstudy.md)
-    * [Gradle Plugin List](mydocs/JavaTechnologies/java build/gradlePluginList.md)
-    * [Gradle API](mydocs/JavaTechnologies/java build/gradleAPI.md)
-    * [Maven Study](mydocs/JavaTechnologies/java build/mavenstudy.md)
-    * [Gradle ](mydocs/JavaTechnologies/java build/gradle.md)
-      * tst
+      * [Gradle Plugin List](mydocs/JavaTechnologies/java build/gradlePluginList.md)
+      * [Gradle API](mydocs/JavaTechnologies/java build/gradleAPI.md)
       * [Gradle Command Line option](mydocs/JavaTechnologies/java build/gradleCommandlineOptions.md)
+      
+    * [Maven Study](mydocs/JavaTechnologies/java build/mavenstudy.md)
+    * [Gradle ](mydocs/JavaTechnologies/java build/gradle.md)     
+    
     * [Gradle Study](mydocs/JavaTechnologies/java build/antstudy.md)
   * [Persistence](mydocs/JavaTechnologies/persistence/jdbcapi.md)
     * [JPA](mydocs/JavaTechnologies/persistence/jpa.md)
