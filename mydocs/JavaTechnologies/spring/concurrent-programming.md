@@ -4,16 +4,14 @@ This is new API since Java 5 onwards for easy thread programming.
 
 | Simple API | Concurrent Java API |
 | :--- | :--- |
-| Thread  |  |
+| Thread |  |
 | Runnable |  |
 |  |  |
 |  |  |
 |  |  |
 |  |  |
 
-```markdown
-1. Thread\n Runnable
-```
+
 
 
 
