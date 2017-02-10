@@ -12,7 +12,7 @@ This is new API since Java 5 onwards for easy thread programming.
 |  |  |
 
 ```markdown
-1. Thread <br />
+1. Thread\
 2. Runnable
 ```
 
