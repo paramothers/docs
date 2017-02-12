@@ -2,8 +2,8 @@
 
 * Thread
 * Runnable
-* ThreadGroup
 * Thread.State
+
 * Thread.UncaughtExceptionHandler
 
 
