@@ -1,13 +1,14 @@
 
 
 * 
-* Thread.State
-* Thread.UncaughtExceptionHandler
+* 
+* 
 * 
 
 | Thread API | Concurrent Programming API |
 | :--- | :--- |
-| Thread <br> Runnable  |   TimeUnit |
+| Thread <br> Runnable <br> Thread.State <br> Thread.UncaughtExceptionHandler
+ |   TimeUnit |
 
 
 
