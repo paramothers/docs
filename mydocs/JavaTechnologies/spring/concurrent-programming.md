@@ -8,6 +8,7 @@ In Java, we cannot change either Thread id or Thread state by programming.
 * Thread
 * Runnable
 * Thread.State
+* Thread.UncaughtExceptionHandler
 * TimeUnit
 
 
